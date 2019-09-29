@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>World Migration</title>
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  <script src="https://kit.fontawesome.com/234c8d2765.js"></script>
+  <link rel="stylesheet" type="text/css" href="../static/css/style.css">
+  <link href="" rel="icon" type="image/x-icon" />
+
+</head>
+  <body>
+    <div class="container-fluid">
+      <div class="jumbotron text-center mt-3" style="background-color:#8ae9e0; color:#FFFFFF;">
+        <h1 class="display-4 font-weight-bold mb-4">
+          <span class="fas fa-globe-americas fa-fw fa-lg" style="color:#1a4f98"></span>World Migration Statistics</h1>
+        <!-- <p><a href="/scrape" class="font-weight-bold btn btn-primary bg-info border-info btn-lg" role="button">
+          <span class="font-weight-normal fab fa-reddit-alien fa-fw fa-lg" style="color:#84d5c6"></span> Scrape New Data</a>
+        </p> -->
+      </div>
+      <!-- <h3 class="mb-3 text-center font-weight-bold">Random Mars News</h3> -->
+      <h3>{{mars.last_title}}</h3>
+      <p class="text-justify">{{mars.last_p}} <a  href="{{mars.link_news}}" target="_blank">Click here to see more.</a></p>      
+      <div class="row justify-content-between mb-3 mt-2">
+        <div class="col-lg-8">
+          <h3>Featured Mars Image</h3>
+          <img class="mw-100 float-left mb-4" src="{{ mars.featured_image_url }}" alt="Mars">
+        </div>
+        <div class="col-lg-4">
+          <div class="mt-3" style="border: #fb8992 1px solid">
+            <h4 class="m-3"><a style="color:#212529;" href="{{ mars.mars_weather_url}}" alt="Mars Wheather" target="_blank">Current Weather on Mars</a></h4>
+            <p class="text-justify m-3">{{ mars.mars_weather}}</p>
+          </div>
+          <div class="text-left mt-4" >
+              <h4><a style="color:#212529;" href="{{ mars.mars_facts_url}}" alt="Mars Facts" target="_blank">Mars Facts</a></h4>
+              {{ mars.html_table | safe }}
+          </div>
+        </div>  
+      </div>
+      <hr style="background-color:#fb8992">
+      <div class="container">
+        <h3 class="text-center mt-4"><a style="color:#212529;" href="{{ mars.mars_hemispheres_url }}" alt="Mars Hemispheres" target="_blank">Mars Hemispheres</a></h3>
+        <hr>
+        <div class="row justify-content-between">
+            {% for item in mars.hemisphere_image_urls %}
+            <div class="col-lg-6 col-12">
+              <div class="img-thumbnail mb-4 rounded">
+                  <img class="w-100" src="{{item['img_url']}}"  alt="{{item['title']}}">
+                  <h4 class="m-3">{{item['title']}}</h4>
+              </div>
+            </div>
+            {% endfor %}
+          </div>
+        </div>  
+    </div>
+  </body>
+</html>
