@@ -14,7 +14,6 @@ entrypoints==0.3
 Flask==1.1.1
 Flask-PyMongo==2.3.0
 gunicorn==19.9.0
-helloworld==1.0
 idna==2.8
 ipykernel==5.1.2
 ipython==7.7.0
