@@ -3,7 +3,6 @@
 
 # # <h1 style="color: purple;">Step 1 - Scraping</h1>
 
-# ### NASA Mars News
 
 # In[1]:
 
@@ -27,9 +26,6 @@ def scrape():
     browser = init_browser()
     json_data = {}
 
-    # Scrape the NASA Mars News Site here (https://mars.nasa.gov/news/?page=0&per_page=40&order=publish_date+desc%2Ccreated_at+desc&search=&category=19%2C165%2C184%2C204&blank_scope=Latest)
-    # and collect the LATEST News TITLE and PARAGRAPH Text. Assign the text to variables that you can reference later.
-    # Example:
 
     url = "https://mars.nasa.gov/news/"
     browser.visit(url)
