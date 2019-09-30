@@ -6,15 +6,7 @@ from dbconfig import dbname, dbuser, psswd, host, parameters
 
 app = Flask(__name__)
 
-# Use flask_pymongo to set up mongo connection
-# app.config["MONGO_URI"] = "mongodb://localhost:27017/mars_app"
-# mongo = PyMongo(app)
-
-# Or set inline
-
-# mongodb+srv://mongorootuser:<password>@cluster0-mcbfw.mongodb.net/test?retryWrites=true&w=majority
 connection_string ='mongodb+srv://' + dbuser + ':' + psswd + host + '/' + dbname + "?" + parameters
-# connection_string ='mongodb+srv://' + "mongorootuser" + ':' + "7cU7KqmwItQlBJi7" + "@cluster0-mcbfw.mongodb.net" + '/' + "scrapeweb" + "?" + 'retryWrites=true&w=majority' 
   
 mongo = PyMongo(app, uri=connection_string)
 
