@@ -1,7 +1,7 @@
 # import dependencies
 from flask import Flask, render_template, redirect
 from flask_pymongo import PyMongo
-import scrape_mars
+import scrape_world_migration
 from dbconfig import dbname, dbuser, psswd, host, parameters
 
 app = Flask(__name__)
