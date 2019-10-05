@@ -1,7 +1,6 @@
 var top10countries = [
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -12,7 +11,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -23,7 +21,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -34,7 +31,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -45,7 +41,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -56,7 +51,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -67,7 +61,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -78,7 +71,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -89,7 +81,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -100,7 +91,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -111,7 +101,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -122,7 +111,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -133,7 +121,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -144,7 +131,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -155,7 +141,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -166,7 +151,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -177,7 +161,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -188,7 +171,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -199,7 +181,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -210,7 +191,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -221,7 +201,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -232,7 +211,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -243,7 +221,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -254,7 +231,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -265,7 +241,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -276,7 +251,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -287,7 +261,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -298,7 +271,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -309,7 +281,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -320,7 +291,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -331,7 +301,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -342,7 +311,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -353,7 +321,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -364,7 +331,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -375,381 +341,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
-    "country": "Japan",
-    "devname": "All",
-    "lat": 36,
-    "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
-    "year": 1980,
-    "value": 701
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Eastern Asia",
-    "country": "Japan",
-    "devname": "All",
-    "lat": 36,
-    "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
-    "year": 1981,
-    "value": 756
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Eastern Asia",
-    "country": "Japan",
-    "devname": "All",
-    "lat": 36,
-    "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
-    "year": 1982,
-    "value": 598
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Eastern Asia",
-    "country": "Japan",
-    "devname": "All",
-    "lat": 36,
-    "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
-    "year": 1983,
-    "value": 309
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Eastern Asia",
-    "country": "Japan",
-    "devname": "All",
-    "lat": 36,
-    "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
-    "year": 1984,
-    "value": 246
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Eastern Asia",
-    "country": "Japan",
-    "devname": "All",
-    "lat": 36,
-    "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
-    "year": 1985,
-    "value": 198
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Eastern Asia",
-    "country": "Japan",
-    "devname": "All",
-    "lat": 36,
-    "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
-    "year": 1986,
-    "value": 248
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Eastern Asia",
-    "country": "Japan",
-    "devname": "All",
-    "lat": 36,
-    "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
-    "year": 1987,
-    "value": 422
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Eastern Asia",
-    "country": "Japan",
-    "devname": "All",
-    "lat": 36,
-    "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
-    "year": 1988,
-    "value": 324
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Eastern Asia",
-    "country": "Japan",
-    "devname": "All",
-    "lat": 36,
-    "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
-    "year": 1989,
-    "value": 494
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Eastern Asia",
-    "country": "Japan",
-    "devname": "All",
-    "lat": 36,
-    "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
-    "year": 1990,
-    "value": 379
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Eastern Asia",
-    "country": "Japan",
-    "devname": "All",
-    "lat": 36,
-    "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
-    "year": 1991,
-    "value": 506
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Eastern Asia",
-    "country": "Japan",
-    "devname": "All",
-    "lat": 36,
-    "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
-    "year": 1992,
-    "value": 605
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Eastern Asia",
-    "country": "Japan",
-    "devname": "All",
-    "lat": 36,
-    "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
-    "year": 1993,
-    "value": 907
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Eastern Asia",
-    "country": "Japan",
-    "devname": "All",
-    "lat": 36,
-    "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
-    "year": 1994,
-    "value": 956
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Eastern Asia",
-    "country": "Japan",
-    "devname": "All",
-    "lat": 36,
-    "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
-    "year": 1995,
-    "value": 826
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Eastern Asia",
-    "country": "Japan",
-    "devname": "All",
-    "lat": 36,
-    "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
-    "year": 1996,
-    "value": 994
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Eastern Asia",
-    "country": "Japan",
-    "devname": "All",
-    "lat": 36,
-    "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
-    "year": 1997,
-    "value": 924
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Eastern Asia",
-    "country": "Japan",
-    "devname": "All",
-    "lat": 36,
-    "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
-    "year": 1998,
-    "value": 897
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Eastern Asia",
-    "country": "Japan",
-    "devname": "All",
-    "lat": 36,
-    "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
-    "year": 1999,
-    "value": 1083
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Eastern Asia",
-    "country": "Japan",
-    "devname": "All",
-    "lat": 36,
-    "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
-    "year": 2000,
-    "value": 1010
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Eastern Asia",
-    "country": "Japan",
-    "devname": "All",
-    "lat": 36,
-    "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
-    "year": 2001,
-    "value": 1092
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Eastern Asia",
-    "country": "Japan",
-    "devname": "All",
-    "lat": 36,
-    "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
-    "year": 2002,
-    "value": 806
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Eastern Asia",
-    "country": "Japan",
-    "devname": "All",
-    "lat": 36,
-    "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
-    "year": 2003,
-    "value": 817
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Eastern Asia",
-    "country": "Japan",
-    "devname": "All",
-    "lat": 36,
-    "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
-    "year": 2004,
-    "value": 973
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Eastern Asia",
-    "country": "Japan",
-    "devname": "All",
-    "lat": 36,
-    "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
-    "year": 2005,
-    "value": 1067
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Eastern Asia",
-    "country": "Japan",
-    "devname": "All",
-    "lat": 36,
-    "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
-    "year": 2006,
-    "value": 1212
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Eastern Asia",
-    "country": "Japan",
-    "devname": "All",
-    "lat": 36,
-    "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
-    "year": 2007,
-    "value": 1250
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Eastern Asia",
-    "country": "Japan",
-    "devname": "All",
-    "lat": 36,
-    "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
-    "year": 2008,
-    "value": 1284
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Eastern Asia",
-    "country": "Japan",
-    "devname": "All",
-    "lat": 36,
-    "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
-    "year": 2009,
-    "value": 1194
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Eastern Asia",
-    "country": "Japan",
-    "devname": "All",
-    "lat": 36,
-    "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
-    "year": 2010,
-    "value": 1168
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Eastern Asia",
-    "country": "Japan",
-    "devname": "All",
-    "lat": 36,
-    "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
-    "year": 2011,
-    "value": 1265
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Eastern Asia",
-    "country": "Japan",
-    "devname": "All",
-    "lat": 36,
-    "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
-    "year": 2012,
-    "value": 1214
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Eastern Asia",
-    "country": "Japan",
-    "devname": "All",
-    "lat": 36,
-    "lon": 138,
-    "flag": "https://restcountries.eu/data/jpn.svg",
-    "year": 2013,
-    "value": 982
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -760,7 +351,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -771,7 +361,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -782,7 +371,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -793,7 +381,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -804,7 +391,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -815,7 +401,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -826,7 +411,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -837,7 +421,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -848,7 +431,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -859,7 +441,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -870,7 +451,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -881,7 +461,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -892,7 +471,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -903,7 +481,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -914,7 +491,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -925,7 +501,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -936,7 +511,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -947,7 +521,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -958,7 +531,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -969,7 +541,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -980,7 +551,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -991,7 +561,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -1002,7 +571,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -1013,7 +581,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -1024,7 +591,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -1035,7 +601,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -1046,7 +611,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -1057,7 +621,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -1068,7 +631,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -1079,7 +641,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -1090,7 +651,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -1101,7 +661,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -1112,7 +671,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -1123,7 +681,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1134,7 +691,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1145,7 +701,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1156,7 +711,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1167,7 +721,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1178,7 +731,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1189,7 +741,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1200,7 +751,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1211,7 +761,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1222,7 +771,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1233,7 +781,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1244,7 +791,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1255,7 +801,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1266,7 +811,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1277,7 +821,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1288,7 +831,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1299,7 +841,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1310,7 +851,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1321,7 +861,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1332,7 +871,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1343,7 +881,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1354,7 +891,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1365,7 +901,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1376,7 +911,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1387,7 +921,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1398,7 +931,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1409,7 +941,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1420,7 +951,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1431,7 +961,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1442,7 +971,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1453,7 +981,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1464,7 +991,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1475,7 +1001,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1486,7 +1011,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1497,381 +1021,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
-    "country": "Viet Nam",
-    "devname": "All",
-    "lat": 16.16666666,
-    "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
-    "year": 1980,
-    "value": 1191
-  },
-  {
-    "areaname": "Asia",
-    "regname": "South-Eastern Asia",
-    "country": "Viet Nam",
-    "devname": "All",
-    "lat": 16.16666666,
-    "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
-    "year": 1981,
-    "value": 1829
-  },
-  {
-    "areaname": "Asia",
-    "regname": "South-Eastern Asia",
-    "country": "Viet Nam",
-    "devname": "All",
-    "lat": 16.16666666,
-    "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
-    "year": 1982,
-    "value": 2162
-  },
-  {
-    "areaname": "Asia",
-    "regname": "South-Eastern Asia",
-    "country": "Viet Nam",
-    "devname": "All",
-    "lat": 16.16666666,
-    "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
-    "year": 1983,
-    "value": 3404
-  },
-  {
-    "areaname": "Asia",
-    "regname": "South-Eastern Asia",
-    "country": "Viet Nam",
-    "devname": "All",
-    "lat": 16.16666666,
-    "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
-    "year": 1984,
-    "value": 7583
-  },
-  {
-    "areaname": "Asia",
-    "regname": "South-Eastern Asia",
-    "country": "Viet Nam",
-    "devname": "All",
-    "lat": 16.16666666,
-    "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
-    "year": 1985,
-    "value": 5907
-  },
-  {
-    "areaname": "Asia",
-    "regname": "South-Eastern Asia",
-    "country": "Viet Nam",
-    "devname": "All",
-    "lat": 16.16666666,
-    "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
-    "year": 1986,
-    "value": 2741
-  },
-  {
-    "areaname": "Asia",
-    "regname": "South-Eastern Asia",
-    "country": "Viet Nam",
-    "devname": "All",
-    "lat": 16.16666666,
-    "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
-    "year": 1987,
-    "value": 1406
-  },
-  {
-    "areaname": "Asia",
-    "regname": "South-Eastern Asia",
-    "country": "Viet Nam",
-    "devname": "All",
-    "lat": 16.16666666,
-    "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
-    "year": 1988,
-    "value": 1411
-  },
-  {
-    "areaname": "Asia",
-    "regname": "South-Eastern Asia",
-    "country": "Viet Nam",
-    "devname": "All",
-    "lat": 16.16666666,
-    "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
-    "year": 1989,
-    "value": 3004
-  },
-  {
-    "areaname": "Asia",
-    "regname": "South-Eastern Asia",
-    "country": "Viet Nam",
-    "devname": "All",
-    "lat": 16.16666666,
-    "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
-    "year": 1990,
-    "value": 3801
-  },
-  {
-    "areaname": "Asia",
-    "regname": "South-Eastern Asia",
-    "country": "Viet Nam",
-    "devname": "All",
-    "lat": 16.16666666,
-    "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
-    "year": 1991,
-    "value": 5870
-  },
-  {
-    "areaname": "Asia",
-    "regname": "South-Eastern Asia",
-    "country": "Viet Nam",
-    "devname": "All",
-    "lat": 16.16666666,
-    "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
-    "year": 1992,
-    "value": 5416
-  },
-  {
-    "areaname": "Asia",
-    "regname": "South-Eastern Asia",
-    "country": "Viet Nam",
-    "devname": "All",
-    "lat": 16.16666666,
-    "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
-    "year": 1993,
-    "value": 6547
-  },
-  {
-    "areaname": "Asia",
-    "regname": "South-Eastern Asia",
-    "country": "Viet Nam",
-    "devname": "All",
-    "lat": 16.16666666,
-    "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
-    "year": 1994,
-    "value": 5105
-  },
-  {
-    "areaname": "Asia",
-    "regname": "South-Eastern Asia",
-    "country": "Viet Nam",
-    "devname": "All",
-    "lat": 16.16666666,
-    "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
-    "year": 1995,
-    "value": 3723
-  },
-  {
-    "areaname": "Asia",
-    "regname": "South-Eastern Asia",
-    "country": "Viet Nam",
-    "devname": "All",
-    "lat": 16.16666666,
-    "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
-    "year": 1996,
-    "value": 2462
-  },
-  {
-    "areaname": "Asia",
-    "regname": "South-Eastern Asia",
-    "country": "Viet Nam",
-    "devname": "All",
-    "lat": 16.16666666,
-    "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
-    "year": 1997,
-    "value": 1752
-  },
-  {
-    "areaname": "Asia",
-    "regname": "South-Eastern Asia",
-    "country": "Viet Nam",
-    "devname": "All",
-    "lat": 16.16666666,
-    "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
-    "year": 1998,
-    "value": 1631
-  },
-  {
-    "areaname": "Asia",
-    "regname": "South-Eastern Asia",
-    "country": "Viet Nam",
-    "devname": "All",
-    "lat": 16.16666666,
-    "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
-    "year": 1999,
-    "value": 1419
-  },
-  {
-    "areaname": "Asia",
-    "regname": "South-Eastern Asia",
-    "country": "Viet Nam",
-    "devname": "All",
-    "lat": 16.16666666,
-    "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
-    "year": 2000,
-    "value": 1803
-  },
-  {
-    "areaname": "Asia",
-    "regname": "South-Eastern Asia",
-    "country": "Viet Nam",
-    "devname": "All",
-    "lat": 16.16666666,
-    "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
-    "year": 2001,
-    "value": 2117
-  },
-  {
-    "areaname": "Asia",
-    "regname": "South-Eastern Asia",
-    "country": "Viet Nam",
-    "devname": "All",
-    "lat": 16.16666666,
-    "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
-    "year": 2002,
-    "value": 2291
-  },
-  {
-    "areaname": "Asia",
-    "regname": "South-Eastern Asia",
-    "country": "Viet Nam",
-    "devname": "All",
-    "lat": 16.16666666,
-    "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
-    "year": 2003,
-    "value": 1713
-  },
-  {
-    "areaname": "Asia",
-    "regname": "South-Eastern Asia",
-    "country": "Viet Nam",
-    "devname": "All",
-    "lat": 16.16666666,
-    "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
-    "year": 2004,
-    "value": 1816
-  },
-  {
-    "areaname": "Asia",
-    "regname": "South-Eastern Asia",
-    "country": "Viet Nam",
-    "devname": "All",
-    "lat": 16.16666666,
-    "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
-    "year": 2005,
-    "value": 1852
-  },
-  {
-    "areaname": "Asia",
-    "regname": "South-Eastern Asia",
-    "country": "Viet Nam",
-    "devname": "All",
-    "lat": 16.16666666,
-    "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
-    "year": 2006,
-    "value": 3153
-  },
-  {
-    "areaname": "Asia",
-    "regname": "South-Eastern Asia",
-    "country": "Viet Nam",
-    "devname": "All",
-    "lat": 16.16666666,
-    "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
-    "year": 2007,
-    "value": 2574
-  },
-  {
-    "areaname": "Asia",
-    "regname": "South-Eastern Asia",
-    "country": "Viet Nam",
-    "devname": "All",
-    "lat": 16.16666666,
-    "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
-    "year": 2008,
-    "value": 1784
-  },
-  {
-    "areaname": "Asia",
-    "regname": "South-Eastern Asia",
-    "country": "Viet Nam",
-    "devname": "All",
-    "lat": 16.16666666,
-    "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
-    "year": 2009,
-    "value": 2171
-  },
-  {
-    "areaname": "Asia",
-    "regname": "South-Eastern Asia",
-    "country": "Viet Nam",
-    "devname": "All",
-    "lat": 16.16666666,
-    "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
-    "year": 2010,
-    "value": 1942
-  },
-  {
-    "areaname": "Asia",
-    "regname": "South-Eastern Asia",
-    "country": "Viet Nam",
-    "devname": "All",
-    "lat": 16.16666666,
-    "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
-    "year": 2011,
-    "value": 1723
-  },
-  {
-    "areaname": "Asia",
-    "regname": "South-Eastern Asia",
-    "country": "Viet Nam",
-    "devname": "All",
-    "lat": 16.16666666,
-    "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
-    "year": 2012,
-    "value": 1731
-  },
-  {
-    "areaname": "Asia",
-    "regname": "South-Eastern Asia",
-    "country": "Viet Nam",
-    "devname": "All",
-    "lat": 16.16666666,
-    "lon": 107.8333333,
-    "flag": "https://restcountries.eu/data/vnm.svg",
-    "year": 2013,
-    "value": 2112
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -1882,7 +1031,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -1893,7 +1041,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -1904,7 +1051,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -1915,7 +1061,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -1926,7 +1071,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -1937,7 +1081,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -1948,7 +1091,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -1959,7 +1101,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -1970,7 +1111,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -1981,7 +1121,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -1992,7 +1131,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -2003,7 +1141,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -2014,7 +1151,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -2025,7 +1161,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -2036,7 +1171,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -2047,7 +1181,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -2058,7 +1191,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -2069,7 +1201,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -2080,7 +1211,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -2091,7 +1221,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -2102,7 +1231,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -2113,7 +1241,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -2124,7 +1251,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -2135,7 +1261,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -2146,7 +1271,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -2157,7 +1281,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -2168,7 +1291,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -2179,7 +1301,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -2190,7 +1311,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -2201,7 +1321,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -2212,7 +1331,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -2223,7 +1341,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -2234,7 +1351,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -2245,7 +1361,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2256,7 +1371,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2267,7 +1381,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2278,7 +1391,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2289,7 +1401,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2300,7 +1411,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2311,7 +1421,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2322,7 +1431,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2333,7 +1441,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2344,7 +1451,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2355,7 +1461,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2366,7 +1471,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2377,7 +1481,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2388,7 +1491,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2399,7 +1501,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2410,7 +1511,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2421,7 +1521,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2432,7 +1531,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2443,7 +1541,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2454,7 +1551,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2465,7 +1561,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2476,7 +1571,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2487,7 +1581,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2498,7 +1591,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2509,7 +1601,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2520,7 +1611,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2531,7 +1621,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2542,7 +1631,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2553,7 +1641,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2564,7 +1651,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2575,7 +1661,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2586,7 +1671,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2597,7 +1681,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2608,7 +1691,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2619,7 +1701,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2630,7 +1711,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2641,7 +1721,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2652,7 +1731,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2663,7 +1741,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2674,7 +1751,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2685,7 +1761,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2696,7 +1771,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2707,7 +1781,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2718,7 +1791,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2729,7 +1801,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2740,7 +1811,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2751,7 +1821,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2762,7 +1831,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2773,7 +1841,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2784,7 +1851,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2795,7 +1861,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2806,7 +1871,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2817,7 +1881,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2828,7 +1891,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2839,7 +1901,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2850,7 +1911,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2861,7 +1921,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2872,7 +1931,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2883,7 +1941,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2894,7 +1951,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2905,7 +1961,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2916,7 +1971,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2927,7 +1981,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2938,7 +1991,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2949,7 +2001,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2960,7 +2011,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2971,7 +2021,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2982,7 +2031,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2993,7 +2041,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -3004,7 +2051,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -3015,7 +2061,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -3026,7 +2071,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -3037,7 +2081,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -3048,7 +2091,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -3059,7 +2101,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -3070,7 +2111,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -3081,7 +2121,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -3092,7 +2131,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -3103,7 +2141,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -3114,7 +2151,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -3125,7 +2161,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -3136,7 +2171,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -3147,7 +2181,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -3158,7 +2191,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -3169,7 +2201,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -3180,7 +2211,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -3191,7 +2221,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -3202,7 +2231,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -3213,7 +2241,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -3224,7 +2251,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -3235,7 +2261,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -3246,7 +2271,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -3257,7 +2281,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -3268,7 +2291,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -3279,7 +2301,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -3290,7 +2311,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -3301,7 +2321,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -3312,7 +2331,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -3323,7 +2341,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -3334,7 +2351,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -3345,7 +2361,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -3356,7 +2371,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -3366,382 +2380,7 @@ var top10countries = [
     "value": 2394
   },
   {
-    "areaname": "Asia",
-    "regname": "Western Asia",
-    "country": "Lebanon",
-    "devname": "All",
-    "lat": 33.83333333,
-    "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
-    "year": 1980,
-    "value": 1409
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Western Asia",
-    "country": "Lebanon",
-    "devname": "All",
-    "lat": 33.83333333,
-    "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
-    "year": 1981,
-    "value": 1119
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Western Asia",
-    "country": "Lebanon",
-    "devname": "All",
-    "lat": 33.83333333,
-    "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
-    "year": 1982,
-    "value": 1159
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Western Asia",
-    "country": "Lebanon",
-    "devname": "All",
-    "lat": 33.83333333,
-    "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
-    "year": 1983,
-    "value": 789
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Western Asia",
-    "country": "Lebanon",
-    "devname": "All",
-    "lat": 33.83333333,
-    "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
-    "year": 1984,
-    "value": 1253
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Western Asia",
-    "country": "Lebanon",
-    "devname": "All",
-    "lat": 33.83333333,
-    "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
-    "year": 1985,
-    "value": 1683
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Western Asia",
-    "country": "Lebanon",
-    "devname": "All",
-    "lat": 33.83333333,
-    "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
-    "year": 1986,
-    "value": 2576
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Western Asia",
-    "country": "Lebanon",
-    "devname": "All",
-    "lat": 33.83333333,
-    "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
-    "year": 1987,
-    "value": 3803
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Western Asia",
-    "country": "Lebanon",
-    "devname": "All",
-    "lat": 33.83333333,
-    "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
-    "year": 1988,
-    "value": 3970
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Western Asia",
-    "country": "Lebanon",
-    "devname": "All",
-    "lat": 33.83333333,
-    "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
-    "year": 1989,
-    "value": 7157
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Western Asia",
-    "country": "Lebanon",
-    "devname": "All",
-    "lat": 33.83333333,
-    "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
-    "year": 1990,
-    "value": 13568
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Western Asia",
-    "country": "Lebanon",
-    "devname": "All",
-    "lat": 33.83333333,
-    "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
-    "year": 1991,
-    "value": 12567
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Western Asia",
-    "country": "Lebanon",
-    "devname": "All",
-    "lat": 33.83333333,
-    "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
-    "year": 1992,
-    "value": 6915
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Western Asia",
-    "country": "Lebanon",
-    "devname": "All",
-    "lat": 33.83333333,
-    "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
-    "year": 1993,
-    "value": 4902
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Western Asia",
-    "country": "Lebanon",
-    "devname": "All",
-    "lat": 33.83333333,
-    "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
-    "year": 1994,
-    "value": 2751
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Western Asia",
-    "country": "Lebanon",
-    "devname": "All",
-    "lat": 33.83333333,
-    "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
-    "year": 1995,
-    "value": 2228
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Western Asia",
-    "country": "Lebanon",
-    "devname": "All",
-    "lat": 33.83333333,
-    "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
-    "year": 1996,
-    "value": 1919
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Western Asia",
-    "country": "Lebanon",
-    "devname": "All",
-    "lat": 33.83333333,
-    "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
-    "year": 1997,
-    "value": 1472
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Western Asia",
-    "country": "Lebanon",
-    "devname": "All",
-    "lat": 33.83333333,
-    "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
-    "year": 1998,
-    "value": 1329
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Western Asia",
-    "country": "Lebanon",
-    "devname": "All",
-    "lat": 33.83333333,
-    "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
-    "year": 1999,
-    "value": 1594
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Western Asia",
-    "country": "Lebanon",
-    "devname": "All",
-    "lat": 33.83333333,
-    "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
-    "year": 2000,
-    "value": 1903
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Western Asia",
-    "country": "Lebanon",
-    "devname": "All",
-    "lat": 33.83333333,
-    "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
-    "year": 2001,
-    "value": 2578
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Western Asia",
-    "country": "Lebanon",
-    "devname": "All",
-    "lat": 33.83333333,
-    "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
-    "year": 2002,
-    "value": 2332
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Western Asia",
-    "country": "Lebanon",
-    "devname": "All",
-    "lat": 33.83333333,
-    "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
-    "year": 2003,
-    "value": 3179
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Western Asia",
-    "country": "Lebanon",
-    "devname": "All",
-    "lat": 33.83333333,
-    "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
-    "year": 2004,
-    "value": 3293
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Western Asia",
-    "country": "Lebanon",
-    "devname": "All",
-    "lat": 33.83333333,
-    "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
-    "year": 2005,
-    "value": 3709
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Western Asia",
-    "country": "Lebanon",
-    "devname": "All",
-    "lat": 33.83333333,
-    "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
-    "year": 2006,
-    "value": 3802
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Western Asia",
-    "country": "Lebanon",
-    "devname": "All",
-    "lat": 33.83333333,
-    "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
-    "year": 2007,
-    "value": 3467
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Western Asia",
-    "country": "Lebanon",
-    "devname": "All",
-    "lat": 33.83333333,
-    "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
-    "year": 2008,
-    "value": 3566
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Western Asia",
-    "country": "Lebanon",
-    "devname": "All",
-    "lat": 33.83333333,
-    "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
-    "year": 2009,
-    "value": 3077
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Western Asia",
-    "country": "Lebanon",
-    "devname": "All",
-    "lat": 33.83333333,
-    "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
-    "year": 2010,
-    "value": 3432
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Western Asia",
-    "country": "Lebanon",
-    "devname": "All",
-    "lat": 33.83333333,
-    "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
-    "year": 2011,
-    "value": 3072
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Western Asia",
-    "country": "Lebanon",
-    "devname": "All",
-    "lat": 33.83333333,
-    "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
-    "year": 2012,
-    "value": 1614
-  },
-  {
-    "areaname": "Asia",
-    "regname": "Western Asia",
-    "country": "Lebanon",
-    "devname": "All",
-    "lat": 33.83333333,
-    "lon": 35.83333333,
-    "flag": "https://restcountries.eu/data/lbn.svg",
-    "year": 2013,
-    "value": 2172
-  },
-  {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3752,7 +2391,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3763,7 +2401,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3774,7 +2411,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3785,7 +2421,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3796,7 +2431,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3807,7 +2441,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3818,7 +2451,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3829,7 +2461,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3840,7 +2471,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3851,7 +2481,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3862,7 +2491,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3873,7 +2501,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3884,7 +2511,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3895,7 +2521,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3906,7 +2531,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3917,7 +2541,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3928,7 +2551,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3939,7 +2561,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3950,7 +2571,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3961,7 +2581,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3972,7 +2591,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3983,7 +2601,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3994,7 +2611,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -4005,7 +2621,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -4016,7 +2631,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -4027,7 +2641,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -4038,7 +2651,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -4049,7 +2661,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -4060,7 +2671,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -4071,7 +2681,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -4082,7 +2691,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -4093,7 +2701,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -4104,7 +2711,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -4115,1129 +2721,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Romania",
-    "devname": "All",
-    "lat": 46,
-    "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
-    "year": 1980,
-    "value": 375
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Romania",
-    "devname": "All",
-    "lat": 46,
-    "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
-    "year": 1981,
-    "value": 438
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Romania",
-    "devname": "All",
-    "lat": 46,
-    "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
-    "year": 1982,
-    "value": 583
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Romania",
-    "devname": "All",
-    "lat": 46,
-    "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
-    "year": 1983,
-    "value": 543
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Romania",
-    "devname": "All",
-    "lat": 46,
-    "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
-    "year": 1984,
-    "value": 524
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Romania",
-    "devname": "All",
-    "lat": 46,
-    "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
-    "year": 1985,
-    "value": 604
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Romania",
-    "devname": "All",
-    "lat": 46,
-    "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
-    "year": 1986,
-    "value": 656
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Romania",
-    "devname": "All",
-    "lat": 46,
-    "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
-    "year": 1987,
-    "value": 1202
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Romania",
-    "devname": "All",
-    "lat": 46,
-    "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
-    "year": 1988,
-    "value": 1106
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Romania",
-    "devname": "All",
-    "lat": 46,
-    "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
-    "year": 1989,
-    "value": 1582
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Romania",
-    "devname": "All",
-    "lat": 46,
-    "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
-    "year": 1990,
-    "value": 2252
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Romania",
-    "devname": "All",
-    "lat": 46,
-    "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
-    "year": 1991,
-    "value": 2337
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Romania",
-    "devname": "All",
-    "lat": 46,
-    "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
-    "year": 1992,
-    "value": 3147
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Romania",
-    "devname": "All",
-    "lat": 46,
-    "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
-    "year": 1993,
-    "value": 3676
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Romania",
-    "devname": "All",
-    "lat": 46,
-    "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
-    "year": 1994,
-    "value": 3495
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Romania",
-    "devname": "All",
-    "lat": 46,
-    "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
-    "year": 1995,
-    "value": 4279
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Romania",
-    "devname": "All",
-    "lat": 46,
-    "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
-    "year": 1996,
-    "value": 3909
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Romania",
-    "devname": "All",
-    "lat": 46,
-    "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
-    "year": 1997,
-    "value": 3993
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Romania",
-    "devname": "All",
-    "lat": 46,
-    "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
-    "year": 1998,
-    "value": 3033
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Romania",
-    "devname": "All",
-    "lat": 46,
-    "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
-    "year": 1999,
-    "value": 3538
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Romania",
-    "devname": "All",
-    "lat": 46,
-    "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
-    "year": 2000,
-    "value": 4539
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Romania",
-    "devname": "All",
-    "lat": 46,
-    "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
-    "year": 2001,
-    "value": 5652
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Romania",
-    "devname": "All",
-    "lat": 46,
-    "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
-    "year": 2002,
-    "value": 5765
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Romania",
-    "devname": "All",
-    "lat": 46,
-    "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
-    "year": 2003,
-    "value": 5541
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Romania",
-    "devname": "All",
-    "lat": 46,
-    "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
-    "year": 2004,
-    "value": 5755
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Romania",
-    "devname": "All",
-    "lat": 46,
-    "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
-    "year": 2005,
-    "value": 5048
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Romania",
-    "devname": "All",
-    "lat": 46,
-    "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
-    "year": 2006,
-    "value": 4468
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Romania",
-    "devname": "All",
-    "lat": 46,
-    "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
-    "year": 2007,
-    "value": 3834
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Romania",
-    "devname": "All",
-    "lat": 46,
-    "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
-    "year": 2008,
-    "value": 2837
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Romania",
-    "devname": "All",
-    "lat": 46,
-    "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
-    "year": 2009,
-    "value": 2076
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Romania",
-    "devname": "All",
-    "lat": 46,
-    "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
-    "year": 2010,
-    "value": 1922
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Romania",
-    "devname": "All",
-    "lat": 46,
-    "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
-    "year": 2011,
-    "value": 1776
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Romania",
-    "devname": "All",
-    "lat": 46,
-    "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
-    "year": 2012,
-    "value": 1588
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Romania",
-    "devname": "All",
-    "lat": 46,
-    "lon": 25,
-    "flag": "https://restcountries.eu/data/rou.svg",
-    "year": 2013,
-    "value": 1512
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Russian Federation",
-    "devname": "All",
-    "lat": 60,
-    "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
-    "year": 1980,
-    "value": 0
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Russian Federation",
-    "devname": "All",
-    "lat": 60,
-    "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
-    "year": 1981,
-    "value": 0
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Russian Federation",
-    "devname": "All",
-    "lat": 60,
-    "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
-    "year": 1982,
-    "value": 0
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Russian Federation",
-    "devname": "All",
-    "lat": 60,
-    "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
-    "year": 1983,
-    "value": 0
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Russian Federation",
-    "devname": "All",
-    "lat": 60,
-    "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
-    "year": 1984,
-    "value": 0
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Russian Federation",
-    "devname": "All",
-    "lat": 60,
-    "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
-    "year": 1985,
-    "value": 0
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Russian Federation",
-    "devname": "All",
-    "lat": 60,
-    "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
-    "year": 1986,
-    "value": 0
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Russian Federation",
-    "devname": "All",
-    "lat": 60,
-    "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
-    "year": 1987,
-    "value": 0
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Russian Federation",
-    "devname": "All",
-    "lat": 60,
-    "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
-    "year": 1988,
-    "value": 0
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Russian Federation",
-    "devname": "All",
-    "lat": 60,
-    "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
-    "year": 1989,
-    "value": 0
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Russian Federation",
-    "devname": "All",
-    "lat": 60,
-    "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
-    "year": 1990,
-    "value": 0
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Russian Federation",
-    "devname": "All",
-    "lat": 60,
-    "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
-    "year": 1991,
-    "value": 0
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Russian Federation",
-    "devname": "All",
-    "lat": 60,
-    "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
-    "year": 1992,
-    "value": 172
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Russian Federation",
-    "devname": "All",
-    "lat": 60,
-    "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
-    "year": 1993,
-    "value": 906
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Russian Federation",
-    "devname": "All",
-    "lat": 60,
-    "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
-    "year": 1994,
-    "value": 1327
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Russian Federation",
-    "devname": "All",
-    "lat": 60,
-    "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
-    "year": 1995,
-    "value": 1819
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Russian Federation",
-    "devname": "All",
-    "lat": 60,
-    "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
-    "year": 1996,
-    "value": 2640
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Russian Federation",
-    "devname": "All",
-    "lat": 60,
-    "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
-    "year": 1997,
-    "value": 3708
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Russian Federation",
-    "devname": "All",
-    "lat": 60,
-    "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
-    "year": 1998,
-    "value": 4388
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Russian Federation",
-    "devname": "All",
-    "lat": 60,
-    "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
-    "year": 1999,
-    "value": 4053
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Russian Federation",
-    "devname": "All",
-    "lat": 60,
-    "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
-    "year": 2000,
-    "value": 3843
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Russian Federation",
-    "devname": "All",
-    "lat": 60,
-    "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
-    "year": 2001,
-    "value": 4351
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Russian Federation",
-    "devname": "All",
-    "lat": 60,
-    "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
-    "year": 2002,
-    "value": 3941
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Russian Federation",
-    "devname": "All",
-    "lat": 60,
-    "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
-    "year": 2003,
-    "value": 3718
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Russian Federation",
-    "devname": "All",
-    "lat": 60,
-    "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
-    "year": 2004,
-    "value": 3989
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Russian Federation",
-    "devname": "All",
-    "lat": 60,
-    "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
-    "year": 2005,
-    "value": 3972
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Russian Federation",
-    "devname": "All",
-    "lat": 60,
-    "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
-    "year": 2006,
-    "value": 3117
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Russian Federation",
-    "devname": "All",
-    "lat": 60,
-    "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
-    "year": 2007,
-    "value": 2983
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Russian Federation",
-    "devname": "All",
-    "lat": 60,
-    "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
-    "year": 2008,
-    "value": 2690
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Russian Federation",
-    "devname": "All",
-    "lat": 60,
-    "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
-    "year": 2009,
-    "value": 2931
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Russian Federation",
-    "devname": "All",
-    "lat": 60,
-    "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
-    "year": 2010,
-    "value": 2288
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Russian Federation",
-    "devname": "All",
-    "lat": 60,
-    "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
-    "year": 2011,
-    "value": 1963
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Russian Federation",
-    "devname": "All",
-    "lat": 60,
-    "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
-    "year": 2012,
-    "value": 2079
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Russian Federation",
-    "devname": "All",
-    "lat": 60,
-    "lon": 100,
-    "flag": "https://restcountries.eu/data/rus.svg",
-    "year": 2013,
-    "value": 2466
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Ukraine",
-    "devname": "All",
-    "lat": 49,
-    "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
-    "year": 1980,
-    "value": 0
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Ukraine",
-    "devname": "All",
-    "lat": 49,
-    "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
-    "year": 1981,
-    "value": 0
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Ukraine",
-    "devname": "All",
-    "lat": 49,
-    "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
-    "year": 1982,
-    "value": 0
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Ukraine",
-    "devname": "All",
-    "lat": 49,
-    "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
-    "year": 1983,
-    "value": 0
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Ukraine",
-    "devname": "All",
-    "lat": 49,
-    "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
-    "year": 1984,
-    "value": 0
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Ukraine",
-    "devname": "All",
-    "lat": 49,
-    "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
-    "year": 1985,
-    "value": 0
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Ukraine",
-    "devname": "All",
-    "lat": 49,
-    "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
-    "year": 1986,
-    "value": 0
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Ukraine",
-    "devname": "All",
-    "lat": 49,
-    "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
-    "year": 1987,
-    "value": 0
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Ukraine",
-    "devname": "All",
-    "lat": 49,
-    "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
-    "year": 1988,
-    "value": 0
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Ukraine",
-    "devname": "All",
-    "lat": 49,
-    "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
-    "year": 1989,
-    "value": 0
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Ukraine",
-    "devname": "All",
-    "lat": 49,
-    "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
-    "year": 1990,
-    "value": 0
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Ukraine",
-    "devname": "All",
-    "lat": 49,
-    "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
-    "year": 1991,
-    "value": 0
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Ukraine",
-    "devname": "All",
-    "lat": 49,
-    "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
-    "year": 1992,
-    "value": 103
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Ukraine",
-    "devname": "All",
-    "lat": 49,
-    "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
-    "year": 1993,
-    "value": 761
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Ukraine",
-    "devname": "All",
-    "lat": 49,
-    "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
-    "year": 1994,
-    "value": 1289
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Ukraine",
-    "devname": "All",
-    "lat": 49,
-    "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
-    "year": 1995,
-    "value": 1751
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Ukraine",
-    "devname": "All",
-    "lat": 49,
-    "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
-    "year": 1996,
-    "value": 2684
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Ukraine",
-    "devname": "All",
-    "lat": 49,
-    "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
-    "year": 1997,
-    "value": 2518
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Ukraine",
-    "devname": "All",
-    "lat": 49,
-    "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
-    "year": 1998,
-    "value": 2702
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Ukraine",
-    "devname": "All",
-    "lat": 49,
-    "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
-    "year": 1999,
-    "value": 2836
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Ukraine",
-    "devname": "All",
-    "lat": 49,
-    "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
-    "year": 2000,
-    "value": 3351
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Ukraine",
-    "devname": "All",
-    "lat": 49,
-    "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
-    "year": 2001,
-    "value": 3514
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Ukraine",
-    "devname": "All",
-    "lat": 49,
-    "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
-    "year": 2002,
-    "value": 3520
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Ukraine",
-    "devname": "All",
-    "lat": 49,
-    "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
-    "year": 2003,
-    "value": 2759
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Ukraine",
-    "devname": "All",
-    "lat": 49,
-    "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
-    "year": 2004,
-    "value": 2431
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Ukraine",
-    "devname": "All",
-    "lat": 49,
-    "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
-    "year": 2005,
-    "value": 2270
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Ukraine",
-    "devname": "All",
-    "lat": 49,
-    "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
-    "year": 2006,
-    "value": 1973
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Ukraine",
-    "devname": "All",
-    "lat": 49,
-    "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
-    "year": 2007,
-    "value": 2218
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Ukraine",
-    "devname": "All",
-    "lat": 49,
-    "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
-    "year": 2008,
-    "value": 1937
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Ukraine",
-    "devname": "All",
-    "lat": 49,
-    "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
-    "year": 2009,
-    "value": 2367
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Ukraine",
-    "devname": "All",
-    "lat": 49,
-    "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
-    "year": 2010,
-    "value": 3159
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Ukraine",
-    "devname": "All",
-    "lat": 49,
-    "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
-    "year": 2011,
-    "value": 2515
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Ukraine",
-    "devname": "All",
-    "lat": 49,
-    "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
-    "year": 2012,
-    "value": 2265
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Eastern Europe",
-    "country": "Ukraine",
-    "devname": "All",
-    "lat": 49,
-    "lon": 32,
-    "flag": "https://restcountries.eu/data/ukr.svg",
-    "year": 2013,
-    "value": 2487
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -5248,7 +2731,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -5259,7 +2741,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -5270,7 +2751,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -5281,7 +2761,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -5292,7 +2771,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -5303,7 +2781,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -5314,7 +2791,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -5325,7 +2801,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -5336,7 +2811,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -5347,7 +2821,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -5358,7 +2831,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -5369,7 +2841,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -5380,7 +2851,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -5391,7 +2861,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -5402,7 +2871,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -5413,7 +2881,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -5424,7 +2891,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -5435,7 +2901,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -5446,7 +2911,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -5457,7 +2921,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -5468,7 +2931,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -5479,7 +2941,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -5490,7 +2951,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -5501,7 +2961,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -5512,7 +2971,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -5523,7 +2981,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -5534,7 +2991,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -5545,7 +3001,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -5556,7 +3011,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -5567,7 +3021,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -5578,7 +3031,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -5589,7 +3041,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -5600,7 +3051,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -5610,1504 +3060,7 @@ var top10countries = [
     "value": 5827
   },
   {
-    "areaname": "Europe",
-    "regname": "Southern Europe",
-    "country": "Portugal",
-    "devname": "All",
-    "lat": 39.5,
-    "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
-    "year": 1980,
-    "value": 4473
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Southern Europe",
-    "country": "Portugal",
-    "devname": "All",
-    "lat": 39.5,
-    "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
-    "year": 1981,
-    "value": 3486
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Southern Europe",
-    "country": "Portugal",
-    "devname": "All",
-    "lat": 39.5,
-    "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
-    "year": 1982,
-    "value": 2432
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Southern Europe",
-    "country": "Portugal",
-    "devname": "All",
-    "lat": 39.5,
-    "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
-    "year": 1983,
-    "value": 1433
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Southern Europe",
-    "country": "Portugal",
-    "devname": "All",
-    "lat": 39.5,
-    "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
-    "year": 1984,
-    "value": 1398
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Southern Europe",
-    "country": "Portugal",
-    "devname": "All",
-    "lat": 39.5,
-    "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
-    "year": 1985,
-    "value": 1451
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Southern Europe",
-    "country": "Portugal",
-    "devname": "All",
-    "lat": 39.5,
-    "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
-    "year": 1986,
-    "value": 2617
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Southern Europe",
-    "country": "Portugal",
-    "devname": "All",
-    "lat": 39.5,
-    "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
-    "year": 1987,
-    "value": 7684
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Southern Europe",
-    "country": "Portugal",
-    "devname": "All",
-    "lat": 39.5,
-    "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
-    "year": 1988,
-    "value": 6888
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Southern Europe",
-    "country": "Portugal",
-    "devname": "All",
-    "lat": 39.5,
-    "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
-    "year": 1989,
-    "value": 8570
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Southern Europe",
-    "country": "Portugal",
-    "devname": "All",
-    "lat": 39.5,
-    "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
-    "year": 1990,
-    "value": 8452
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Southern Europe",
-    "country": "Portugal",
-    "devname": "All",
-    "lat": 39.5,
-    "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
-    "year": 1991,
-    "value": 6286
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Southern Europe",
-    "country": "Portugal",
-    "devname": "All",
-    "lat": 39.5,
-    "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
-    "year": 1992,
-    "value": 3328
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Southern Europe",
-    "country": "Portugal",
-    "devname": "All",
-    "lat": 39.5,
-    "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
-    "year": 1993,
-    "value": 2347
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Southern Europe",
-    "country": "Portugal",
-    "devname": "All",
-    "lat": 39.5,
-    "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
-    "year": 1994,
-    "value": 1599
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Southern Europe",
-    "country": "Portugal",
-    "devname": "All",
-    "lat": 39.5,
-    "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
-    "year": 1995,
-    "value": 1405
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Southern Europe",
-    "country": "Portugal",
-    "devname": "All",
-    "lat": 39.5,
-    "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
-    "year": 1996,
-    "value": 1237
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Southern Europe",
-    "country": "Portugal",
-    "devname": "All",
-    "lat": 39.5,
-    "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
-    "year": 1997,
-    "value": 1167
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Southern Europe",
-    "country": "Portugal",
-    "devname": "All",
-    "lat": 39.5,
-    "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
-    "year": 1998,
-    "value": 625
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Southern Europe",
-    "country": "Portugal",
-    "devname": "All",
-    "lat": 39.5,
-    "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
-    "year": 1999,
-    "value": 458
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Southern Europe",
-    "country": "Portugal",
-    "devname": "All",
-    "lat": 39.5,
-    "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
-    "year": 2000,
-    "value": 469
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Southern Europe",
-    "country": "Portugal",
-    "devname": "All",
-    "lat": 39.5,
-    "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
-    "year": 2001,
-    "value": 531
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Southern Europe",
-    "country": "Portugal",
-    "devname": "All",
-    "lat": 39.5,
-    "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
-    "year": 2002,
-    "value": 364
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Southern Europe",
-    "country": "Portugal",
-    "devname": "All",
-    "lat": 39.5,
-    "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
-    "year": 2003,
-    "value": 329
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Southern Europe",
-    "country": "Portugal",
-    "devname": "All",
-    "lat": 39.5,
-    "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
-    "year": 2004,
-    "value": 336
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Southern Europe",
-    "country": "Portugal",
-    "devname": "All",
-    "lat": 39.5,
-    "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
-    "year": 2005,
-    "value": 338
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Southern Europe",
-    "country": "Portugal",
-    "devname": "All",
-    "lat": 39.5,
-    "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
-    "year": 2006,
-    "value": 424
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Southern Europe",
-    "country": "Portugal",
-    "devname": "All",
-    "lat": 39.5,
-    "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
-    "year": 2007,
-    "value": 405
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Southern Europe",
-    "country": "Portugal",
-    "devname": "All",
-    "lat": 39.5,
-    "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
-    "year": 2008,
-    "value": 665
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Southern Europe",
-    "country": "Portugal",
-    "devname": "All",
-    "lat": 39.5,
-    "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
-    "year": 2009,
-    "value": 623
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Southern Europe",
-    "country": "Portugal",
-    "devname": "All",
-    "lat": 39.5,
-    "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
-    "year": 2010,
-    "value": 629
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Southern Europe",
-    "country": "Portugal",
-    "devname": "All",
-    "lat": 39.5,
-    "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
-    "year": 2011,
-    "value": 528
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Southern Europe",
-    "country": "Portugal",
-    "devname": "All",
-    "lat": 39.5,
-    "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
-    "year": 2012,
-    "value": 560
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Southern Europe",
-    "country": "Portugal",
-    "devname": "All",
-    "lat": 39.5,
-    "lon": -8,
-    "flag": "https://restcountries.eu/data/prt.svg",
-    "year": 2013,
-    "value": 630
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "France",
-    "devname": "All",
-    "lat": 46,
-    "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
-    "year": 1980,
-    "value": 1729
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "France",
-    "devname": "All",
-    "lat": 46,
-    "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
-    "year": 1981,
-    "value": 2027
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "France",
-    "devname": "All",
-    "lat": 46,
-    "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
-    "year": 1982,
-    "value": 2219
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "France",
-    "devname": "All",
-    "lat": 46,
-    "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
-    "year": 1983,
-    "value": 1490
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "France",
-    "devname": "All",
-    "lat": 46,
-    "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
-    "year": 1984,
-    "value": 1169
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "France",
-    "devname": "All",
-    "lat": 46,
-    "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
-    "year": 1985,
-    "value": 1177
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "France",
-    "devname": "All",
-    "lat": 46,
-    "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
-    "year": 1986,
-    "value": 1298
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "France",
-    "devname": "All",
-    "lat": 46,
-    "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
-    "year": 1987,
-    "value": 1658
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "France",
-    "devname": "All",
-    "lat": 46,
-    "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
-    "year": 1988,
-    "value": 2038
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "France",
-    "devname": "All",
-    "lat": 46,
-    "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
-    "year": 1989,
-    "value": 2332
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "France",
-    "devname": "All",
-    "lat": 46,
-    "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
-    "year": 1990,
-    "value": 2177
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "France",
-    "devname": "All",
-    "lat": 46,
-    "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
-    "year": 1991,
-    "value": 2911
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "France",
-    "devname": "All",
-    "lat": 46,
-    "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
-    "year": 1992,
-    "value": 3487
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "France",
-    "devname": "All",
-    "lat": 46,
-    "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
-    "year": 1993,
-    "value": 3709
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "France",
-    "devname": "All",
-    "lat": 46,
-    "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
-    "year": 1994,
-    "value": 2759
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "France",
-    "devname": "All",
-    "lat": 46,
-    "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
-    "year": 1995,
-    "value": 3332
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "France",
-    "devname": "All",
-    "lat": 46,
-    "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
-    "year": 1996,
-    "value": 2623
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "France",
-    "devname": "All",
-    "lat": 46,
-    "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
-    "year": 1997,
-    "value": 2473
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "France",
-    "devname": "All",
-    "lat": 46,
-    "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
-    "year": 1998,
-    "value": 3214
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "France",
-    "devname": "All",
-    "lat": 46,
-    "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
-    "year": 1999,
-    "value": 3343
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "France",
-    "devname": "All",
-    "lat": 46,
-    "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
-    "year": 2000,
-    "value": 3765
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "France",
-    "devname": "All",
-    "lat": 46,
-    "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
-    "year": 2001,
-    "value": 3806
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "France",
-    "devname": "All",
-    "lat": 46,
-    "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
-    "year": 2002,
-    "value": 3463
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "France",
-    "devname": "All",
-    "lat": 46,
-    "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
-    "year": 2003,
-    "value": 3568
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "France",
-    "devname": "All",
-    "lat": 46,
-    "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
-    "year": 2004,
-    "value": 4391
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "France",
-    "devname": "All",
-    "lat": 46,
-    "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
-    "year": 2005,
-    "value": 4429
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "France",
-    "devname": "All",
-    "lat": 46,
-    "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
-    "year": 2006,
-    "value": 4002
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "France",
-    "devname": "All",
-    "lat": 46,
-    "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
-    "year": 2007,
-    "value": 4290
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "France",
-    "devname": "All",
-    "lat": 46,
-    "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
-    "year": 2008,
-    "value": 4532
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "France",
-    "devname": "All",
-    "lat": 46,
-    "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
-    "year": 2009,
-    "value": 5051
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "France",
-    "devname": "All",
-    "lat": 46,
-    "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
-    "year": 2010,
-    "value": 4646
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "France",
-    "devname": "All",
-    "lat": 46,
-    "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
-    "year": 2011,
-    "value": 4080
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "France",
-    "devname": "All",
-    "lat": 46,
-    "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
-    "year": 2012,
-    "value": 6280
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "France",
-    "devname": "All",
-    "lat": 46,
-    "lon": 2,
-    "flag": "https://restcountries.eu/data/fra.svg",
-    "year": 2013,
-    "value": 5623
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "Germany",
-    "devname": "All",
-    "lat": 51,
-    "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
-    "year": 1980,
-    "value": 1626
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "Germany",
-    "devname": "All",
-    "lat": 51,
-    "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
-    "year": 1981,
-    "value": 1977
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "Germany",
-    "devname": "All",
-    "lat": 51,
-    "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
-    "year": 1982,
-    "value": 3062
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "Germany",
-    "devname": "All",
-    "lat": 51,
-    "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
-    "year": 1983,
-    "value": 2376
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "Germany",
-    "devname": "All",
-    "lat": 51,
-    "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
-    "year": 1984,
-    "value": 1610
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "Germany",
-    "devname": "All",
-    "lat": 51,
-    "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
-    "year": 1985,
-    "value": 1441
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "Germany",
-    "devname": "All",
-    "lat": 51,
-    "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
-    "year": 1986,
-    "value": 1233
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "Germany",
-    "devname": "All",
-    "lat": 51,
-    "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
-    "year": 1987,
-    "value": 1704
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "Germany",
-    "devname": "All",
-    "lat": 51,
-    "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
-    "year": 1988,
-    "value": 1482
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "Germany",
-    "devname": "All",
-    "lat": 51,
-    "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
-    "year": 1989,
-    "value": 1706
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "Germany",
-    "devname": "All",
-    "lat": 51,
-    "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
-    "year": 1990,
-    "value": 1273
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "Germany",
-    "devname": "All",
-    "lat": 51,
-    "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
-    "year": 1991,
-    "value": 1273
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "Germany",
-    "devname": "All",
-    "lat": 51,
-    "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
-    "year": 1992,
-    "value": 1181
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "Germany",
-    "devname": "All",
-    "lat": 51,
-    "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
-    "year": 1993,
-    "value": 1488
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "Germany",
-    "devname": "All",
-    "lat": 51,
-    "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
-    "year": 1994,
-    "value": 1255
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "Germany",
-    "devname": "All",
-    "lat": 51,
-    "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
-    "year": 1995,
-    "value": 1553
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "Germany",
-    "devname": "All",
-    "lat": 51,
-    "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
-    "year": 1996,
-    "value": 1686
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "Germany",
-    "devname": "All",
-    "lat": 51,
-    "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
-    "year": 1997,
-    "value": 1397
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "Germany",
-    "devname": "All",
-    "lat": 51,
-    "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
-    "year": 1998,
-    "value": 1363
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "Germany",
-    "devname": "All",
-    "lat": 51,
-    "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
-    "year": 1999,
-    "value": 1717
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "Germany",
-    "devname": "All",
-    "lat": 51,
-    "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
-    "year": 2000,
-    "value": 1703
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "Germany",
-    "devname": "All",
-    "lat": 51,
-    "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
-    "year": 2001,
-    "value": 1456
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "Germany",
-    "devname": "All",
-    "lat": 51,
-    "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
-    "year": 2002,
-    "value": 1375
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "Germany",
-    "devname": "All",
-    "lat": 51,
-    "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
-    "year": 2003,
-    "value": 1865
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "Germany",
-    "devname": "All",
-    "lat": 51,
-    "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
-    "year": 2004,
-    "value": 2020
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "Germany",
-    "devname": "All",
-    "lat": 51,
-    "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
-    "year": 2005,
-    "value": 2226
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "Germany",
-    "devname": "All",
-    "lat": 51,
-    "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
-    "year": 2006,
-    "value": 2767
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "Germany",
-    "devname": "All",
-    "lat": 51,
-    "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
-    "year": 2007,
-    "value": 2449
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "Germany",
-    "devname": "All",
-    "lat": 51,
-    "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
-    "year": 2008,
-    "value": 3833
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "Germany",
-    "devname": "All",
-    "lat": 51,
-    "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
-    "year": 2009,
-    "value": 3887
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "Germany",
-    "devname": "All",
-    "lat": 51,
-    "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
-    "year": 2010,
-    "value": 2956
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "Germany",
-    "devname": "All",
-    "lat": 51,
-    "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
-    "year": 2011,
-    "value": 2053
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "Germany",
-    "devname": "All",
-    "lat": 51,
-    "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
-    "year": 2012,
-    "value": 1702
-  },
-  {
-    "areaname": "Europe",
-    "regname": "Western Europe",
-    "country": "Germany",
-    "devname": "All",
-    "lat": 51,
-    "lon": 9,
-    "flag": "https://restcountries.eu/data/deu.svg",
-    "year": 2013,
-    "value": 1217
-  },
-  {
-    "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
-    "country": "Jamaica",
-    "devname": "All",
-    "lat": 18.25,
-    "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
-    "year": 1980,
-    "value": 3198
-  },
-  {
-    "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
-    "country": "Jamaica",
-    "devname": "All",
-    "lat": 18.25,
-    "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
-    "year": 1981,
-    "value": 2634
-  },
-  {
-    "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
-    "country": "Jamaica",
-    "devname": "All",
-    "lat": 18.25,
-    "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
-    "year": 1982,
-    "value": 2661
-  },
-  {
-    "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
-    "country": "Jamaica",
-    "devname": "All",
-    "lat": 18.25,
-    "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
-    "year": 1983,
-    "value": 2455
-  },
-  {
-    "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
-    "country": "Jamaica",
-    "devname": "All",
-    "lat": 18.25,
-    "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
-    "year": 1984,
-    "value": 2508
-  },
-  {
-    "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
-    "country": "Jamaica",
-    "devname": "All",
-    "lat": 18.25,
-    "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
-    "year": 1985,
-    "value": 2938
-  },
-  {
-    "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
-    "country": "Jamaica",
-    "devname": "All",
-    "lat": 18.25,
-    "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
-    "year": 1986,
-    "value": 4649
-  },
-  {
-    "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
-    "country": "Jamaica",
-    "devname": "All",
-    "lat": 18.25,
-    "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
-    "year": 1987,
-    "value": 5415
-  },
-  {
-    "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
-    "country": "Jamaica",
-    "devname": "All",
-    "lat": 18.25,
-    "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
-    "year": 1988,
-    "value": 3924
-  },
-  {
-    "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
-    "country": "Jamaica",
-    "devname": "All",
-    "lat": 18.25,
-    "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
-    "year": 1989,
-    "value": 3946
-  },
-  {
-    "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
-    "country": "Jamaica",
-    "devname": "All",
-    "lat": 18.25,
-    "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
-    "year": 1990,
-    "value": 4945
-  },
-  {
-    "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
-    "country": "Jamaica",
-    "devname": "All",
-    "lat": 18.25,
-    "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
-    "year": 1991,
-    "value": 5056
-  },
-  {
-    "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
-    "country": "Jamaica",
-    "devname": "All",
-    "lat": 18.25,
-    "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
-    "year": 1992,
-    "value": 5991
-  },
-  {
-    "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
-    "country": "Jamaica",
-    "devname": "All",
-    "lat": 18.25,
-    "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
-    "year": 1993,
-    "value": 6065
-  },
-  {
-    "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
-    "country": "Jamaica",
-    "devname": "All",
-    "lat": 18.25,
-    "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
-    "year": 1994,
-    "value": 3913
-  },
-  {
-    "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
-    "country": "Jamaica",
-    "devname": "All",
-    "lat": 18.25,
-    "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
-    "year": 1995,
-    "value": 3619
-  },
-  {
-    "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
-    "country": "Jamaica",
-    "devname": "All",
-    "lat": 18.25,
-    "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
-    "year": 1996,
-    "value": 3282
-  },
-  {
-    "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
-    "country": "Jamaica",
-    "devname": "All",
-    "lat": 18.25,
-    "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
-    "year": 1997,
-    "value": 2847
-  },
-  {
-    "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
-    "country": "Jamaica",
-    "devname": "All",
-    "lat": 18.25,
-    "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
-    "year": 1998,
-    "value": 2253
-  },
-  {
-    "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
-    "country": "Jamaica",
-    "devname": "All",
-    "lat": 18.25,
-    "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
-    "year": 1999,
-    "value": 2358
-  },
-  {
-    "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
-    "country": "Jamaica",
-    "devname": "All",
-    "lat": 18.25,
-    "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
-    "year": 2000,
-    "value": 2482
-  },
-  {
-    "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
-    "country": "Jamaica",
-    "devname": "All",
-    "lat": 18.25,
-    "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
-    "year": 2001,
-    "value": 2838
-  },
-  {
-    "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
-    "country": "Jamaica",
-    "devname": "All",
-    "lat": 18.25,
-    "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
-    "year": 2002,
-    "value": 2524
-  },
-  {
-    "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
-    "country": "Jamaica",
-    "devname": "All",
-    "lat": 18.25,
-    "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
-    "year": 2003,
-    "value": 2054
-  },
-  {
-    "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
-    "country": "Jamaica",
-    "devname": "All",
-    "lat": 18.25,
-    "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
-    "year": 2004,
-    "value": 2237
-  },
-  {
-    "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
-    "country": "Jamaica",
-    "devname": "All",
-    "lat": 18.25,
-    "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
-    "year": 2005,
-    "value": 1945
-  },
-  {
-    "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
-    "country": "Jamaica",
-    "devname": "All",
-    "lat": 18.25,
-    "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
-    "year": 2006,
-    "value": 1722
-  },
-  {
-    "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
-    "country": "Jamaica",
-    "devname": "All",
-    "lat": 18.25,
-    "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
-    "year": 2007,
-    "value": 2141
-  },
-  {
-    "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
-    "country": "Jamaica",
-    "devname": "All",
-    "lat": 18.25,
-    "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
-    "year": 2008,
-    "value": 2334
-  },
-  {
-    "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
-    "country": "Jamaica",
-    "devname": "All",
-    "lat": 18.25,
-    "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
-    "year": 2009,
-    "value": 2456
-  },
-  {
-    "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
-    "country": "Jamaica",
-    "devname": "All",
-    "lat": 18.25,
-    "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
-    "year": 2010,
-    "value": 2321
-  },
-  {
-    "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
-    "country": "Jamaica",
-    "devname": "All",
-    "lat": 18.25,
-    "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
-    "year": 2011,
-    "value": 2059
-  },
-  {
-    "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
-    "country": "Jamaica",
-    "devname": "All",
-    "lat": 18.25,
-    "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
-    "year": 2012,
-    "value": 2182
-  },
-  {
-    "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
-    "country": "Jamaica",
-    "devname": "All",
-    "lat": 18.25,
-    "lon": -77.5,
-    "flag": "https://restcountries.eu/data/jam.svg",
-    "year": 2013,
-    "value": 2479
-  },
-  {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -7118,7 +3071,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -7129,7 +3081,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -7140,7 +3091,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -7151,7 +3101,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -7162,7 +3111,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -7173,7 +3121,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -7184,7 +3131,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -7195,7 +3141,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -7206,7 +3151,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -7217,7 +3161,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -7228,7 +3171,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -7239,7 +3181,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -7250,7 +3191,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -7261,7 +3201,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -7272,7 +3211,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -7283,7 +3221,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -7294,7 +3231,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -7305,7 +3241,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -7316,7 +3251,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -7327,7 +3261,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -7338,7 +3271,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -7349,7 +3281,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -7360,7 +3291,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -7371,7 +3301,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -7382,7 +3311,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -7393,7 +3321,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -7404,7 +3331,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -7415,7 +3341,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -7426,7 +3351,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -7437,7 +3361,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -7448,7 +3371,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -7459,7 +3381,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -7470,7 +3391,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -7481,7 +3401,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -7492,7 +3411,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -7503,7 +3421,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -7514,7 +3431,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -7525,7 +3441,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -7536,7 +3451,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -7547,7 +3461,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -7558,7 +3471,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -7569,7 +3481,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -7580,7 +3491,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -7591,7 +3501,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -7602,7 +3511,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -7613,7 +3521,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -7624,7 +3531,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -7635,7 +3541,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -7646,7 +3551,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -7657,7 +3561,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -7668,7 +3571,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -7679,7 +3581,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -7690,7 +3591,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -7701,7 +3601,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -7712,7 +3611,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -7723,7 +3621,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -7734,7 +3631,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -7745,7 +3641,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -7756,7 +3651,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -7767,7 +3661,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -7778,7 +3671,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -7789,7 +3681,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -7800,7 +3691,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -7811,7 +3701,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -7822,7 +3711,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -7833,7 +3721,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -7844,7 +3731,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -7855,7 +3741,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -7866,7 +3751,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -7877,7 +3761,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -7888,7 +3771,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -7899,7 +3781,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -7910,7 +3791,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -7921,7 +3801,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -7932,7 +3811,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -7943,7 +3821,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -7954,7 +3831,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -7965,7 +3841,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -7976,7 +3851,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -7987,7 +3861,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -7998,7 +3871,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -8009,7 +3881,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -8020,7 +3891,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -8031,7 +3901,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -8042,7 +3911,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -8053,7 +3921,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -8064,7 +3931,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -8075,7 +3941,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -8086,7 +3951,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -8097,7 +3961,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -8108,7 +3971,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -8119,7 +3981,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -8130,7 +3991,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -8141,7 +4001,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -8152,7 +4011,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -8163,7 +4021,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -8174,7 +4031,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -8185,7 +4041,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -8196,7 +4051,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -8207,7 +4061,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -8218,7 +4071,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -8229,7 +4081,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -8240,7 +4091,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -8251,7 +4101,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -8262,7 +4111,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -8273,7 +4121,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -8284,7 +4131,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -8295,7 +4141,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -8306,7 +4151,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -8317,7 +4161,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -8328,7 +4171,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -8339,7 +4181,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -8350,7 +4191,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -8361,7 +4201,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -8372,7 +4211,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -8383,7 +4221,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -8394,7 +4231,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -8405,7 +4241,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -8416,7 +4251,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -8427,7 +4261,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -8438,7 +4271,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -8449,7 +4281,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -8460,7 +4291,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -8471,7 +4301,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -8482,7 +4311,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -8493,7 +4321,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -8504,7 +4331,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -8515,7 +4341,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -8526,7 +4351,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -8537,7 +4361,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -8548,7 +4371,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -8559,7 +4381,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -8570,7 +4391,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -8581,7 +4401,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -8592,7 +4411,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -8603,7 +4421,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8614,7 +4431,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8625,7 +4441,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8636,7 +4451,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8647,7 +4461,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8658,7 +4471,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8669,7 +4481,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8680,7 +4491,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8691,7 +4501,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8702,7 +4511,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8713,7 +4521,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8724,7 +4531,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8735,7 +4541,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8746,7 +4551,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8757,7 +4561,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8768,7 +4571,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8779,7 +4581,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8790,7 +4591,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8801,7 +4601,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8812,7 +4611,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8823,7 +4621,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8834,7 +4631,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8845,7 +4641,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8856,7 +4651,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8867,7 +4661,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8878,7 +4671,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8889,7 +4681,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8900,7 +4691,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8911,7 +4701,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8922,7 +4711,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8933,7 +4721,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8944,7 +4731,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8955,7 +4741,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8966,7 +4751,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8977,7 +4761,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -8988,7 +4771,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -8999,7 +4781,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -9010,7 +4791,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -9021,7 +4801,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -9032,7 +4811,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -9043,7 +4821,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -9054,7 +4831,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -9065,7 +4841,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -9076,7 +4851,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -9087,7 +4861,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -9098,7 +4871,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -9109,7 +4881,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -9120,7 +4891,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -9131,7 +4901,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -9142,7 +4911,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -9153,7 +4921,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -9164,7 +4931,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -9175,7 +4941,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -9186,7 +4951,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -9197,7 +4961,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -9208,7 +4971,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -9219,7 +4981,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -9230,7 +4991,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -9241,7 +5001,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -9252,7 +5011,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -9263,7 +5021,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -9274,7 +5031,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -9285,7 +5041,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -9296,7 +5051,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -9307,7 +5061,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -9318,7 +5071,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -9329,7 +5081,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -9340,7 +5091,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -9351,7 +5101,6 @@ var top10countries = [
   },
   {
     "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -9362,7 +5111,6 @@ var top10countries = [
   },
   {
     "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -9373,7 +5121,6 @@ var top10countries = [
   },
   {
     "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -9384,7 +5131,6 @@ var top10countries = [
   },
   {
     "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -9395,7 +5141,6 @@ var top10countries = [
   },
   {
     "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -9406,7 +5151,6 @@ var top10countries = [
   },
   {
     "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -9417,7 +5161,6 @@ var top10countries = [
   },
   {
     "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -9428,7 +5171,6 @@ var top10countries = [
   },
   {
     "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -9439,7 +5181,6 @@ var top10countries = [
   },
   {
     "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -9450,7 +5191,6 @@ var top10countries = [
   },
   {
     "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -9461,7 +5201,6 @@ var top10countries = [
   },
   {
     "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -9472,7 +5211,6 @@ var top10countries = [
   },
   {
     "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -9483,7 +5221,6 @@ var top10countries = [
   },
   {
     "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -9494,7 +5231,6 @@ var top10countries = [
   },
   {
     "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -9505,7 +5241,6 @@ var top10countries = [
   },
   {
     "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -9516,7 +5251,6 @@ var top10countries = [
   },
   {
     "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -9527,7 +5261,6 @@ var top10countries = [
   },
   {
     "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -9538,7 +5271,6 @@ var top10countries = [
   },
   {
     "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -9549,7 +5281,6 @@ var top10countries = [
   },
   {
     "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -9560,7 +5291,6 @@ var top10countries = [
   },
   {
     "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -9571,7 +5301,6 @@ var top10countries = [
   },
   {
     "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -9582,7 +5311,6 @@ var top10countries = [
   },
   {
     "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -9593,7 +5321,6 @@ var top10countries = [
   },
   {
     "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -9604,7 +5331,6 @@ var top10countries = [
   },
   {
     "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -9615,7 +5341,6 @@ var top10countries = [
   },
   {
     "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -9626,7 +5351,6 @@ var top10countries = [
   },
   {
     "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -9637,7 +5361,6 @@ var top10countries = [
   },
   {
     "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -9648,7 +5371,6 @@ var top10countries = [
   },
   {
     "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -9659,7 +5381,6 @@ var top10countries = [
   },
   {
     "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -9670,7 +5391,6 @@ var top10countries = [
   },
   {
     "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -9681,7 +5401,6 @@ var top10countries = [
   },
   {
     "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -9692,7 +5411,6 @@ var top10countries = [
   },
   {
     "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -9703,7 +5421,6 @@ var top10countries = [
   },
   {
     "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -9714,7 +5431,6 @@ var top10countries = [
   },
   {
     "areaname": "Latin America and the Caribbean",
-    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -9725,7 +5441,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -9736,7 +5451,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -9747,7 +5461,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -9758,7 +5471,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -9769,7 +5481,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -9780,7 +5491,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -9791,7 +5501,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -9802,7 +5511,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -9813,7 +5521,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -9824,7 +5531,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -9835,7 +5541,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -9846,7 +5551,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -9857,7 +5561,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -9868,7 +5571,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -9879,7 +5581,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -9890,7 +5591,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -9901,7 +5601,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -9912,7 +5611,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -9923,7 +5621,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -9934,7 +5631,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -9945,7 +5641,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -9956,7 +5651,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -9967,7 +5661,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -9978,7 +5671,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -9989,7 +5681,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -10000,7 +5691,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -10011,7 +5701,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -10022,7 +5711,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -10033,7 +5721,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -10044,7 +5731,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -10055,7 +5741,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -10066,7 +5751,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -10077,7 +5761,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -10088,7 +5771,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -10099,7 +5781,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -10110,7 +5791,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -10121,7 +5801,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -10132,7 +5811,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -10143,7 +5821,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -10154,7 +5831,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -10165,7 +5841,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -10176,7 +5851,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -10187,7 +5861,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -10198,7 +5871,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -10209,7 +5881,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -10220,7 +5891,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -10231,7 +5901,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -10242,7 +5911,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -10253,7 +5921,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -10264,7 +5931,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -10275,7 +5941,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -10286,7 +5951,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -10297,7 +5961,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -10308,7 +5971,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -10319,7 +5981,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -10330,7 +5991,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -10341,7 +6001,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -10352,7 +6011,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -10363,7 +6021,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -10374,7 +6031,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -10385,7 +6041,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -10396,7 +6051,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -10407,7 +6061,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -10418,7 +6071,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -10429,7 +6081,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -10440,7 +6091,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -10451,7 +6101,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -10462,7 +6111,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -10473,7 +6121,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -10484,7 +6131,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -10495,7 +6141,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -10506,7 +6151,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -10517,7 +6161,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -10528,7 +6171,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -10539,7 +6181,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -10550,7 +6191,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -10561,7 +6201,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -10572,7 +6211,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -10583,7 +6221,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -10594,7 +6231,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -10605,7 +6241,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -10616,7 +6251,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -10627,7 +6261,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -10638,7 +6271,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -10649,7 +6281,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -10660,7 +6291,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -10671,7 +6301,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -10682,7 +6311,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -10693,7 +6321,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -10704,7 +6331,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -10715,7 +6341,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -10726,7 +6351,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -10737,7 +6361,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -10748,7 +6371,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -10759,7 +6381,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -10770,7 +6391,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -10781,7 +6401,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -10792,7 +6411,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -10803,7 +6421,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -10814,7 +6431,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -10825,7 +6441,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -10836,7 +6451,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -10847,7 +6461,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -10858,7 +6471,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -10869,7 +6481,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -10880,7 +6491,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -10891,7 +6501,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -10902,7 +6511,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -10913,7 +6521,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -10924,7 +6531,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -10935,7 +6541,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -10946,7 +6551,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -10957,7 +6561,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -10968,7 +6571,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -10979,7 +6581,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -10990,7 +6591,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -11001,7 +6601,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -11012,7 +6611,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -11023,7 +6621,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -11034,7 +6631,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -11045,7 +6641,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -11056,7 +6651,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -11067,7 +6661,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -11078,7 +6671,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -11089,7 +6681,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -11100,7 +6691,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -11111,7 +6701,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -11122,7 +6711,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -11133,7 +6721,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -11144,7 +6731,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -11155,7 +6741,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -11166,7 +6751,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -11177,7 +6761,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -11188,7 +6771,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -11199,7 +6781,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -11210,7 +6791,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -11221,7 +6801,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -11232,7 +6811,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -11243,7 +6821,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -11254,7 +6831,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -11265,7 +6841,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -11276,7 +6851,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -11287,7 +6861,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -11298,7 +6871,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -11309,7 +6881,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -11320,7 +6891,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -11331,7 +6901,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -11342,7 +6911,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -11353,7 +6921,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -11364,7 +6931,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -11375,7 +6941,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -11386,7 +6951,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -11397,7 +6961,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -11408,7 +6971,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -11419,7 +6981,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -11430,7 +6991,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -11441,7 +7001,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -11452,7 +7011,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -11463,7 +7021,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -11474,7 +7031,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -11485,7 +7041,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -11496,7 +7051,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -11507,7 +7061,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -11518,7 +7071,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -11529,7 +7081,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -11540,7 +7091,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -11551,7 +7101,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -11562,7 +7111,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -11573,7 +7121,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -11584,7 +7131,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -11595,7 +7141,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -11606,7 +7151,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -11617,7 +7161,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -11628,7 +7171,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -11639,7 +7181,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -11650,7 +7191,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -11661,7 +7201,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -11672,7 +7211,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -11683,7 +7221,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -11694,7 +7231,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -11705,7 +7241,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -11716,7 +7251,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -11727,7 +7261,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -11738,7 +7271,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -11749,7 +7281,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -11760,7 +7291,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -11771,7 +7301,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -11782,7 +7311,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -11793,7 +7321,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -11804,7 +7331,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -11815,7 +7341,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -11826,7 +7351,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -11837,7 +7361,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -11848,7 +7371,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -11859,7 +7381,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -11870,7 +7391,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -11881,7 +7401,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -11892,7 +7411,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -11903,7 +7421,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -11914,7 +7431,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -11925,7 +7441,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -11936,7 +7451,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -11947,7 +7461,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -11958,7 +7471,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -11969,7 +7481,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -11980,7 +7491,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -11991,7 +7501,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -12002,7 +7511,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -12013,7 +7521,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -12024,7 +7531,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -12035,7 +7541,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -12046,7 +7551,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -12057,7 +7561,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -12068,7 +7571,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -12079,7 +7581,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -12090,7 +7591,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -12101,7 +7601,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -12112,7 +7611,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -12123,7 +7621,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -12134,7 +7631,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -12145,7 +7641,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -12156,7 +7651,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -12167,7 +7661,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -12178,7 +7671,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -12189,7 +7681,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -12200,7 +7691,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -12211,7 +7701,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -12222,7 +7711,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -12233,7 +7721,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -12244,7 +7731,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -12255,7 +7741,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -12266,7 +7751,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -12277,7 +7761,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -12288,7 +7771,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -12299,7 +7781,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -12310,7 +7791,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -12321,7 +7801,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -12332,7 +7811,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -12343,7 +7821,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -12354,7 +7831,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -12365,7 +7841,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -12376,7 +7851,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -12387,7 +7861,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -12398,7 +7871,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -12409,7 +7881,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -12420,7 +7891,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -12431,7 +7901,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -12442,7 +7911,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -12453,7 +7921,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -12464,7 +7931,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -12475,7 +7941,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -12486,7 +7951,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -12497,7 +7961,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -12508,7 +7971,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -12519,7 +7981,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -12530,7 +7991,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -12541,7 +8001,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -12552,7 +8011,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -12563,7 +8021,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -12574,7 +8031,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -12585,7 +8041,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -12596,7 +8051,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -12607,7 +8061,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -12618,7 +8071,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -12629,7 +8081,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -12640,7 +8091,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -12651,7 +8101,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -12662,7 +8111,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -12673,7 +8121,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -12684,7 +8131,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -12695,7 +8141,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -12706,7 +8151,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -12717,7 +8161,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -12728,7 +8171,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -12739,7 +8181,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -12750,7 +8191,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -12761,7 +8201,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -12772,7 +8211,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -12783,7 +8221,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -12794,7 +8231,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -12805,7 +8241,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -12816,7 +8251,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -12827,7 +8261,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -12838,7 +8271,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -12849,7 +8281,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -12860,7 +8291,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -12871,7 +8301,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -12882,7 +8311,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -12893,7 +8321,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -12904,7 +8331,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -12915,7 +8341,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -12926,7 +8351,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -12937,7 +8361,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -12948,7 +8371,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -12959,7 +8381,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -12970,7 +8391,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -12981,7 +8401,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -12992,7 +8411,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -13003,7 +8421,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -13014,7 +8431,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -13025,7 +8441,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -13036,7 +8451,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -13047,7 +8461,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -13058,7 +8471,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -13069,7 +8481,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -13080,7 +8491,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -13091,7 +8501,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -13102,7 +8511,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -13113,7 +8521,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -13124,7 +8531,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -13135,7 +8541,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -13146,7 +8551,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -13157,7 +8561,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -13168,7 +8571,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -13179,7 +8581,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -13190,7 +8591,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -13201,7 +8601,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -13212,7 +8611,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -13223,7 +8621,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -13234,7 +8631,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -13245,7 +8641,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -13256,7 +8651,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -13267,7 +8661,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -13278,7 +8671,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -13289,7 +8681,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -13300,7 +8691,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -13311,7 +8701,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -13322,7 +8711,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -13333,7 +8721,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -13344,7 +8731,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -13355,7 +8741,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -13366,7 +8751,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -13377,7 +8761,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -13388,7 +8771,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -13399,7 +8781,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -13410,7 +8791,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -13421,7 +8801,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -13432,7 +8811,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -13443,7 +8821,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -13454,7 +8831,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -13465,7 +8841,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -13476,7 +8851,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -13487,7 +8861,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -13498,7 +8871,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -13509,7 +8881,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -13520,7 +8891,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -13531,7 +8901,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -13542,7 +8911,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -13553,7 +8921,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -13564,7 +8931,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -13575,7 +8941,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -13586,7 +8951,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -13597,7 +8961,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -13608,7 +8971,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -13619,7 +8981,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -13630,7 +8991,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -13641,7 +9001,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -13652,7 +9011,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -13663,7 +9021,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -13674,7 +9031,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -13685,7 +9041,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -13696,7 +9051,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -13707,7 +9061,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -13718,7 +9071,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -13729,7 +9081,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -13740,7 +9091,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -13751,7 +9101,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -13762,7 +9111,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -13773,7 +9121,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -13784,7 +9131,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -13795,7 +9141,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -13806,7 +9151,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -13817,7 +9161,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -13828,7 +9171,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -13839,7 +9181,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -13850,7 +9191,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -13861,7 +9201,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -13872,7 +9211,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -13883,7 +9221,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -13894,7 +9231,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -13905,7 +9241,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -13916,7 +9251,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -13927,7 +9261,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -13938,7 +9271,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -13949,7 +9281,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -13960,7 +9291,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -13971,7 +9301,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -13982,7 +9311,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -13993,7 +9321,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -14004,7 +9331,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -14015,7 +9341,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -14026,7 +9351,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -14037,7 +9361,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -14048,7 +9371,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -14059,7 +9381,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -14070,7 +9391,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -14081,7 +9401,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -14092,7 +9411,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -14103,7 +9421,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -14114,7 +9431,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -14125,7 +9441,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -14136,7 +9451,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -14147,7 +9461,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -14158,7 +9471,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -14169,7 +9481,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -14180,7 +9491,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -14191,7 +9501,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -14202,7 +9511,6 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -14213,7 +9521,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -14224,7 +9531,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -14235,7 +9541,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -14246,7 +9551,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -14257,7 +9561,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -14268,7 +9571,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -14279,7 +9581,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -14290,7 +9591,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -14301,7 +9601,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -14312,7 +9611,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -14323,7 +9621,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -14334,7 +9631,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -14345,7 +9641,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -14356,7 +9651,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -14367,7 +9661,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -14378,7 +9671,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -14389,7 +9681,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -14400,7 +9691,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -14411,7 +9701,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -14422,7 +9711,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -14433,7 +9721,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -14444,7 +9731,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -14455,7 +9741,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -14466,7 +9751,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -14477,7 +9761,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -14488,7 +9771,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -14499,7 +9781,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -14510,7 +9791,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -14521,7 +9801,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -14532,7 +9811,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -14543,7 +9821,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -14554,7 +9831,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -14565,7 +9841,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -14576,7 +9851,6 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -14587,7 +9861,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -14598,7 +9871,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -14609,7 +9881,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -14620,7 +9891,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -14631,7 +9901,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -14642,7 +9911,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -14653,7 +9921,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -14664,7 +9931,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -14675,7 +9941,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -14686,7 +9951,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -14697,7 +9961,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -14708,7 +9971,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -14719,7 +9981,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -14730,7 +9991,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -14741,7 +10001,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -14752,7 +10011,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -14763,7 +10021,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -14774,7 +10031,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -14785,7 +10041,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -14796,7 +10051,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -14807,7 +10061,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -14818,7 +10071,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -14829,7 +10081,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -14840,7 +10091,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -14851,7 +10101,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -14862,7 +10111,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -14873,7 +10121,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -14884,7 +10131,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -14895,7 +10141,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -14906,7 +10151,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -14917,7 +10161,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -14928,7 +10171,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -14939,7 +10181,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -14950,7 +10191,6 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
