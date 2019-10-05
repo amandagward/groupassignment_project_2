@@ -22,6 +22,9 @@ function returnBase(  ) {
         const region = currGlobal.substring(21);
         dataResult = top5countries.filter( obj => (obj.areaname === region && obj.devname === currDevel) );
         console.log("Entrou[" + region + "]");
+    } else if (currGlobal.substr(0,17) === "Top ten countries") {
+        dataResult = top10countries.filter( obj => (obj.devname === currDevel) );
+        console.log("Entrou[" + currGlobal + "]");
     }
     return dataResult;
 }
@@ -108,6 +111,15 @@ function calcNumBars (dataset, key) {
             return acc;
         }, ["",0])[1];
     } else if (currGlobal.substr(0,20) === "Top five countries -") {
+        return dataset.reduce( (acc,value) => {
+            if (acc[0] != value.country) {
+                acc[1] += 1;
+            }
+            acc[0] = value.country;
+            return acc;
+        }, ["",0])[1];
+        
+    } else if (currGlobal.substr(0,17) === "Top ten countries") {
         return dataset.reduce( (acc,value) => {
             if (acc[0] != value.country) {
                 acc[1] += 1;
@@ -236,7 +248,7 @@ function ShowToolTip (d) {
                         <p class="text-center">${getContinentMap(d.areaname)} ${d.areaname}</p>
                         <p>Migration: ${d.value.toLocaleString()}</p>
                             `;
-                    } else if (currGlobal.substr(0,20) === "Top five countries -") { 
+                    } else { 
                         return ` 
                         <p class="text-center"><img src=${d.flag} alt="flag">  ${d.country}</p>
                         <p>Migration: ${d.value.toLocaleString()}</p>

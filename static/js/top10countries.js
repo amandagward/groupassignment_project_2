@@ -1,6 +1,7 @@
-[
+var top10countries = [
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -11,6 +12,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -21,6 +23,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -31,6 +34,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -41,6 +45,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -51,6 +56,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -61,6 +67,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -71,6 +78,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -81,6 +89,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -91,6 +100,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -101,6 +111,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -111,6 +122,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -121,6 +133,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -131,6 +144,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -141,6 +155,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -151,6 +166,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -161,6 +177,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -171,6 +188,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -181,6 +199,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -191,6 +210,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -201,6 +221,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -211,6 +232,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -221,6 +243,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -231,6 +254,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -241,6 +265,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -251,6 +276,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -261,6 +287,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -271,6 +298,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -281,6 +309,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -291,6 +320,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -301,6 +331,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -311,6 +342,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -321,6 +353,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -331,6 +364,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "All",
     "lat": 35,
@@ -341,6 +375,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "All",
     "lat": 36,
@@ -351,6 +386,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "All",
     "lat": 36,
@@ -361,6 +397,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "All",
     "lat": 36,
@@ -371,6 +408,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "All",
     "lat": 36,
@@ -381,6 +419,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "All",
     "lat": 36,
@@ -391,6 +430,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "All",
     "lat": 36,
@@ -401,6 +441,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "All",
     "lat": 36,
@@ -411,6 +452,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "All",
     "lat": 36,
@@ -421,6 +463,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "All",
     "lat": 36,
@@ -431,6 +474,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "All",
     "lat": 36,
@@ -441,6 +485,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "All",
     "lat": 36,
@@ -451,6 +496,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "All",
     "lat": 36,
@@ -461,6 +507,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "All",
     "lat": 36,
@@ -471,6 +518,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "All",
     "lat": 36,
@@ -481,6 +529,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "All",
     "lat": 36,
@@ -491,6 +540,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "All",
     "lat": 36,
@@ -501,6 +551,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "All",
     "lat": 36,
@@ -511,6 +562,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "All",
     "lat": 36,
@@ -521,6 +573,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "All",
     "lat": 36,
@@ -531,6 +584,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "All",
     "lat": 36,
@@ -541,6 +595,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "All",
     "lat": 36,
@@ -551,6 +606,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "All",
     "lat": 36,
@@ -561,6 +617,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "All",
     "lat": 36,
@@ -571,6 +628,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "All",
     "lat": 36,
@@ -581,6 +639,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "All",
     "lat": 36,
@@ -591,6 +650,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "All",
     "lat": 36,
@@ -601,6 +661,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "All",
     "lat": 36,
@@ -611,6 +672,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "All",
     "lat": 36,
@@ -621,6 +683,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "All",
     "lat": 36,
@@ -631,6 +694,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "All",
     "lat": 36,
@@ -641,6 +705,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "All",
     "lat": 36,
@@ -651,6 +716,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "All",
     "lat": 36,
@@ -661,6 +727,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "All",
     "lat": 36,
@@ -671,6 +738,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "All",
     "lat": 36,
@@ -681,6 +749,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -691,6 +760,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -701,6 +771,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -711,6 +782,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -721,6 +793,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -731,6 +804,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -741,6 +815,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -751,6 +826,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -761,6 +837,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -771,6 +848,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -781,6 +859,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -791,6 +870,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -801,6 +881,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -811,6 +892,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -821,6 +903,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -831,6 +914,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -841,6 +925,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -851,6 +936,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -861,6 +947,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -871,6 +958,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -881,6 +969,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -891,6 +980,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -901,6 +991,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -911,6 +1002,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -921,6 +1013,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -931,6 +1024,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -941,6 +1035,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -951,6 +1046,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -961,6 +1057,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -971,6 +1068,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -981,6 +1079,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -991,6 +1090,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -1001,6 +1101,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -1011,6 +1112,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "All",
     "lat": 37,
@@ -1021,6 +1123,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1031,6 +1134,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1041,6 +1145,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1051,6 +1156,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1061,6 +1167,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1071,6 +1178,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1081,6 +1189,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1091,6 +1200,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1101,6 +1211,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1111,6 +1222,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1121,6 +1233,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1131,6 +1244,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1141,6 +1255,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1151,6 +1266,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1161,6 +1277,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1171,6 +1288,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1181,6 +1299,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1191,6 +1310,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1201,6 +1321,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1211,6 +1332,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1221,6 +1343,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1231,6 +1354,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1241,6 +1365,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1251,6 +1376,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1261,6 +1387,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1271,6 +1398,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1281,6 +1409,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1291,6 +1420,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1301,6 +1431,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1311,6 +1442,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1321,6 +1453,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1331,6 +1464,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1341,6 +1475,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1351,6 +1486,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "All",
     "lat": 13,
@@ -1361,6 +1497,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "All",
     "lat": 16.16666666,
@@ -1371,6 +1508,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "All",
     "lat": 16.16666666,
@@ -1381,6 +1519,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "All",
     "lat": 16.16666666,
@@ -1391,6 +1530,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "All",
     "lat": 16.16666666,
@@ -1401,6 +1541,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "All",
     "lat": 16.16666666,
@@ -1411,6 +1552,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "All",
     "lat": 16.16666666,
@@ -1421,6 +1563,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "All",
     "lat": 16.16666666,
@@ -1431,6 +1574,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "All",
     "lat": 16.16666666,
@@ -1441,6 +1585,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "All",
     "lat": 16.16666666,
@@ -1451,6 +1596,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "All",
     "lat": 16.16666666,
@@ -1461,6 +1607,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "All",
     "lat": 16.16666666,
@@ -1471,6 +1618,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "All",
     "lat": 16.16666666,
@@ -1481,6 +1629,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "All",
     "lat": 16.16666666,
@@ -1491,6 +1640,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "All",
     "lat": 16.16666666,
@@ -1501,6 +1651,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "All",
     "lat": 16.16666666,
@@ -1511,6 +1662,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "All",
     "lat": 16.16666666,
@@ -1521,6 +1673,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "All",
     "lat": 16.16666666,
@@ -1531,6 +1684,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "All",
     "lat": 16.16666666,
@@ -1541,6 +1695,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "All",
     "lat": 16.16666666,
@@ -1551,6 +1706,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "All",
     "lat": 16.16666666,
@@ -1561,6 +1717,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "All",
     "lat": 16.16666666,
@@ -1571,6 +1728,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "All",
     "lat": 16.16666666,
@@ -1581,6 +1739,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "All",
     "lat": 16.16666666,
@@ -1591,6 +1750,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "All",
     "lat": 16.16666666,
@@ -1601,6 +1761,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "All",
     "lat": 16.16666666,
@@ -1611,6 +1772,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "All",
     "lat": 16.16666666,
@@ -1621,6 +1783,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "All",
     "lat": 16.16666666,
@@ -1631,6 +1794,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "All",
     "lat": 16.16666666,
@@ -1641,6 +1805,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "All",
     "lat": 16.16666666,
@@ -1651,6 +1816,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "All",
     "lat": 16.16666666,
@@ -1661,6 +1827,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "All",
     "lat": 16.16666666,
@@ -1671,6 +1838,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "All",
     "lat": 16.16666666,
@@ -1681,6 +1849,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "All",
     "lat": 16.16666666,
@@ -1691,6 +1860,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "All",
     "lat": 16.16666666,
@@ -1701,6 +1871,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -1711,6 +1882,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -1721,6 +1893,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -1731,6 +1904,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -1741,6 +1915,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -1751,6 +1926,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -1761,6 +1937,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -1771,6 +1948,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -1781,6 +1959,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -1791,6 +1970,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -1801,6 +1981,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -1811,6 +1992,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -1821,6 +2003,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -1831,6 +2014,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -1841,6 +2025,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -1851,6 +2036,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -1861,6 +2047,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -1871,6 +2058,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -1881,6 +2069,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -1891,6 +2080,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -1901,6 +2091,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -1911,6 +2102,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -1921,6 +2113,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -1931,6 +2124,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -1941,6 +2135,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -1951,6 +2146,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -1961,6 +2157,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -1971,6 +2168,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -1981,6 +2179,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -1991,6 +2190,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -2001,6 +2201,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -2011,6 +2212,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -2021,6 +2223,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -2031,6 +2234,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "All",
     "lat": 20,
@@ -2041,6 +2245,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2051,6 +2256,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2061,6 +2267,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2071,6 +2278,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2081,6 +2289,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2091,6 +2300,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2101,6 +2311,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2111,6 +2322,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2121,6 +2333,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2131,6 +2344,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2141,6 +2355,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2151,6 +2366,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2161,6 +2377,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2171,6 +2388,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2181,6 +2399,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2191,6 +2410,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2201,6 +2421,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2211,6 +2432,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2221,6 +2443,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2231,6 +2454,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2241,6 +2465,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2251,6 +2476,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2261,6 +2487,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2271,6 +2498,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2281,6 +2509,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2291,6 +2520,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2301,6 +2531,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2311,6 +2542,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2321,6 +2553,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2331,6 +2564,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2341,6 +2575,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2351,6 +2586,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2361,6 +2597,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2371,6 +2608,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "All",
     "lat": 32,
@@ -2381,6 +2619,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2391,6 +2630,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2401,6 +2641,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2411,6 +2652,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2421,6 +2663,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2431,6 +2674,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2441,6 +2685,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2451,6 +2696,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2461,6 +2707,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2471,6 +2718,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2481,6 +2729,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2491,6 +2740,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2501,6 +2751,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2511,6 +2762,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2521,6 +2773,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2531,6 +2784,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2541,6 +2795,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2551,6 +2806,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2561,6 +2817,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2571,6 +2828,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2581,6 +2839,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2591,6 +2850,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2601,6 +2861,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2611,6 +2872,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2621,6 +2883,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2631,6 +2894,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2641,6 +2905,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2651,6 +2916,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2661,6 +2927,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2671,6 +2938,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2681,6 +2949,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2691,6 +2960,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2701,6 +2971,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2711,6 +2982,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "All",
     "lat": 30,
@@ -2721,6 +2993,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -2731,6 +3004,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -2741,6 +3015,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -2751,6 +3026,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -2761,6 +3037,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -2771,6 +3048,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -2781,6 +3059,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -2791,6 +3070,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -2801,6 +3081,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -2811,6 +3092,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -2821,6 +3103,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -2831,6 +3114,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -2841,6 +3125,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -2851,6 +3136,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -2861,6 +3147,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -2871,6 +3158,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -2881,6 +3169,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -2891,6 +3180,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -2901,6 +3191,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -2911,6 +3202,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -2921,6 +3213,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -2931,6 +3224,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -2941,6 +3235,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -2951,6 +3246,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -2961,6 +3257,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -2971,6 +3268,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -2981,6 +3279,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -2991,6 +3290,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -3001,6 +3301,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -3011,6 +3312,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -3021,6 +3323,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -3031,6 +3334,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -3041,6 +3345,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -3051,6 +3356,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "All",
     "lat": 7,
@@ -3061,6 +3367,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "All",
     "lat": 33.83333333,
@@ -3071,6 +3378,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "All",
     "lat": 33.83333333,
@@ -3081,6 +3389,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "All",
     "lat": 33.83333333,
@@ -3091,6 +3400,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "All",
     "lat": 33.83333333,
@@ -3101,6 +3411,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "All",
     "lat": 33.83333333,
@@ -3111,6 +3422,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "All",
     "lat": 33.83333333,
@@ -3121,6 +3433,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "All",
     "lat": 33.83333333,
@@ -3131,6 +3444,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "All",
     "lat": 33.83333333,
@@ -3141,6 +3455,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "All",
     "lat": 33.83333333,
@@ -3151,6 +3466,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "All",
     "lat": 33.83333333,
@@ -3161,6 +3477,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "All",
     "lat": 33.83333333,
@@ -3171,6 +3488,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "All",
     "lat": 33.83333333,
@@ -3181,6 +3499,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "All",
     "lat": 33.83333333,
@@ -3191,6 +3510,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "All",
     "lat": 33.83333333,
@@ -3201,6 +3521,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "All",
     "lat": 33.83333333,
@@ -3211,6 +3532,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "All",
     "lat": 33.83333333,
@@ -3221,6 +3543,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "All",
     "lat": 33.83333333,
@@ -3231,6 +3554,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "All",
     "lat": 33.83333333,
@@ -3241,6 +3565,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "All",
     "lat": 33.83333333,
@@ -3251,6 +3576,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "All",
     "lat": 33.83333333,
@@ -3261,6 +3587,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "All",
     "lat": 33.83333333,
@@ -3271,6 +3598,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "All",
     "lat": 33.83333333,
@@ -3281,6 +3609,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "All",
     "lat": 33.83333333,
@@ -3291,6 +3620,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "All",
     "lat": 33.83333333,
@@ -3301,6 +3631,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "All",
     "lat": 33.83333333,
@@ -3311,6 +3642,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "All",
     "lat": 33.83333333,
@@ -3321,6 +3653,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "All",
     "lat": 33.83333333,
@@ -3331,6 +3664,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "All",
     "lat": 33.83333333,
@@ -3341,6 +3675,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "All",
     "lat": 33.83333333,
@@ -3351,6 +3686,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "All",
     "lat": 33.83333333,
@@ -3361,6 +3697,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "All",
     "lat": 33.83333333,
@@ -3371,6 +3708,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "All",
     "lat": 33.83333333,
@@ -3381,6 +3719,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "All",
     "lat": 33.83333333,
@@ -3391,6 +3730,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "All",
     "lat": 33.83333333,
@@ -3401,6 +3741,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3411,6 +3752,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3421,6 +3763,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3431,6 +3774,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3441,6 +3785,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3451,6 +3796,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3461,6 +3807,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3471,6 +3818,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3481,6 +3829,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3491,6 +3840,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3501,6 +3851,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3511,6 +3862,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3521,6 +3873,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3531,6 +3884,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3541,6 +3895,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3551,6 +3906,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3561,6 +3917,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3571,6 +3928,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3581,6 +3939,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3591,6 +3950,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3601,6 +3961,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3611,6 +3972,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3621,6 +3983,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3631,6 +3994,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3641,6 +4005,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3651,6 +4016,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3661,6 +4027,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3671,6 +4038,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3681,6 +4049,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3691,6 +4060,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3701,6 +4071,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3711,6 +4082,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3721,6 +4093,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3731,6 +4104,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "All",
     "lat": 52,
@@ -3741,6 +4115,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "All",
     "lat": 46,
@@ -3751,6 +4126,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "All",
     "lat": 46,
@@ -3761,6 +4137,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "All",
     "lat": 46,
@@ -3771,6 +4148,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "All",
     "lat": 46,
@@ -3781,6 +4159,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "All",
     "lat": 46,
@@ -3791,6 +4170,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "All",
     "lat": 46,
@@ -3801,6 +4181,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "All",
     "lat": 46,
@@ -3811,6 +4192,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "All",
     "lat": 46,
@@ -3821,6 +4203,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "All",
     "lat": 46,
@@ -3831,6 +4214,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "All",
     "lat": 46,
@@ -3841,6 +4225,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "All",
     "lat": 46,
@@ -3851,6 +4236,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "All",
     "lat": 46,
@@ -3861,6 +4247,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "All",
     "lat": 46,
@@ -3871,6 +4258,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "All",
     "lat": 46,
@@ -3881,6 +4269,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "All",
     "lat": 46,
@@ -3891,6 +4280,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "All",
     "lat": 46,
@@ -3901,6 +4291,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "All",
     "lat": 46,
@@ -3911,6 +4302,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "All",
     "lat": 46,
@@ -3921,6 +4313,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "All",
     "lat": 46,
@@ -3931,6 +4324,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "All",
     "lat": 46,
@@ -3941,6 +4335,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "All",
     "lat": 46,
@@ -3951,6 +4346,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "All",
     "lat": 46,
@@ -3961,6 +4357,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "All",
     "lat": 46,
@@ -3971,6 +4368,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "All",
     "lat": 46,
@@ -3981,6 +4379,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "All",
     "lat": 46,
@@ -3991,6 +4390,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "All",
     "lat": 46,
@@ -4001,6 +4401,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "All",
     "lat": 46,
@@ -4011,6 +4412,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "All",
     "lat": 46,
@@ -4021,6 +4423,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "All",
     "lat": 46,
@@ -4031,6 +4434,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "All",
     "lat": 46,
@@ -4041,6 +4445,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "All",
     "lat": 46,
@@ -4051,6 +4456,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "All",
     "lat": 46,
@@ -4061,6 +4467,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "All",
     "lat": 46,
@@ -4071,6 +4478,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "All",
     "lat": 46,
@@ -4081,6 +4489,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "All",
     "lat": 60,
@@ -4091,6 +4500,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "All",
     "lat": 60,
@@ -4101,6 +4511,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "All",
     "lat": 60,
@@ -4111,6 +4522,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "All",
     "lat": 60,
@@ -4121,6 +4533,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "All",
     "lat": 60,
@@ -4131,6 +4544,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "All",
     "lat": 60,
@@ -4141,6 +4555,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "All",
     "lat": 60,
@@ -4151,6 +4566,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "All",
     "lat": 60,
@@ -4161,6 +4577,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "All",
     "lat": 60,
@@ -4171,6 +4588,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "All",
     "lat": 60,
@@ -4181,6 +4599,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "All",
     "lat": 60,
@@ -4191,6 +4610,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "All",
     "lat": 60,
@@ -4201,6 +4621,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "All",
     "lat": 60,
@@ -4211,6 +4632,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "All",
     "lat": 60,
@@ -4221,6 +4643,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "All",
     "lat": 60,
@@ -4231,6 +4654,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "All",
     "lat": 60,
@@ -4241,6 +4665,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "All",
     "lat": 60,
@@ -4251,6 +4676,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "All",
     "lat": 60,
@@ -4261,6 +4687,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "All",
     "lat": 60,
@@ -4271,6 +4698,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "All",
     "lat": 60,
@@ -4281,6 +4709,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "All",
     "lat": 60,
@@ -4291,6 +4720,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "All",
     "lat": 60,
@@ -4301,6 +4731,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "All",
     "lat": 60,
@@ -4311,6 +4742,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "All",
     "lat": 60,
@@ -4321,6 +4753,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "All",
     "lat": 60,
@@ -4331,6 +4764,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "All",
     "lat": 60,
@@ -4341,6 +4775,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "All",
     "lat": 60,
@@ -4351,6 +4786,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "All",
     "lat": 60,
@@ -4361,6 +4797,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "All",
     "lat": 60,
@@ -4371,6 +4808,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "All",
     "lat": 60,
@@ -4381,6 +4819,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "All",
     "lat": 60,
@@ -4391,6 +4830,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "All",
     "lat": 60,
@@ -4401,6 +4841,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "All",
     "lat": 60,
@@ -4411,6 +4852,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "All",
     "lat": 60,
@@ -4421,6 +4863,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "All",
     "lat": 49,
@@ -4431,6 +4874,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "All",
     "lat": 49,
@@ -4441,6 +4885,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "All",
     "lat": 49,
@@ -4451,6 +4896,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "All",
     "lat": 49,
@@ -4461,6 +4907,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "All",
     "lat": 49,
@@ -4471,6 +4918,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "All",
     "lat": 49,
@@ -4481,6 +4929,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "All",
     "lat": 49,
@@ -4491,6 +4940,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "All",
     "lat": 49,
@@ -4501,6 +4951,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "All",
     "lat": 49,
@@ -4511,6 +4962,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "All",
     "lat": 49,
@@ -4521,6 +4973,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "All",
     "lat": 49,
@@ -4531,6 +4984,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "All",
     "lat": 49,
@@ -4541,6 +4995,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "All",
     "lat": 49,
@@ -4551,6 +5006,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "All",
     "lat": 49,
@@ -4561,6 +5017,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "All",
     "lat": 49,
@@ -4571,6 +5028,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "All",
     "lat": 49,
@@ -4581,6 +5039,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "All",
     "lat": 49,
@@ -4591,6 +5050,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "All",
     "lat": 49,
@@ -4601,6 +5061,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "All",
     "lat": 49,
@@ -4611,6 +5072,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "All",
     "lat": 49,
@@ -4621,6 +5083,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "All",
     "lat": 49,
@@ -4631,6 +5094,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "All",
     "lat": 49,
@@ -4641,6 +5105,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "All",
     "lat": 49,
@@ -4651,6 +5116,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "All",
     "lat": 49,
@@ -4661,6 +5127,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "All",
     "lat": 49,
@@ -4671,6 +5138,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "All",
     "lat": 49,
@@ -4681,6 +5149,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "All",
     "lat": 49,
@@ -4691,6 +5160,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "All",
     "lat": 49,
@@ -4701,6 +5171,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "All",
     "lat": 49,
@@ -4711,6 +5182,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "All",
     "lat": 49,
@@ -4721,6 +5193,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "All",
     "lat": 49,
@@ -4731,6 +5204,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "All",
     "lat": 49,
@@ -4741,6 +5215,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "All",
     "lat": 49,
@@ -4751,6 +5226,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "All",
     "lat": 49,
@@ -4761,6 +5237,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -4771,6 +5248,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -4781,6 +5259,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -4791,6 +5270,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -4801,6 +5281,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -4811,6 +5292,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -4821,6 +5303,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -4831,6 +5314,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -4841,6 +5325,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -4851,6 +5336,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -4861,6 +5347,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -4871,6 +5358,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -4881,6 +5369,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -4891,6 +5380,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -4901,6 +5391,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -4911,6 +5402,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -4921,6 +5413,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -4931,6 +5424,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -4941,6 +5435,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -4951,6 +5446,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -4961,6 +5457,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -4971,6 +5468,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -4981,6 +5479,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -4991,6 +5490,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -5001,6 +5501,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -5011,6 +5512,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -5021,6 +5523,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -5031,6 +5534,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -5041,6 +5545,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -5051,6 +5556,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -5061,6 +5567,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -5071,6 +5578,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -5081,6 +5589,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -5091,6 +5600,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "All",
     "lat": 54,
@@ -5101,6 +5611,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "All",
     "lat": 39.5,
@@ -5111,6 +5622,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "All",
     "lat": 39.5,
@@ -5121,6 +5633,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "All",
     "lat": 39.5,
@@ -5131,6 +5644,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "All",
     "lat": 39.5,
@@ -5141,6 +5655,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "All",
     "lat": 39.5,
@@ -5151,6 +5666,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "All",
     "lat": 39.5,
@@ -5161,6 +5677,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "All",
     "lat": 39.5,
@@ -5171,6 +5688,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "All",
     "lat": 39.5,
@@ -5181,6 +5699,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "All",
     "lat": 39.5,
@@ -5191,6 +5710,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "All",
     "lat": 39.5,
@@ -5201,6 +5721,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "All",
     "lat": 39.5,
@@ -5211,6 +5732,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "All",
     "lat": 39.5,
@@ -5221,6 +5743,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "All",
     "lat": 39.5,
@@ -5231,6 +5754,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "All",
     "lat": 39.5,
@@ -5241,6 +5765,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "All",
     "lat": 39.5,
@@ -5251,6 +5776,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "All",
     "lat": 39.5,
@@ -5261,6 +5787,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "All",
     "lat": 39.5,
@@ -5271,6 +5798,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "All",
     "lat": 39.5,
@@ -5281,6 +5809,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "All",
     "lat": 39.5,
@@ -5291,6 +5820,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "All",
     "lat": 39.5,
@@ -5301,6 +5831,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "All",
     "lat": 39.5,
@@ -5311,6 +5842,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "All",
     "lat": 39.5,
@@ -5321,6 +5853,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "All",
     "lat": 39.5,
@@ -5331,6 +5864,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "All",
     "lat": 39.5,
@@ -5341,6 +5875,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "All",
     "lat": 39.5,
@@ -5351,6 +5886,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "All",
     "lat": 39.5,
@@ -5361,6 +5897,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "All",
     "lat": 39.5,
@@ -5371,6 +5908,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "All",
     "lat": 39.5,
@@ -5381,6 +5919,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "All",
     "lat": 39.5,
@@ -5391,6 +5930,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "All",
     "lat": 39.5,
@@ -5401,6 +5941,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "All",
     "lat": 39.5,
@@ -5411,6 +5952,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "All",
     "lat": 39.5,
@@ -5421,6 +5963,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "All",
     "lat": 39.5,
@@ -5431,6 +5974,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "All",
     "lat": 39.5,
@@ -5441,6 +5985,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "All",
     "lat": 46,
@@ -5451,6 +5996,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "All",
     "lat": 46,
@@ -5461,6 +6007,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "All",
     "lat": 46,
@@ -5471,6 +6018,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "All",
     "lat": 46,
@@ -5481,6 +6029,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "All",
     "lat": 46,
@@ -5491,6 +6040,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "All",
     "lat": 46,
@@ -5501,6 +6051,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "All",
     "lat": 46,
@@ -5511,6 +6062,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "All",
     "lat": 46,
@@ -5521,6 +6073,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "All",
     "lat": 46,
@@ -5531,6 +6084,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "All",
     "lat": 46,
@@ -5541,6 +6095,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "All",
     "lat": 46,
@@ -5551,6 +6106,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "All",
     "lat": 46,
@@ -5561,6 +6117,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "All",
     "lat": 46,
@@ -5571,6 +6128,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "All",
     "lat": 46,
@@ -5581,6 +6139,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "All",
     "lat": 46,
@@ -5591,6 +6150,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "All",
     "lat": 46,
@@ -5601,6 +6161,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "All",
     "lat": 46,
@@ -5611,6 +6172,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "All",
     "lat": 46,
@@ -5621,6 +6183,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "All",
     "lat": 46,
@@ -5631,6 +6194,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "All",
     "lat": 46,
@@ -5641,6 +6205,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "All",
     "lat": 46,
@@ -5651,6 +6216,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "All",
     "lat": 46,
@@ -5661,6 +6227,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "All",
     "lat": 46,
@@ -5671,6 +6238,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "All",
     "lat": 46,
@@ -5681,6 +6249,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "All",
     "lat": 46,
@@ -5691,6 +6260,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "All",
     "lat": 46,
@@ -5701,6 +6271,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "All",
     "lat": 46,
@@ -5711,6 +6282,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "All",
     "lat": 46,
@@ -5721,6 +6293,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "All",
     "lat": 46,
@@ -5731,6 +6304,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "All",
     "lat": 46,
@@ -5741,6 +6315,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "All",
     "lat": 46,
@@ -5751,6 +6326,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "All",
     "lat": 46,
@@ -5761,6 +6337,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "All",
     "lat": 46,
@@ -5771,6 +6348,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "All",
     "lat": 46,
@@ -5781,6 +6359,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "All",
     "lat": 51,
@@ -5791,6 +6370,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "All",
     "lat": 51,
@@ -5801,6 +6381,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "All",
     "lat": 51,
@@ -5811,6 +6392,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "All",
     "lat": 51,
@@ -5821,6 +6403,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "All",
     "lat": 51,
@@ -5831,6 +6414,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "All",
     "lat": 51,
@@ -5841,6 +6425,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "All",
     "lat": 51,
@@ -5851,6 +6436,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "All",
     "lat": 51,
@@ -5861,6 +6447,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "All",
     "lat": 51,
@@ -5871,6 +6458,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "All",
     "lat": 51,
@@ -5881,6 +6469,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "All",
     "lat": 51,
@@ -5891,6 +6480,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "All",
     "lat": 51,
@@ -5901,6 +6491,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "All",
     "lat": 51,
@@ -5911,6 +6502,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "All",
     "lat": 51,
@@ -5921,6 +6513,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "All",
     "lat": 51,
@@ -5931,6 +6524,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "All",
     "lat": 51,
@@ -5941,6 +6535,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "All",
     "lat": 51,
@@ -5951,6 +6546,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "All",
     "lat": 51,
@@ -5961,6 +6557,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "All",
     "lat": 51,
@@ -5971,6 +6568,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "All",
     "lat": 51,
@@ -5981,6 +6579,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "All",
     "lat": 51,
@@ -5991,6 +6590,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "All",
     "lat": 51,
@@ -6001,6 +6601,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "All",
     "lat": 51,
@@ -6011,6 +6612,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "All",
     "lat": 51,
@@ -6021,6 +6623,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "All",
     "lat": 51,
@@ -6031,6 +6634,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "All",
     "lat": 51,
@@ -6041,6 +6645,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "All",
     "lat": 51,
@@ -6051,6 +6656,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "All",
     "lat": 51,
@@ -6061,6 +6667,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "All",
     "lat": 51,
@@ -6071,6 +6678,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "All",
     "lat": 51,
@@ -6081,6 +6689,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "All",
     "lat": 51,
@@ -6091,6 +6700,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "All",
     "lat": 51,
@@ -6101,6 +6711,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "All",
     "lat": 51,
@@ -6111,6 +6722,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "All",
     "lat": 51,
@@ -6121,6 +6733,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "All",
     "lat": 18.25,
@@ -6131,6 +6744,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "All",
     "lat": 18.25,
@@ -6141,6 +6755,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "All",
     "lat": 18.25,
@@ -6151,6 +6766,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "All",
     "lat": 18.25,
@@ -6161,6 +6777,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "All",
     "lat": 18.25,
@@ -6171,6 +6788,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "All",
     "lat": 18.25,
@@ -6181,6 +6799,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "All",
     "lat": 18.25,
@@ -6191,6 +6810,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "All",
     "lat": 18.25,
@@ -6201,6 +6821,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "All",
     "lat": 18.25,
@@ -6211,6 +6832,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "All",
     "lat": 18.25,
@@ -6221,6 +6843,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "All",
     "lat": 18.25,
@@ -6231,6 +6854,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "All",
     "lat": 18.25,
@@ -6241,6 +6865,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "All",
     "lat": 18.25,
@@ -6251,6 +6876,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "All",
     "lat": 18.25,
@@ -6261,6 +6887,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "All",
     "lat": 18.25,
@@ -6271,6 +6898,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "All",
     "lat": 18.25,
@@ -6281,6 +6909,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "All",
     "lat": 18.25,
@@ -6291,6 +6920,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "All",
     "lat": 18.25,
@@ -6301,6 +6931,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "All",
     "lat": 18.25,
@@ -6311,6 +6942,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "All",
     "lat": 18.25,
@@ -6321,6 +6953,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "All",
     "lat": 18.25,
@@ -6331,6 +6964,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "All",
     "lat": 18.25,
@@ -6341,6 +6975,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "All",
     "lat": 18.25,
@@ -6351,6 +6986,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "All",
     "lat": 18.25,
@@ -6361,6 +6997,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "All",
     "lat": 18.25,
@@ -6371,6 +7008,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "All",
     "lat": 18.25,
@@ -6381,6 +7019,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "All",
     "lat": 18.25,
@@ -6391,6 +7030,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "All",
     "lat": 18.25,
@@ -6401,6 +7041,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "All",
     "lat": 18.25,
@@ -6411,6 +7052,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "All",
     "lat": 18.25,
@@ -6421,6 +7063,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "All",
     "lat": 18.25,
@@ -6431,6 +7074,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "All",
     "lat": 18.25,
@@ -6441,6 +7085,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "All",
     "lat": 18.25,
@@ -6451,6 +7096,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "All",
     "lat": 18.25,
@@ -6461,6 +7107,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -6471,6 +7118,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -6481,6 +7129,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -6491,6 +7140,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -6501,6 +7151,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -6511,6 +7162,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -6521,6 +7173,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -6531,6 +7184,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -6541,6 +7195,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -6551,6 +7206,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -6561,6 +7217,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -6571,6 +7228,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -6581,6 +7239,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -6591,6 +7250,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -6601,6 +7261,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -6611,6 +7272,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -6621,6 +7283,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -6631,6 +7294,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -6641,6 +7305,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -6651,6 +7316,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -6661,6 +7327,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -6671,6 +7338,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -6681,6 +7349,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -6691,6 +7360,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -6701,6 +7371,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -6711,6 +7382,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -6721,6 +7393,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -6731,6 +7404,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -6741,6 +7415,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -6751,6 +7426,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -6761,6 +7437,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -6771,6 +7448,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -6781,6 +7459,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -6791,6 +7470,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "All",
     "lat": 38,
@@ -6801,6 +7481,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -6811,6 +7492,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -6821,6 +7503,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -6831,6 +7514,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -6841,6 +7525,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -6851,6 +7536,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -6861,6 +7547,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -6871,6 +7558,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -6881,6 +7569,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -6891,6 +7580,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -6901,6 +7591,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -6911,6 +7602,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -6921,6 +7613,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -6931,6 +7624,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -6941,6 +7635,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -6951,6 +7646,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -6961,6 +7657,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -6971,6 +7668,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -6981,6 +7679,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -6991,6 +7690,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -7001,6 +7701,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -7011,6 +7712,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -7021,6 +7723,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -7031,6 +7734,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -7041,6 +7745,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -7051,6 +7756,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -7061,6 +7767,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -7071,6 +7778,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -7081,6 +7789,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -7091,6 +7800,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -7101,6 +7811,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -7111,6 +7822,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -7121,6 +7833,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -7131,6 +7844,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "China",
     "devname": "Developing regions",
     "lat": 35,
@@ -7141,6 +7855,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -7151,6 +7866,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -7161,6 +7877,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -7171,6 +7888,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -7181,6 +7899,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -7191,6 +7910,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -7201,6 +7921,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -7211,6 +7932,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -7221,6 +7943,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -7231,6 +7954,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -7241,6 +7965,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -7251,6 +7976,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -7261,6 +7987,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -7271,6 +7998,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -7281,6 +8009,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -7291,6 +8020,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -7301,6 +8031,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -7311,6 +8042,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -7321,6 +8053,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -7331,6 +8064,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -7341,6 +8075,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -7351,6 +8086,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -7361,6 +8097,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -7371,6 +8108,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -7381,6 +8119,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -7391,6 +8130,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -7401,6 +8141,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -7411,6 +8152,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -7421,6 +8163,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -7431,6 +8174,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -7441,6 +8185,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -7451,6 +8196,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -7461,6 +8207,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -7471,6 +8218,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "France",
     "devname": "Developed regions",
     "lat": 46,
@@ -7481,6 +8229,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -7491,6 +8240,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -7501,6 +8251,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -7511,6 +8262,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -7521,6 +8273,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -7531,6 +8284,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -7541,6 +8295,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -7551,6 +8306,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -7561,6 +8317,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -7571,6 +8328,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -7581,6 +8339,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -7591,6 +8350,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -7601,6 +8361,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -7611,6 +8372,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -7621,6 +8383,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -7631,6 +8394,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -7641,6 +8405,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -7651,6 +8416,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -7661,6 +8427,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -7671,6 +8438,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -7681,6 +8449,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -7691,6 +8460,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -7701,6 +8471,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -7711,6 +8482,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -7721,6 +8493,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -7731,6 +8504,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -7741,6 +8515,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -7751,6 +8526,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -7761,6 +8537,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -7771,6 +8548,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -7781,6 +8559,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -7791,6 +8570,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -7801,6 +8581,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -7811,6 +8592,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Western Europe",
     "country": "Germany",
     "devname": "Developed regions",
     "lat": 51,
@@ -7821,6 +8603,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -7831,6 +8614,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -7841,6 +8625,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -7851,6 +8636,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -7861,6 +8647,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -7871,6 +8658,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -7881,6 +8669,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -7891,6 +8680,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -7901,6 +8691,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -7911,6 +8702,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -7921,6 +8713,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -7931,6 +8724,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -7941,6 +8735,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -7951,6 +8746,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -7961,6 +8757,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -7971,6 +8768,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -7981,6 +8779,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -7991,6 +8790,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8001,6 +8801,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8011,6 +8812,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8021,6 +8823,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8031,6 +8834,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8041,6 +8845,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8051,6 +8856,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8061,6 +8867,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8071,6 +8878,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8081,6 +8889,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8091,6 +8900,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8101,6 +8911,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8111,6 +8922,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8121,6 +8933,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8131,6 +8944,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8141,6 +8955,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8151,6 +8966,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "India",
     "devname": "Developing regions",
     "lat": 20,
@@ -8161,6 +8977,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -8171,6 +8988,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -8181,6 +8999,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -8191,6 +9010,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -8201,6 +9021,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -8211,6 +9032,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -8221,6 +9043,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -8231,6 +9054,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -8241,6 +9065,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -8251,6 +9076,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -8261,6 +9087,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -8271,6 +9098,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -8281,6 +9109,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -8291,6 +9120,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -8301,6 +9131,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -8311,6 +9142,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -8321,6 +9153,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -8331,6 +9164,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -8341,6 +9175,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -8351,6 +9186,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -8361,6 +9197,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -8371,6 +9208,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -8381,6 +9219,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -8391,6 +9230,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -8401,6 +9241,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -8411,6 +9252,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -8421,6 +9263,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -8431,6 +9274,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -8441,6 +9285,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -8451,6 +9296,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -8461,6 +9307,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -8471,6 +9318,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -8481,6 +9329,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -8491,6 +9340,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Iran",
     "devname": "Developing regions",
     "lat": 32,
@@ -8501,6 +9351,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -8511,6 +9362,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -8521,6 +9373,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -8531,6 +9384,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -8541,6 +9395,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -8551,6 +9406,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -8561,6 +9417,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -8571,6 +9428,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -8581,6 +9439,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -8591,6 +9450,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -8601,6 +9461,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -8611,6 +9472,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -8621,6 +9483,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -8631,6 +9494,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -8641,6 +9505,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -8651,6 +9516,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -8661,6 +9527,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -8671,6 +9538,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -8681,6 +9549,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -8691,6 +9560,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -8701,6 +9571,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -8711,6 +9582,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -8721,6 +9593,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -8731,6 +9604,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -8741,6 +9615,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -8751,6 +9626,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -8761,6 +9637,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -8771,6 +9648,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -8781,6 +9659,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -8791,6 +9670,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -8801,6 +9681,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -8811,6 +9692,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -8821,6 +9703,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -8831,6 +9714,7 @@
   },
   {
     "areaname": "Latin America and the Caribbean",
+    "regname": "Caribbean",
     "country": "Jamaica",
     "devname": "Developing regions",
     "lat": 18.25,
@@ -8841,6 +9725,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -8851,6 +9736,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -8861,6 +9747,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -8871,6 +9758,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -8881,6 +9769,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -8891,6 +9780,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -8901,6 +9791,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -8911,6 +9802,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -8921,6 +9813,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -8931,6 +9824,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -8941,6 +9835,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -8951,6 +9846,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -8961,6 +9857,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -8971,6 +9868,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -8981,6 +9879,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -8991,6 +9890,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -9001,6 +9901,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -9011,6 +9912,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -9021,6 +9923,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -9031,6 +9934,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -9041,6 +9945,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -9051,6 +9956,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -9061,6 +9967,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -9071,6 +9978,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -9081,6 +9989,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -9091,6 +10000,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -9101,6 +10011,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -9111,6 +10022,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -9121,6 +10033,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -9131,6 +10044,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -9141,6 +10055,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -9151,6 +10066,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -9161,6 +10077,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -9171,6 +10088,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Japan",
     "devname": "Developed regions",
     "lat": 36,
@@ -9181,6 +10099,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -9191,6 +10110,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -9201,6 +10121,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -9211,6 +10132,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -9221,6 +10143,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -9231,6 +10154,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -9241,6 +10165,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -9251,6 +10176,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -9261,6 +10187,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -9271,6 +10198,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -9281,6 +10209,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -9291,6 +10220,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -9301,6 +10231,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -9311,6 +10242,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -9321,6 +10253,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -9331,6 +10264,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -9341,6 +10275,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -9351,6 +10286,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -9361,6 +10297,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -9371,6 +10308,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -9381,6 +10319,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -9391,6 +10330,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -9401,6 +10341,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -9411,6 +10352,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -9421,6 +10363,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -9431,6 +10374,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -9441,6 +10385,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -9451,6 +10396,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -9461,6 +10407,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -9471,6 +10418,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -9481,6 +10429,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -9491,6 +10440,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -9501,6 +10451,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -9511,6 +10462,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Western Asia",
     "country": "Lebanon",
     "devname": "Developing regions",
     "lat": 33.83333333,
@@ -9521,6 +10473,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -9531,6 +10484,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -9541,6 +10495,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -9551,6 +10506,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -9561,6 +10517,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -9571,6 +10528,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -9581,6 +10539,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -9591,6 +10550,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -9601,6 +10561,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -9611,6 +10572,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -9621,6 +10583,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -9631,6 +10594,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -9641,6 +10605,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -9651,6 +10616,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -9661,6 +10627,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -9671,6 +10638,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -9681,6 +10649,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -9691,6 +10660,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -9701,6 +10671,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -9711,6 +10682,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -9721,6 +10693,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -9731,6 +10704,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -9741,6 +10715,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -9751,6 +10726,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -9761,6 +10737,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -9771,6 +10748,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -9781,6 +10759,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -9791,6 +10770,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -9801,6 +10781,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -9811,6 +10792,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -9821,6 +10803,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -9831,6 +10814,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -9841,6 +10825,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -9851,6 +10836,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Pakistan",
     "devname": "Developing regions",
     "lat": 30,
@@ -9861,6 +10847,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -9871,6 +10858,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -9881,6 +10869,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -9891,6 +10880,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -9901,6 +10891,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -9911,6 +10902,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -9921,6 +10913,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -9931,6 +10924,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -9941,6 +10935,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -9951,6 +10946,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -9961,6 +10957,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -9971,6 +10968,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -9981,6 +10979,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -9991,6 +10990,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -10001,6 +11001,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -10011,6 +11012,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -10021,6 +11023,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -10031,6 +11034,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -10041,6 +11045,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -10051,6 +11056,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -10061,6 +11067,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -10071,6 +11078,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -10081,6 +11089,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -10091,6 +11100,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -10101,6 +11111,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -10111,6 +11122,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -10121,6 +11133,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -10131,6 +11144,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -10141,6 +11155,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -10151,6 +11166,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -10161,6 +11177,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -10171,6 +11188,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -10181,6 +11199,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -10191,6 +11210,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Philippines",
     "devname": "Developing regions",
     "lat": 13,
@@ -10201,6 +11221,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -10211,6 +11232,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -10221,6 +11243,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -10231,6 +11254,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -10241,6 +11265,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -10251,6 +11276,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -10261,6 +11287,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -10271,6 +11298,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -10281,6 +11309,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -10291,6 +11320,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -10301,6 +11331,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -10311,6 +11342,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -10321,6 +11353,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -10331,6 +11364,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -10341,6 +11375,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -10351,6 +11386,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -10361,6 +11397,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -10371,6 +11408,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -10381,6 +11419,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -10391,6 +11430,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -10401,6 +11441,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -10411,6 +11452,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -10421,6 +11463,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -10431,6 +11474,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -10441,6 +11485,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -10451,6 +11496,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -10461,6 +11507,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -10471,6 +11518,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -10481,6 +11529,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -10491,6 +11540,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -10501,6 +11551,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -10511,6 +11562,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -10521,6 +11573,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -10531,6 +11584,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Poland",
     "devname": "Developed regions",
     "lat": 52,
@@ -10541,6 +11595,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -10551,6 +11606,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -10561,6 +11617,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -10571,6 +11628,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -10581,6 +11639,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -10591,6 +11650,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -10601,6 +11661,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -10611,6 +11672,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -10621,6 +11683,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -10631,6 +11694,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -10641,6 +11705,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -10651,6 +11716,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -10661,6 +11727,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -10671,6 +11738,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -10681,6 +11749,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -10691,6 +11760,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -10701,6 +11771,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -10711,6 +11782,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -10721,6 +11793,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -10731,6 +11804,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -10741,6 +11815,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -10751,6 +11826,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -10761,6 +11837,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -10771,6 +11848,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -10781,6 +11859,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -10791,6 +11870,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -10801,6 +11881,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -10811,6 +11892,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -10821,6 +11903,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -10831,6 +11914,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -10841,6 +11925,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -10851,6 +11936,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -10861,6 +11947,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -10871,6 +11958,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Southern Europe",
     "country": "Portugal",
     "devname": "Developed regions",
     "lat": 39.5,
@@ -10881,6 +11969,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -10891,6 +11980,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -10901,6 +11991,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -10911,6 +12002,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -10921,6 +12013,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -10931,6 +12024,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -10941,6 +12035,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -10951,6 +12046,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -10961,6 +12057,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -10971,6 +12068,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -10981,6 +12079,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -10991,6 +12090,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -11001,6 +12101,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -11011,6 +12112,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -11021,6 +12123,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -11031,6 +12134,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -11041,6 +12145,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -11051,6 +12156,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -11061,6 +12167,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -11071,6 +12178,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -11081,6 +12189,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -11091,6 +12200,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -11101,6 +12211,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -11111,6 +12222,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -11121,6 +12233,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -11131,6 +12244,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -11141,6 +12255,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -11151,6 +12266,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -11161,6 +12277,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -11171,6 +12288,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -11181,6 +12299,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -11191,6 +12310,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -11201,6 +12321,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -11211,6 +12332,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Eastern Asia",
     "country": "Republic of Korea",
     "devname": "Developing regions",
     "lat": 37,
@@ -11221,6 +12343,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -11231,6 +12354,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -11241,6 +12365,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -11251,6 +12376,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -11261,6 +12387,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -11271,6 +12398,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -11281,6 +12409,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -11291,6 +12420,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -11301,6 +12431,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -11311,6 +12442,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -11321,6 +12453,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -11331,6 +12464,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -11341,6 +12475,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -11351,6 +12486,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -11361,6 +12497,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -11371,6 +12508,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -11381,6 +12519,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -11391,6 +12530,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -11401,6 +12541,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -11411,6 +12552,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -11421,6 +12563,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -11431,6 +12574,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -11441,6 +12585,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -11451,6 +12596,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -11461,6 +12607,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -11471,6 +12618,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -11481,6 +12629,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -11491,6 +12640,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -11501,6 +12651,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -11511,6 +12662,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -11521,6 +12673,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -11531,6 +12684,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -11541,6 +12695,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -11551,6 +12706,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Romania",
     "devname": "Developed regions",
     "lat": 46,
@@ -11561,6 +12717,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -11571,6 +12728,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -11581,6 +12739,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -11591,6 +12750,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -11601,6 +12761,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -11611,6 +12772,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -11621,6 +12783,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -11631,6 +12794,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -11641,6 +12805,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -11651,6 +12816,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -11661,6 +12827,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -11671,6 +12838,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -11681,6 +12849,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -11691,6 +12860,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -11701,6 +12871,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -11711,6 +12882,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -11721,6 +12893,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -11731,6 +12904,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -11741,6 +12915,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -11751,6 +12926,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -11761,6 +12937,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -11771,6 +12948,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -11781,6 +12959,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -11791,6 +12970,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -11801,6 +12981,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -11811,6 +12992,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -11821,6 +13003,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -11831,6 +13014,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -11841,6 +13025,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -11851,6 +13036,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -11861,6 +13047,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -11871,6 +13058,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -11881,6 +13069,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -11891,6 +13080,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Russian Federation",
     "devname": "Developed regions",
     "lat": 60,
@@ -11901,6 +13091,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -11911,6 +13102,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -11921,6 +13113,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -11931,6 +13124,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -11941,6 +13135,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -11951,6 +13146,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -11961,6 +13157,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -11971,6 +13168,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -11981,6 +13179,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -11991,6 +13190,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -12001,6 +13201,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -12011,6 +13212,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -12021,6 +13223,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -12031,6 +13234,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -12041,6 +13245,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -12051,6 +13256,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -12061,6 +13267,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -12071,6 +13278,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -12081,6 +13289,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -12091,6 +13300,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -12101,6 +13311,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -12111,6 +13322,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -12121,6 +13333,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -12131,6 +13344,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -12141,6 +13355,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -12151,6 +13366,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -12161,6 +13377,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -12171,6 +13388,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -12181,6 +13399,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -12191,6 +13410,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -12201,6 +13421,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -12211,6 +13432,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -12221,6 +13443,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -12231,6 +13454,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "Southern Asia",
     "country": "Sri Lanka",
     "devname": "Developing regions",
     "lat": 7,
@@ -12241,6 +13465,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -12251,6 +13476,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -12261,6 +13487,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -12271,6 +13498,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -12281,6 +13509,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -12291,6 +13520,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -12301,6 +13531,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -12311,6 +13542,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -12321,6 +13553,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -12331,6 +13564,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -12341,6 +13575,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -12351,6 +13586,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -12361,6 +13597,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -12371,6 +13608,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -12381,6 +13619,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -12391,6 +13630,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -12401,6 +13641,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -12411,6 +13652,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -12421,6 +13663,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -12431,6 +13674,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -12441,6 +13685,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -12451,6 +13696,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -12461,6 +13707,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -12471,6 +13718,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -12481,6 +13729,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -12491,6 +13740,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -12501,6 +13751,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -12511,6 +13762,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -12521,6 +13773,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -12531,6 +13784,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -12541,6 +13795,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -12551,6 +13806,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -12561,6 +13817,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -12571,6 +13828,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Eastern Europe",
     "country": "Ukraine",
     "devname": "Developed regions",
     "lat": 49,
@@ -12581,6 +13839,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -12591,6 +13850,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -12601,6 +13861,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -12611,6 +13872,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -12621,6 +13883,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -12631,6 +13894,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -12641,6 +13905,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -12651,6 +13916,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -12661,6 +13927,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -12671,6 +13938,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -12681,6 +13949,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -12691,6 +13960,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -12701,6 +13971,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -12711,6 +13982,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -12721,6 +13993,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -12731,6 +14004,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -12741,6 +14015,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -12751,6 +14026,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -12761,6 +14037,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -12771,6 +14048,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -12781,6 +14059,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -12791,6 +14070,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -12801,6 +14081,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -12811,6 +14092,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -12821,6 +14103,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -12831,6 +14114,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -12841,6 +14125,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -12851,6 +14136,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -12861,6 +14147,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -12871,6 +14158,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -12881,6 +14169,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -12891,6 +14180,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -12901,6 +14191,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -12911,6 +14202,7 @@
   },
   {
     "areaname": "Europe",
+    "regname": "Northern Europe",
     "country": "United Kingdom",
     "devname": "Developed regions",
     "lat": 54,
@@ -12921,6 +14213,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -12931,6 +14224,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -12941,6 +14235,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -12951,6 +14246,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -12961,6 +14257,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -12971,6 +14268,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -12981,6 +14279,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -12991,6 +14290,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -13001,6 +14301,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -13011,6 +14312,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -13021,6 +14323,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -13031,6 +14334,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -13041,6 +14345,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -13051,6 +14356,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -13061,6 +14367,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -13071,6 +14378,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -13081,6 +14389,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -13091,6 +14400,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -13101,6 +14411,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -13111,6 +14422,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -13121,6 +14433,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -13131,6 +14444,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -13141,6 +14455,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -13151,6 +14466,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -13161,6 +14477,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -13171,6 +14488,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -13181,6 +14499,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -13191,6 +14510,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -13201,6 +14521,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -13211,6 +14532,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -13221,6 +14543,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -13231,6 +14554,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -13241,6 +14565,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -13251,6 +14576,7 @@
   },
   {
     "areaname": "Northern America",
+    "regname": "Northern America",
     "country": "United States of America",
     "devname": "Developed regions",
     "lat": 38,
@@ -13261,6 +14587,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -13271,6 +14598,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -13281,6 +14609,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -13291,6 +14620,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -13301,6 +14631,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -13311,6 +14642,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -13321,6 +14653,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -13331,6 +14664,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -13341,6 +14675,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -13351,6 +14686,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -13361,6 +14697,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -13371,6 +14708,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -13381,6 +14719,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -13391,6 +14730,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -13401,6 +14741,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -13411,6 +14752,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -13421,6 +14763,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -13431,6 +14774,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -13441,6 +14785,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -13451,6 +14796,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -13461,6 +14807,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -13471,6 +14818,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -13481,6 +14829,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -13491,6 +14840,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -13501,6 +14851,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -13511,6 +14862,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -13521,6 +14873,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -13531,6 +14884,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -13541,6 +14895,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -13551,6 +14906,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -13561,6 +14917,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -13571,6 +14928,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -13581,6 +14939,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
@@ -13591,6 +14950,7 @@
   },
   {
     "areaname": "Asia",
+    "regname": "South-Eastern Asia",
     "country": "Viet Nam",
     "devname": "Developing regions",
     "lat": 16.16666666,
