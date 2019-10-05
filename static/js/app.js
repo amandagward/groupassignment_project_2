@@ -13,22 +13,16 @@ let   currYear   = "1980";
 let   currGlobal = "Global Areas";
 let   currDevel  = "All";
 
+// Function to filter datasets according to dropdowns selected.
 function returnBase(  ) {
-
     let dataResult = [];
-
     if (currGlobal === "Global Areas") {
-        dataResult = tempDataset.filter( obj => (obj.devname === currDevel) );
-    } else {
-        console.log("We need to put finish that part.")
+        dataResult = global_areas.filter( obj => (obj.devname === currDevel) );
+    } else if (currGlobal.substr(0,20) === "Top five countries -") {
+        const region = currGlobal.substring(21);
+        dataResult = top5countries.filter( obj => (obj.areaname === region && obj.devname === currDevel) );
+        console.log("Entrou[" + region + "]");
     }
-    // if (currDevel === "All") { 
-    //     console.log("Get all ", currDevel);
-    //     dataResult = areasNoDevel;
-    // } else {
-    //     console.log("Get Dev area ", currDevel);
-    //     dataResult = tempDataset.filter( obj => (obj.devname === currDevel) );
-    // }
     return dataResult;
 }
 
@@ -73,12 +67,10 @@ globalAreas.property("value", "Global Areas");
 // Event listener for drop-downs
 // =============================
 d3.selectAll('select').on('change', () => {
-
     console.log("drop-downs event listener");
     currGlobal = globalAreas.property("value");
     currDevel  = dropDevelop.property("value");
     updateEveryting();
-
 });
 
 // Setting inital data to range input HTML element (min, max and initial values):
@@ -99,18 +91,15 @@ var svgWidth = 700;
 // margins
 var margin = {
   top: 50,
-  right: 50,
-  bottom: 50,
+  right: 10,
+  bottom: 30,
   left: 50
 };
 
 // Get the number of bars 
 numBars = calcNumBars(dataset, 'areaname');
-
 function calcNumBars (dataset, key) { 
-
     if (currGlobal === "Global Areas") {
-        // const unique = [...new Set(array.map(item => item.age))];
         return dataset.reduce( (acc,value) => {
             if (acc[0] != value.areaname) {
                 acc[1] += 1;
@@ -118,12 +107,17 @@ function calcNumBars (dataset, key) {
             acc[0] = value.areaname;
             return acc;
         }, ["",0])[1];
-    } else {
-        console.log("We need to put finish that part.");
+    } else if (currGlobal.substr(0,20) === "Top five countries -") {
+        return dataset.reduce( (acc,value) => {
+            if (acc[0] != value.country) {
+                acc[1] += 1;
+            }
+            acc[0] = value.country;
+            return acc;
+        }, ["",0])[1];
     }
-
+    console.log("THAT IS WHY THE BAR IS DISAPPEARING");
     return 0;
-
 }
 
 
@@ -175,7 +169,7 @@ var yAxis = chartGroup.append("g")
 let title = svg
     .append("text")
     .classed("title", true)
-    .text("Birth Data in " + minYear)
+    .text("Migration in " + minYear)
     .attr('x', svgWidth / 2)
     .attr("y", 30)
     .style("text-anchor", "middle")
@@ -219,7 +213,7 @@ d3.select("input")
             .on("end", function( d, i, nodes ) {
                 if ( i === nodes.length - 1 ) { // Listening for rectangles finishing its moviment (transition)
                     d3.select('.title')
-                        .text("Birth Data in " + currYear);
+                        .text("Migration in " + currYear);
                 }
             })
             .on("interrupt", function() {
@@ -227,8 +221,7 @@ d3.select("input")
             })
                 .attr("height", obj => chartHeight - yScale(obj.value)  )
                 .attr("y", obj => yScale(obj.value) + 50 );
-        
-        title.text("Birth Data in " + minYear);
+        title.text("Migration in " + minYear);
     });
 
 function ShowToolTip (d) {
@@ -237,14 +230,19 @@ function ShowToolTip (d) {
         .style("left", d3.event.x -
                         (tooltip.node().offsetWidth / 2) + "px")
         .style("top", d3.event.y - (tooltip.node().offsetHeight / 2) - 70 + "px")
-        .html(`
-        <p class="text-center">${getContinentMap(d.areaname)} ${d.areaname}</p>
-        <p>Migration: ${d.value.toLocaleString()}</p>
-            `
-            // <div class="flag-wrapper">
-            //     <img src="https://restcountries.eu/data/alb.svg" alt="flag">
-            // </div>
-        );
+        .html(function() {                     
+                    if (currGlobal === "Global Areas"){ 
+                        return  `
+                        <p class="text-center">${getContinentMap(d.areaname)} ${d.areaname}</p>
+                        <p>Migration: ${d.value.toLocaleString()}</p>
+                            `;
+                    } else if (currGlobal.substr(0,20) === "Top five countries -") { 
+                        return ` 
+                        <p class="text-center"><img src=${d.flag} alt="flag">  ${d.country}</p>
+                        <p>Migration: ${d.value.toLocaleString()}</p>
+                        `;
+                    }
+            });
 }
 
 function HideToolTip (){
@@ -286,10 +284,11 @@ function updBarsChart() {
     console.log("Running function updBarsChart");
     
     test = dataset.filter( d => d.year===currYear);
-    console.log(currYear);
+    console.log("currYear ",currYear);
+    console.log("currGlobal ", currGlobal );
+    console.log("currDevel ", currDevel );
     console.log(dataset);
     console.log("barWidth ", barWidth );
-    console.log("numBars ", numBars );
     
     svg.selectAll("rect")
     .remove()

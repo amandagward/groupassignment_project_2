@@ -6,4 +6,4 @@ years = ['1980', '1981', '1982', '1983', '1984', '1985', '1986', '1987', '1988',
 
 development = ["Developing regions","Developed regions","All"]; 
 
-globalareas = ["Global Areas", "Subregions", "Top ten countries in the World", "Top three countries per region"];
+globalareas = ["Global Areas", "Top five countries - Africa", "Top five countries - Asia", "Top five countries - Europe", "Top five countries - Latin America", "Top five countries - Oceania", "Top ten countries in the World"];

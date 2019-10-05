@@ -1,0 +1,681 @@
+areaname,regname,country,devname,lat,lon,flag,capital,population,countrycode,year,value
+Asia,Eastern Asia,China,Developing regions,35.0,105.0,https://restcountries.eu/data/chn.svg,Beijing,1377422166,CN,1980,5123
+Asia,Eastern Asia,China,Developing regions,35.0,105.0,https://restcountries.eu/data/chn.svg,Beijing,1377422166,CN,1981,6682
+Asia,Eastern Asia,China,Developing regions,35.0,105.0,https://restcountries.eu/data/chn.svg,Beijing,1377422166,CN,1982,3308
+Asia,Eastern Asia,China,Developing regions,35.0,105.0,https://restcountries.eu/data/chn.svg,Beijing,1377422166,CN,1983,1863
+Asia,Eastern Asia,China,Developing regions,35.0,105.0,https://restcountries.eu/data/chn.svg,Beijing,1377422166,CN,1984,1527
+Asia,Eastern Asia,China,Developing regions,35.0,105.0,https://restcountries.eu/data/chn.svg,Beijing,1377422166,CN,1985,1816
+Asia,Eastern Asia,China,Developing regions,35.0,105.0,https://restcountries.eu/data/chn.svg,Beijing,1377422166,CN,1986,1960
+Asia,Eastern Asia,China,Developing regions,35.0,105.0,https://restcountries.eu/data/chn.svg,Beijing,1377422166,CN,1987,2643
+Asia,Eastern Asia,China,Developing regions,35.0,105.0,https://restcountries.eu/data/chn.svg,Beijing,1377422166,CN,1988,2758
+Asia,Eastern Asia,China,Developing regions,35.0,105.0,https://restcountries.eu/data/chn.svg,Beijing,1377422166,CN,1989,4323
+Asia,Eastern Asia,China,Developing regions,35.0,105.0,https://restcountries.eu/data/chn.svg,Beijing,1377422166,CN,1990,8076
+Asia,Eastern Asia,China,Developing regions,35.0,105.0,https://restcountries.eu/data/chn.svg,Beijing,1377422166,CN,1991,14255
+Asia,Eastern Asia,China,Developing regions,35.0,105.0,https://restcountries.eu/data/chn.svg,Beijing,1377422166,CN,1992,10846
+Asia,Eastern Asia,China,Developing regions,35.0,105.0,https://restcountries.eu/data/chn.svg,Beijing,1377422166,CN,1993,9817
+Asia,Eastern Asia,China,Developing regions,35.0,105.0,https://restcountries.eu/data/chn.svg,Beijing,1377422166,CN,1994,13128
+Asia,Eastern Asia,China,Developing regions,35.0,105.0,https://restcountries.eu/data/chn.svg,Beijing,1377422166,CN,1995,14398
+Asia,Eastern Asia,China,Developing regions,35.0,105.0,https://restcountries.eu/data/chn.svg,Beijing,1377422166,CN,1996,19415
+Asia,Eastern Asia,China,Developing regions,35.0,105.0,https://restcountries.eu/data/chn.svg,Beijing,1377422166,CN,1997,20475
+Asia,Eastern Asia,China,Developing regions,35.0,105.0,https://restcountries.eu/data/chn.svg,Beijing,1377422166,CN,1998,21049
+Asia,Eastern Asia,China,Developing regions,35.0,105.0,https://restcountries.eu/data/chn.svg,Beijing,1377422166,CN,1999,30069
+Asia,Eastern Asia,China,Developing regions,35.0,105.0,https://restcountries.eu/data/chn.svg,Beijing,1377422166,CN,2000,35529
+Asia,Eastern Asia,China,Developing regions,35.0,105.0,https://restcountries.eu/data/chn.svg,Beijing,1377422166,CN,2001,36434
+Asia,Eastern Asia,China,Developing regions,35.0,105.0,https://restcountries.eu/data/chn.svg,Beijing,1377422166,CN,2002,31961
+Asia,Eastern Asia,China,Developing regions,35.0,105.0,https://restcountries.eu/data/chn.svg,Beijing,1377422166,CN,2003,36439
+Asia,Eastern Asia,China,Developing regions,35.0,105.0,https://restcountries.eu/data/chn.svg,Beijing,1377422166,CN,2004,36619
+Asia,Eastern Asia,China,Developing regions,35.0,105.0,https://restcountries.eu/data/chn.svg,Beijing,1377422166,CN,2005,42584
+Asia,Eastern Asia,China,Developing regions,35.0,105.0,https://restcountries.eu/data/chn.svg,Beijing,1377422166,CN,2006,33518
+Asia,Eastern Asia,China,Developing regions,35.0,105.0,https://restcountries.eu/data/chn.svg,Beijing,1377422166,CN,2007,27642
+Asia,Eastern Asia,China,Developing regions,35.0,105.0,https://restcountries.eu/data/chn.svg,Beijing,1377422166,CN,2008,30037
+Asia,Eastern Asia,China,Developing regions,35.0,105.0,https://restcountries.eu/data/chn.svg,Beijing,1377422166,CN,2009,29622
+Asia,Eastern Asia,China,Developing regions,35.0,105.0,https://restcountries.eu/data/chn.svg,Beijing,1377422166,CN,2010,30391
+Asia,Eastern Asia,China,Developing regions,35.0,105.0,https://restcountries.eu/data/chn.svg,Beijing,1377422166,CN,2011,28502
+Asia,Eastern Asia,China,Developing regions,35.0,105.0,https://restcountries.eu/data/chn.svg,Beijing,1377422166,CN,2012,33024
+Asia,Eastern Asia,China,Developing regions,35.0,105.0,https://restcountries.eu/data/chn.svg,Beijing,1377422166,CN,2013,34129
+Europe,Western Europe,France,Developed regions,46.0,2.0,https://restcountries.eu/data/fra.svg,Paris,66710000,FR,1980,1729
+Europe,Western Europe,France,Developed regions,46.0,2.0,https://restcountries.eu/data/fra.svg,Paris,66710000,FR,1981,2027
+Europe,Western Europe,France,Developed regions,46.0,2.0,https://restcountries.eu/data/fra.svg,Paris,66710000,FR,1982,2219
+Europe,Western Europe,France,Developed regions,46.0,2.0,https://restcountries.eu/data/fra.svg,Paris,66710000,FR,1983,1490
+Europe,Western Europe,France,Developed regions,46.0,2.0,https://restcountries.eu/data/fra.svg,Paris,66710000,FR,1984,1169
+Europe,Western Europe,France,Developed regions,46.0,2.0,https://restcountries.eu/data/fra.svg,Paris,66710000,FR,1985,1177
+Europe,Western Europe,France,Developed regions,46.0,2.0,https://restcountries.eu/data/fra.svg,Paris,66710000,FR,1986,1298
+Europe,Western Europe,France,Developed regions,46.0,2.0,https://restcountries.eu/data/fra.svg,Paris,66710000,FR,1987,1658
+Europe,Western Europe,France,Developed regions,46.0,2.0,https://restcountries.eu/data/fra.svg,Paris,66710000,FR,1988,2038
+Europe,Western Europe,France,Developed regions,46.0,2.0,https://restcountries.eu/data/fra.svg,Paris,66710000,FR,1989,2332
+Europe,Western Europe,France,Developed regions,46.0,2.0,https://restcountries.eu/data/fra.svg,Paris,66710000,FR,1990,2177
+Europe,Western Europe,France,Developed regions,46.0,2.0,https://restcountries.eu/data/fra.svg,Paris,66710000,FR,1991,2911
+Europe,Western Europe,France,Developed regions,46.0,2.0,https://restcountries.eu/data/fra.svg,Paris,66710000,FR,1992,3487
+Europe,Western Europe,France,Developed regions,46.0,2.0,https://restcountries.eu/data/fra.svg,Paris,66710000,FR,1993,3709
+Europe,Western Europe,France,Developed regions,46.0,2.0,https://restcountries.eu/data/fra.svg,Paris,66710000,FR,1994,2759
+Europe,Western Europe,France,Developed regions,46.0,2.0,https://restcountries.eu/data/fra.svg,Paris,66710000,FR,1995,3332
+Europe,Western Europe,France,Developed regions,46.0,2.0,https://restcountries.eu/data/fra.svg,Paris,66710000,FR,1996,2623
+Europe,Western Europe,France,Developed regions,46.0,2.0,https://restcountries.eu/data/fra.svg,Paris,66710000,FR,1997,2473
+Europe,Western Europe,France,Developed regions,46.0,2.0,https://restcountries.eu/data/fra.svg,Paris,66710000,FR,1998,3214
+Europe,Western Europe,France,Developed regions,46.0,2.0,https://restcountries.eu/data/fra.svg,Paris,66710000,FR,1999,3343
+Europe,Western Europe,France,Developed regions,46.0,2.0,https://restcountries.eu/data/fra.svg,Paris,66710000,FR,2000,3765
+Europe,Western Europe,France,Developed regions,46.0,2.0,https://restcountries.eu/data/fra.svg,Paris,66710000,FR,2001,3806
+Europe,Western Europe,France,Developed regions,46.0,2.0,https://restcountries.eu/data/fra.svg,Paris,66710000,FR,2002,3463
+Europe,Western Europe,France,Developed regions,46.0,2.0,https://restcountries.eu/data/fra.svg,Paris,66710000,FR,2003,3568
+Europe,Western Europe,France,Developed regions,46.0,2.0,https://restcountries.eu/data/fra.svg,Paris,66710000,FR,2004,4391
+Europe,Western Europe,France,Developed regions,46.0,2.0,https://restcountries.eu/data/fra.svg,Paris,66710000,FR,2005,4429
+Europe,Western Europe,France,Developed regions,46.0,2.0,https://restcountries.eu/data/fra.svg,Paris,66710000,FR,2006,4002
+Europe,Western Europe,France,Developed regions,46.0,2.0,https://restcountries.eu/data/fra.svg,Paris,66710000,FR,2007,4290
+Europe,Western Europe,France,Developed regions,46.0,2.0,https://restcountries.eu/data/fra.svg,Paris,66710000,FR,2008,4532
+Europe,Western Europe,France,Developed regions,46.0,2.0,https://restcountries.eu/data/fra.svg,Paris,66710000,FR,2009,5051
+Europe,Western Europe,France,Developed regions,46.0,2.0,https://restcountries.eu/data/fra.svg,Paris,66710000,FR,2010,4646
+Europe,Western Europe,France,Developed regions,46.0,2.0,https://restcountries.eu/data/fra.svg,Paris,66710000,FR,2011,4080
+Europe,Western Europe,France,Developed regions,46.0,2.0,https://restcountries.eu/data/fra.svg,Paris,66710000,FR,2012,6280
+Europe,Western Europe,France,Developed regions,46.0,2.0,https://restcountries.eu/data/fra.svg,Paris,66710000,FR,2013,5623
+Europe,Western Europe,Germany,Developed regions,51.0,9.0,https://restcountries.eu/data/deu.svg,Berlin,81770900,DE,1980,1626
+Europe,Western Europe,Germany,Developed regions,51.0,9.0,https://restcountries.eu/data/deu.svg,Berlin,81770900,DE,1981,1977
+Europe,Western Europe,Germany,Developed regions,51.0,9.0,https://restcountries.eu/data/deu.svg,Berlin,81770900,DE,1982,3062
+Europe,Western Europe,Germany,Developed regions,51.0,9.0,https://restcountries.eu/data/deu.svg,Berlin,81770900,DE,1983,2376
+Europe,Western Europe,Germany,Developed regions,51.0,9.0,https://restcountries.eu/data/deu.svg,Berlin,81770900,DE,1984,1610
+Europe,Western Europe,Germany,Developed regions,51.0,9.0,https://restcountries.eu/data/deu.svg,Berlin,81770900,DE,1985,1441
+Europe,Western Europe,Germany,Developed regions,51.0,9.0,https://restcountries.eu/data/deu.svg,Berlin,81770900,DE,1986,1233
+Europe,Western Europe,Germany,Developed regions,51.0,9.0,https://restcountries.eu/data/deu.svg,Berlin,81770900,DE,1987,1704
+Europe,Western Europe,Germany,Developed regions,51.0,9.0,https://restcountries.eu/data/deu.svg,Berlin,81770900,DE,1988,1482
+Europe,Western Europe,Germany,Developed regions,51.0,9.0,https://restcountries.eu/data/deu.svg,Berlin,81770900,DE,1989,1706
+Europe,Western Europe,Germany,Developed regions,51.0,9.0,https://restcountries.eu/data/deu.svg,Berlin,81770900,DE,1990,1273
+Europe,Western Europe,Germany,Developed regions,51.0,9.0,https://restcountries.eu/data/deu.svg,Berlin,81770900,DE,1991,1273
+Europe,Western Europe,Germany,Developed regions,51.0,9.0,https://restcountries.eu/data/deu.svg,Berlin,81770900,DE,1992,1181
+Europe,Western Europe,Germany,Developed regions,51.0,9.0,https://restcountries.eu/data/deu.svg,Berlin,81770900,DE,1993,1488
+Europe,Western Europe,Germany,Developed regions,51.0,9.0,https://restcountries.eu/data/deu.svg,Berlin,81770900,DE,1994,1255
+Europe,Western Europe,Germany,Developed regions,51.0,9.0,https://restcountries.eu/data/deu.svg,Berlin,81770900,DE,1995,1553
+Europe,Western Europe,Germany,Developed regions,51.0,9.0,https://restcountries.eu/data/deu.svg,Berlin,81770900,DE,1996,1686
+Europe,Western Europe,Germany,Developed regions,51.0,9.0,https://restcountries.eu/data/deu.svg,Berlin,81770900,DE,1997,1397
+Europe,Western Europe,Germany,Developed regions,51.0,9.0,https://restcountries.eu/data/deu.svg,Berlin,81770900,DE,1998,1363
+Europe,Western Europe,Germany,Developed regions,51.0,9.0,https://restcountries.eu/data/deu.svg,Berlin,81770900,DE,1999,1717
+Europe,Western Europe,Germany,Developed regions,51.0,9.0,https://restcountries.eu/data/deu.svg,Berlin,81770900,DE,2000,1703
+Europe,Western Europe,Germany,Developed regions,51.0,9.0,https://restcountries.eu/data/deu.svg,Berlin,81770900,DE,2001,1456
+Europe,Western Europe,Germany,Developed regions,51.0,9.0,https://restcountries.eu/data/deu.svg,Berlin,81770900,DE,2002,1375
+Europe,Western Europe,Germany,Developed regions,51.0,9.0,https://restcountries.eu/data/deu.svg,Berlin,81770900,DE,2003,1865
+Europe,Western Europe,Germany,Developed regions,51.0,9.0,https://restcountries.eu/data/deu.svg,Berlin,81770900,DE,2004,2020
+Europe,Western Europe,Germany,Developed regions,51.0,9.0,https://restcountries.eu/data/deu.svg,Berlin,81770900,DE,2005,2226
+Europe,Western Europe,Germany,Developed regions,51.0,9.0,https://restcountries.eu/data/deu.svg,Berlin,81770900,DE,2006,2767
+Europe,Western Europe,Germany,Developed regions,51.0,9.0,https://restcountries.eu/data/deu.svg,Berlin,81770900,DE,2007,2449
+Europe,Western Europe,Germany,Developed regions,51.0,9.0,https://restcountries.eu/data/deu.svg,Berlin,81770900,DE,2008,3833
+Europe,Western Europe,Germany,Developed regions,51.0,9.0,https://restcountries.eu/data/deu.svg,Berlin,81770900,DE,2009,3887
+Europe,Western Europe,Germany,Developed regions,51.0,9.0,https://restcountries.eu/data/deu.svg,Berlin,81770900,DE,2010,2956
+Europe,Western Europe,Germany,Developed regions,51.0,9.0,https://restcountries.eu/data/deu.svg,Berlin,81770900,DE,2011,2053
+Europe,Western Europe,Germany,Developed regions,51.0,9.0,https://restcountries.eu/data/deu.svg,Berlin,81770900,DE,2012,1702
+Europe,Western Europe,Germany,Developed regions,51.0,9.0,https://restcountries.eu/data/deu.svg,Berlin,81770900,DE,2013,1217
+Asia,Southern Asia,India,Developing regions,20.0,77.0,https://restcountries.eu/data/ind.svg,New Delhi,1295210000,IN,1980,8880
+Asia,Southern Asia,India,Developing regions,20.0,77.0,https://restcountries.eu/data/ind.svg,New Delhi,1295210000,IN,1981,8670
+Asia,Southern Asia,India,Developing regions,20.0,77.0,https://restcountries.eu/data/ind.svg,New Delhi,1295210000,IN,1982,8147
+Asia,Southern Asia,India,Developing regions,20.0,77.0,https://restcountries.eu/data/ind.svg,New Delhi,1295210000,IN,1983,7338
+Asia,Southern Asia,India,Developing regions,20.0,77.0,https://restcountries.eu/data/ind.svg,New Delhi,1295210000,IN,1984,5704
+Asia,Southern Asia,India,Developing regions,20.0,77.0,https://restcountries.eu/data/ind.svg,New Delhi,1295210000,IN,1985,4211
+Asia,Southern Asia,India,Developing regions,20.0,77.0,https://restcountries.eu/data/ind.svg,New Delhi,1295210000,IN,1986,7150
+Asia,Southern Asia,India,Developing regions,20.0,77.0,https://restcountries.eu/data/ind.svg,New Delhi,1295210000,IN,1987,10189
+Asia,Southern Asia,India,Developing regions,20.0,77.0,https://restcountries.eu/data/ind.svg,New Delhi,1295210000,IN,1988,11522
+Asia,Southern Asia,India,Developing regions,20.0,77.0,https://restcountries.eu/data/ind.svg,New Delhi,1295210000,IN,1989,10343
+Asia,Southern Asia,India,Developing regions,20.0,77.0,https://restcountries.eu/data/ind.svg,New Delhi,1295210000,IN,1990,12041
+Asia,Southern Asia,India,Developing regions,20.0,77.0,https://restcountries.eu/data/ind.svg,New Delhi,1295210000,IN,1991,13734
+Asia,Southern Asia,India,Developing regions,20.0,77.0,https://restcountries.eu/data/ind.svg,New Delhi,1295210000,IN,1992,13673
+Asia,Southern Asia,India,Developing regions,20.0,77.0,https://restcountries.eu/data/ind.svg,New Delhi,1295210000,IN,1993,21496
+Asia,Southern Asia,India,Developing regions,20.0,77.0,https://restcountries.eu/data/ind.svg,New Delhi,1295210000,IN,1994,18620
+Asia,Southern Asia,India,Developing regions,20.0,77.0,https://restcountries.eu/data/ind.svg,New Delhi,1295210000,IN,1995,18489
+Asia,Southern Asia,India,Developing regions,20.0,77.0,https://restcountries.eu/data/ind.svg,New Delhi,1295210000,IN,1996,23859
+Asia,Southern Asia,India,Developing regions,20.0,77.0,https://restcountries.eu/data/ind.svg,New Delhi,1295210000,IN,1997,22268
+Asia,Southern Asia,India,Developing regions,20.0,77.0,https://restcountries.eu/data/ind.svg,New Delhi,1295210000,IN,1998,17241
+Asia,Southern Asia,India,Developing regions,20.0,77.0,https://restcountries.eu/data/ind.svg,New Delhi,1295210000,IN,1999,18974
+Asia,Southern Asia,India,Developing regions,20.0,77.0,https://restcountries.eu/data/ind.svg,New Delhi,1295210000,IN,2000,28572
+Asia,Southern Asia,India,Developing regions,20.0,77.0,https://restcountries.eu/data/ind.svg,New Delhi,1295210000,IN,2001,31223
+Asia,Southern Asia,India,Developing regions,20.0,77.0,https://restcountries.eu/data/ind.svg,New Delhi,1295210000,IN,2002,31889
+Asia,Southern Asia,India,Developing regions,20.0,77.0,https://restcountries.eu/data/ind.svg,New Delhi,1295210000,IN,2003,27155
+Asia,Southern Asia,India,Developing regions,20.0,77.0,https://restcountries.eu/data/ind.svg,New Delhi,1295210000,IN,2004,28235
+Asia,Southern Asia,India,Developing regions,20.0,77.0,https://restcountries.eu/data/ind.svg,New Delhi,1295210000,IN,2005,36210
+Asia,Southern Asia,India,Developing regions,20.0,77.0,https://restcountries.eu/data/ind.svg,New Delhi,1295210000,IN,2006,33848
+Asia,Southern Asia,India,Developing regions,20.0,77.0,https://restcountries.eu/data/ind.svg,New Delhi,1295210000,IN,2007,28742
+Asia,Southern Asia,India,Developing regions,20.0,77.0,https://restcountries.eu/data/ind.svg,New Delhi,1295210000,IN,2008,28261
+Asia,Southern Asia,India,Developing regions,20.0,77.0,https://restcountries.eu/data/ind.svg,New Delhi,1295210000,IN,2009,29456
+Asia,Southern Asia,India,Developing regions,20.0,77.0,https://restcountries.eu/data/ind.svg,New Delhi,1295210000,IN,2010,34235
+Asia,Southern Asia,India,Developing regions,20.0,77.0,https://restcountries.eu/data/ind.svg,New Delhi,1295210000,IN,2011,27509
+Asia,Southern Asia,India,Developing regions,20.0,77.0,https://restcountries.eu/data/ind.svg,New Delhi,1295210000,IN,2012,30933
+Asia,Southern Asia,India,Developing regions,20.0,77.0,https://restcountries.eu/data/ind.svg,New Delhi,1295210000,IN,2013,33087
+Asia,Southern Asia,Iran (Islamic Republic of),Developing regions,32.0,53.0,https://restcountries.eu/data/irn.svg,Tehran,79369900,IR,1980,1172
+Asia,Southern Asia,Iran (Islamic Republic of),Developing regions,32.0,53.0,https://restcountries.eu/data/irn.svg,Tehran,79369900,IR,1981,1429
+Asia,Southern Asia,Iran (Islamic Republic of),Developing regions,32.0,53.0,https://restcountries.eu/data/irn.svg,Tehran,79369900,IR,1982,1822
+Asia,Southern Asia,Iran (Islamic Republic of),Developing regions,32.0,53.0,https://restcountries.eu/data/irn.svg,Tehran,79369900,IR,1983,1592
+Asia,Southern Asia,Iran (Islamic Republic of),Developing regions,32.0,53.0,https://restcountries.eu/data/irn.svg,Tehran,79369900,IR,1984,1977
+Asia,Southern Asia,Iran (Islamic Republic of),Developing regions,32.0,53.0,https://restcountries.eu/data/irn.svg,Tehran,79369900,IR,1985,1648
+Asia,Southern Asia,Iran (Islamic Republic of),Developing regions,32.0,53.0,https://restcountries.eu/data/irn.svg,Tehran,79369900,IR,1986,1794
+Asia,Southern Asia,Iran (Islamic Republic of),Developing regions,32.0,53.0,https://restcountries.eu/data/irn.svg,Tehran,79369900,IR,1987,2989
+Asia,Southern Asia,Iran (Islamic Republic of),Developing regions,32.0,53.0,https://restcountries.eu/data/irn.svg,Tehran,79369900,IR,1988,3273
+Asia,Southern Asia,Iran (Islamic Republic of),Developing regions,32.0,53.0,https://restcountries.eu/data/irn.svg,Tehran,79369900,IR,1989,3781
+Asia,Southern Asia,Iran (Islamic Republic of),Developing regions,32.0,53.0,https://restcountries.eu/data/irn.svg,Tehran,79369900,IR,1990,3655
+Asia,Southern Asia,Iran (Islamic Republic of),Developing regions,32.0,53.0,https://restcountries.eu/data/irn.svg,Tehran,79369900,IR,1991,6250
+Asia,Southern Asia,Iran (Islamic Republic of),Developing regions,32.0,53.0,https://restcountries.eu/data/irn.svg,Tehran,79369900,IR,1992,6814
+Asia,Southern Asia,Iran (Islamic Republic of),Developing regions,32.0,53.0,https://restcountries.eu/data/irn.svg,Tehran,79369900,IR,1993,3959
+Asia,Southern Asia,Iran (Islamic Republic of),Developing regions,32.0,53.0,https://restcountries.eu/data/irn.svg,Tehran,79369900,IR,1994,2785
+Asia,Southern Asia,Iran (Islamic Republic of),Developing regions,32.0,53.0,https://restcountries.eu/data/irn.svg,Tehran,79369900,IR,1995,3956
+Asia,Southern Asia,Iran (Islamic Republic of),Developing regions,32.0,53.0,https://restcountries.eu/data/irn.svg,Tehran,79369900,IR,1996,6205
+Asia,Southern Asia,Iran (Islamic Republic of),Developing regions,32.0,53.0,https://restcountries.eu/data/irn.svg,Tehran,79369900,IR,1997,7982
+Asia,Southern Asia,Iran (Islamic Republic of),Developing regions,32.0,53.0,https://restcountries.eu/data/irn.svg,Tehran,79369900,IR,1998,7057
+Asia,Southern Asia,Iran (Islamic Republic of),Developing regions,32.0,53.0,https://restcountries.eu/data/irn.svg,Tehran,79369900,IR,1999,6208
+Asia,Southern Asia,Iran (Islamic Republic of),Developing regions,32.0,53.0,https://restcountries.eu/data/irn.svg,Tehran,79369900,IR,2000,5884
+Asia,Southern Asia,Iran (Islamic Republic of),Developing regions,32.0,53.0,https://restcountries.eu/data/irn.svg,Tehran,79369900,IR,2001,6169
+Asia,Southern Asia,Iran (Islamic Republic of),Developing regions,32.0,53.0,https://restcountries.eu/data/irn.svg,Tehran,79369900,IR,2002,8129
+Asia,Southern Asia,Iran (Islamic Republic of),Developing regions,32.0,53.0,https://restcountries.eu/data/irn.svg,Tehran,79369900,IR,2003,5918
+Asia,Southern Asia,Iran (Islamic Republic of),Developing regions,32.0,53.0,https://restcountries.eu/data/irn.svg,Tehran,79369900,IR,2004,6348
+Asia,Southern Asia,Iran (Islamic Republic of),Developing regions,32.0,53.0,https://restcountries.eu/data/irn.svg,Tehran,79369900,IR,2005,5837
+Asia,Southern Asia,Iran (Islamic Republic of),Developing regions,32.0,53.0,https://restcountries.eu/data/irn.svg,Tehran,79369900,IR,2006,7480
+Asia,Southern Asia,Iran (Islamic Republic of),Developing regions,32.0,53.0,https://restcountries.eu/data/irn.svg,Tehran,79369900,IR,2007,6974
+Asia,Southern Asia,Iran (Islamic Republic of),Developing regions,32.0,53.0,https://restcountries.eu/data/irn.svg,Tehran,79369900,IR,2008,6475
+Asia,Southern Asia,Iran (Islamic Republic of),Developing regions,32.0,53.0,https://restcountries.eu/data/irn.svg,Tehran,79369900,IR,2009,6580
+Asia,Southern Asia,Iran (Islamic Republic of),Developing regions,32.0,53.0,https://restcountries.eu/data/irn.svg,Tehran,79369900,IR,2010,7477
+Asia,Southern Asia,Iran (Islamic Republic of),Developing regions,32.0,53.0,https://restcountries.eu/data/irn.svg,Tehran,79369900,IR,2011,7479
+Asia,Southern Asia,Iran (Islamic Republic of),Developing regions,32.0,53.0,https://restcountries.eu/data/irn.svg,Tehran,79369900,IR,2012,7534
+Asia,Southern Asia,Iran (Islamic Republic of),Developing regions,32.0,53.0,https://restcountries.eu/data/irn.svg,Tehran,79369900,IR,2013,11291
+Latin America and the Caribbean,Caribbean,Jamaica,Developing regions,18.25,-77.5,https://restcountries.eu/data/jam.svg,Kingston,2723246,JM,1980,3198
+Latin America and the Caribbean,Caribbean,Jamaica,Developing regions,18.25,-77.5,https://restcountries.eu/data/jam.svg,Kingston,2723246,JM,1981,2634
+Latin America and the Caribbean,Caribbean,Jamaica,Developing regions,18.25,-77.5,https://restcountries.eu/data/jam.svg,Kingston,2723246,JM,1982,2661
+Latin America and the Caribbean,Caribbean,Jamaica,Developing regions,18.25,-77.5,https://restcountries.eu/data/jam.svg,Kingston,2723246,JM,1983,2455
+Latin America and the Caribbean,Caribbean,Jamaica,Developing regions,18.25,-77.5,https://restcountries.eu/data/jam.svg,Kingston,2723246,JM,1984,2508
+Latin America and the Caribbean,Caribbean,Jamaica,Developing regions,18.25,-77.5,https://restcountries.eu/data/jam.svg,Kingston,2723246,JM,1985,2938
+Latin America and the Caribbean,Caribbean,Jamaica,Developing regions,18.25,-77.5,https://restcountries.eu/data/jam.svg,Kingston,2723246,JM,1986,4649
+Latin America and the Caribbean,Caribbean,Jamaica,Developing regions,18.25,-77.5,https://restcountries.eu/data/jam.svg,Kingston,2723246,JM,1987,5415
+Latin America and the Caribbean,Caribbean,Jamaica,Developing regions,18.25,-77.5,https://restcountries.eu/data/jam.svg,Kingston,2723246,JM,1988,3924
+Latin America and the Caribbean,Caribbean,Jamaica,Developing regions,18.25,-77.5,https://restcountries.eu/data/jam.svg,Kingston,2723246,JM,1989,3946
+Latin America and the Caribbean,Caribbean,Jamaica,Developing regions,18.25,-77.5,https://restcountries.eu/data/jam.svg,Kingston,2723246,JM,1990,4945
+Latin America and the Caribbean,Caribbean,Jamaica,Developing regions,18.25,-77.5,https://restcountries.eu/data/jam.svg,Kingston,2723246,JM,1991,5056
+Latin America and the Caribbean,Caribbean,Jamaica,Developing regions,18.25,-77.5,https://restcountries.eu/data/jam.svg,Kingston,2723246,JM,1992,5991
+Latin America and the Caribbean,Caribbean,Jamaica,Developing regions,18.25,-77.5,https://restcountries.eu/data/jam.svg,Kingston,2723246,JM,1993,6065
+Latin America and the Caribbean,Caribbean,Jamaica,Developing regions,18.25,-77.5,https://restcountries.eu/data/jam.svg,Kingston,2723246,JM,1994,3913
+Latin America and the Caribbean,Caribbean,Jamaica,Developing regions,18.25,-77.5,https://restcountries.eu/data/jam.svg,Kingston,2723246,JM,1995,3619
+Latin America and the Caribbean,Caribbean,Jamaica,Developing regions,18.25,-77.5,https://restcountries.eu/data/jam.svg,Kingston,2723246,JM,1996,3282
+Latin America and the Caribbean,Caribbean,Jamaica,Developing regions,18.25,-77.5,https://restcountries.eu/data/jam.svg,Kingston,2723246,JM,1997,2847
+Latin America and the Caribbean,Caribbean,Jamaica,Developing regions,18.25,-77.5,https://restcountries.eu/data/jam.svg,Kingston,2723246,JM,1998,2253
+Latin America and the Caribbean,Caribbean,Jamaica,Developing regions,18.25,-77.5,https://restcountries.eu/data/jam.svg,Kingston,2723246,JM,1999,2358
+Latin America and the Caribbean,Caribbean,Jamaica,Developing regions,18.25,-77.5,https://restcountries.eu/data/jam.svg,Kingston,2723246,JM,2000,2482
+Latin America and the Caribbean,Caribbean,Jamaica,Developing regions,18.25,-77.5,https://restcountries.eu/data/jam.svg,Kingston,2723246,JM,2001,2838
+Latin America and the Caribbean,Caribbean,Jamaica,Developing regions,18.25,-77.5,https://restcountries.eu/data/jam.svg,Kingston,2723246,JM,2002,2524
+Latin America and the Caribbean,Caribbean,Jamaica,Developing regions,18.25,-77.5,https://restcountries.eu/data/jam.svg,Kingston,2723246,JM,2003,2054
+Latin America and the Caribbean,Caribbean,Jamaica,Developing regions,18.25,-77.5,https://restcountries.eu/data/jam.svg,Kingston,2723246,JM,2004,2237
+Latin America and the Caribbean,Caribbean,Jamaica,Developing regions,18.25,-77.5,https://restcountries.eu/data/jam.svg,Kingston,2723246,JM,2005,1945
+Latin America and the Caribbean,Caribbean,Jamaica,Developing regions,18.25,-77.5,https://restcountries.eu/data/jam.svg,Kingston,2723246,JM,2006,1722
+Latin America and the Caribbean,Caribbean,Jamaica,Developing regions,18.25,-77.5,https://restcountries.eu/data/jam.svg,Kingston,2723246,JM,2007,2141
+Latin America and the Caribbean,Caribbean,Jamaica,Developing regions,18.25,-77.5,https://restcountries.eu/data/jam.svg,Kingston,2723246,JM,2008,2334
+Latin America and the Caribbean,Caribbean,Jamaica,Developing regions,18.25,-77.5,https://restcountries.eu/data/jam.svg,Kingston,2723246,JM,2009,2456
+Latin America and the Caribbean,Caribbean,Jamaica,Developing regions,18.25,-77.5,https://restcountries.eu/data/jam.svg,Kingston,2723246,JM,2010,2321
+Latin America and the Caribbean,Caribbean,Jamaica,Developing regions,18.25,-77.5,https://restcountries.eu/data/jam.svg,Kingston,2723246,JM,2011,2059
+Latin America and the Caribbean,Caribbean,Jamaica,Developing regions,18.25,-77.5,https://restcountries.eu/data/jam.svg,Kingston,2723246,JM,2012,2182
+Latin America and the Caribbean,Caribbean,Jamaica,Developing regions,18.25,-77.5,https://restcountries.eu/data/jam.svg,Kingston,2723246,JM,2013,2479
+Asia,Eastern Asia,Japan,Developed regions,36.0,138.0,https://restcountries.eu/data/jpn.svg,Tokyo,126960000,JP,1980,701
+Asia,Eastern Asia,Japan,Developed regions,36.0,138.0,https://restcountries.eu/data/jpn.svg,Tokyo,126960000,JP,1981,756
+Asia,Eastern Asia,Japan,Developed regions,36.0,138.0,https://restcountries.eu/data/jpn.svg,Tokyo,126960000,JP,1982,598
+Asia,Eastern Asia,Japan,Developed regions,36.0,138.0,https://restcountries.eu/data/jpn.svg,Tokyo,126960000,JP,1983,309
+Asia,Eastern Asia,Japan,Developed regions,36.0,138.0,https://restcountries.eu/data/jpn.svg,Tokyo,126960000,JP,1984,246
+Asia,Eastern Asia,Japan,Developed regions,36.0,138.0,https://restcountries.eu/data/jpn.svg,Tokyo,126960000,JP,1985,198
+Asia,Eastern Asia,Japan,Developed regions,36.0,138.0,https://restcountries.eu/data/jpn.svg,Tokyo,126960000,JP,1986,248
+Asia,Eastern Asia,Japan,Developed regions,36.0,138.0,https://restcountries.eu/data/jpn.svg,Tokyo,126960000,JP,1987,422
+Asia,Eastern Asia,Japan,Developed regions,36.0,138.0,https://restcountries.eu/data/jpn.svg,Tokyo,126960000,JP,1988,324
+Asia,Eastern Asia,Japan,Developed regions,36.0,138.0,https://restcountries.eu/data/jpn.svg,Tokyo,126960000,JP,1989,494
+Asia,Eastern Asia,Japan,Developed regions,36.0,138.0,https://restcountries.eu/data/jpn.svg,Tokyo,126960000,JP,1990,379
+Asia,Eastern Asia,Japan,Developed regions,36.0,138.0,https://restcountries.eu/data/jpn.svg,Tokyo,126960000,JP,1991,506
+Asia,Eastern Asia,Japan,Developed regions,36.0,138.0,https://restcountries.eu/data/jpn.svg,Tokyo,126960000,JP,1992,605
+Asia,Eastern Asia,Japan,Developed regions,36.0,138.0,https://restcountries.eu/data/jpn.svg,Tokyo,126960000,JP,1993,907
+Asia,Eastern Asia,Japan,Developed regions,36.0,138.0,https://restcountries.eu/data/jpn.svg,Tokyo,126960000,JP,1994,956
+Asia,Eastern Asia,Japan,Developed regions,36.0,138.0,https://restcountries.eu/data/jpn.svg,Tokyo,126960000,JP,1995,826
+Asia,Eastern Asia,Japan,Developed regions,36.0,138.0,https://restcountries.eu/data/jpn.svg,Tokyo,126960000,JP,1996,994
+Asia,Eastern Asia,Japan,Developed regions,36.0,138.0,https://restcountries.eu/data/jpn.svg,Tokyo,126960000,JP,1997,924
+Asia,Eastern Asia,Japan,Developed regions,36.0,138.0,https://restcountries.eu/data/jpn.svg,Tokyo,126960000,JP,1998,897
+Asia,Eastern Asia,Japan,Developed regions,36.0,138.0,https://restcountries.eu/data/jpn.svg,Tokyo,126960000,JP,1999,1083
+Asia,Eastern Asia,Japan,Developed regions,36.0,138.0,https://restcountries.eu/data/jpn.svg,Tokyo,126960000,JP,2000,1010
+Asia,Eastern Asia,Japan,Developed regions,36.0,138.0,https://restcountries.eu/data/jpn.svg,Tokyo,126960000,JP,2001,1092
+Asia,Eastern Asia,Japan,Developed regions,36.0,138.0,https://restcountries.eu/data/jpn.svg,Tokyo,126960000,JP,2002,806
+Asia,Eastern Asia,Japan,Developed regions,36.0,138.0,https://restcountries.eu/data/jpn.svg,Tokyo,126960000,JP,2003,817
+Asia,Eastern Asia,Japan,Developed regions,36.0,138.0,https://restcountries.eu/data/jpn.svg,Tokyo,126960000,JP,2004,973
+Asia,Eastern Asia,Japan,Developed regions,36.0,138.0,https://restcountries.eu/data/jpn.svg,Tokyo,126960000,JP,2005,1067
+Asia,Eastern Asia,Japan,Developed regions,36.0,138.0,https://restcountries.eu/data/jpn.svg,Tokyo,126960000,JP,2006,1212
+Asia,Eastern Asia,Japan,Developed regions,36.0,138.0,https://restcountries.eu/data/jpn.svg,Tokyo,126960000,JP,2007,1250
+Asia,Eastern Asia,Japan,Developed regions,36.0,138.0,https://restcountries.eu/data/jpn.svg,Tokyo,126960000,JP,2008,1284
+Asia,Eastern Asia,Japan,Developed regions,36.0,138.0,https://restcountries.eu/data/jpn.svg,Tokyo,126960000,JP,2009,1194
+Asia,Eastern Asia,Japan,Developed regions,36.0,138.0,https://restcountries.eu/data/jpn.svg,Tokyo,126960000,JP,2010,1168
+Asia,Eastern Asia,Japan,Developed regions,36.0,138.0,https://restcountries.eu/data/jpn.svg,Tokyo,126960000,JP,2011,1265
+Asia,Eastern Asia,Japan,Developed regions,36.0,138.0,https://restcountries.eu/data/jpn.svg,Tokyo,126960000,JP,2012,1214
+Asia,Eastern Asia,Japan,Developed regions,36.0,138.0,https://restcountries.eu/data/jpn.svg,Tokyo,126960000,JP,2013,982
+Asia,Western Asia,Lebanon,Developing regions,33.83333333,35.83333333,https://restcountries.eu/data/lbn.svg,Beirut,5988000,LB,1980,1409
+Asia,Western Asia,Lebanon,Developing regions,33.83333333,35.83333333,https://restcountries.eu/data/lbn.svg,Beirut,5988000,LB,1981,1119
+Asia,Western Asia,Lebanon,Developing regions,33.83333333,35.83333333,https://restcountries.eu/data/lbn.svg,Beirut,5988000,LB,1982,1159
+Asia,Western Asia,Lebanon,Developing regions,33.83333333,35.83333333,https://restcountries.eu/data/lbn.svg,Beirut,5988000,LB,1983,789
+Asia,Western Asia,Lebanon,Developing regions,33.83333333,35.83333333,https://restcountries.eu/data/lbn.svg,Beirut,5988000,LB,1984,1253
+Asia,Western Asia,Lebanon,Developing regions,33.83333333,35.83333333,https://restcountries.eu/data/lbn.svg,Beirut,5988000,LB,1985,1683
+Asia,Western Asia,Lebanon,Developing regions,33.83333333,35.83333333,https://restcountries.eu/data/lbn.svg,Beirut,5988000,LB,1986,2576
+Asia,Western Asia,Lebanon,Developing regions,33.83333333,35.83333333,https://restcountries.eu/data/lbn.svg,Beirut,5988000,LB,1987,3803
+Asia,Western Asia,Lebanon,Developing regions,33.83333333,35.83333333,https://restcountries.eu/data/lbn.svg,Beirut,5988000,LB,1988,3970
+Asia,Western Asia,Lebanon,Developing regions,33.83333333,35.83333333,https://restcountries.eu/data/lbn.svg,Beirut,5988000,LB,1989,7157
+Asia,Western Asia,Lebanon,Developing regions,33.83333333,35.83333333,https://restcountries.eu/data/lbn.svg,Beirut,5988000,LB,1990,13568
+Asia,Western Asia,Lebanon,Developing regions,33.83333333,35.83333333,https://restcountries.eu/data/lbn.svg,Beirut,5988000,LB,1991,12567
+Asia,Western Asia,Lebanon,Developing regions,33.83333333,35.83333333,https://restcountries.eu/data/lbn.svg,Beirut,5988000,LB,1992,6915
+Asia,Western Asia,Lebanon,Developing regions,33.83333333,35.83333333,https://restcountries.eu/data/lbn.svg,Beirut,5988000,LB,1993,4902
+Asia,Western Asia,Lebanon,Developing regions,33.83333333,35.83333333,https://restcountries.eu/data/lbn.svg,Beirut,5988000,LB,1994,2751
+Asia,Western Asia,Lebanon,Developing regions,33.83333333,35.83333333,https://restcountries.eu/data/lbn.svg,Beirut,5988000,LB,1995,2228
+Asia,Western Asia,Lebanon,Developing regions,33.83333333,35.83333333,https://restcountries.eu/data/lbn.svg,Beirut,5988000,LB,1996,1919
+Asia,Western Asia,Lebanon,Developing regions,33.83333333,35.83333333,https://restcountries.eu/data/lbn.svg,Beirut,5988000,LB,1997,1472
+Asia,Western Asia,Lebanon,Developing regions,33.83333333,35.83333333,https://restcountries.eu/data/lbn.svg,Beirut,5988000,LB,1998,1329
+Asia,Western Asia,Lebanon,Developing regions,33.83333333,35.83333333,https://restcountries.eu/data/lbn.svg,Beirut,5988000,LB,1999,1594
+Asia,Western Asia,Lebanon,Developing regions,33.83333333,35.83333333,https://restcountries.eu/data/lbn.svg,Beirut,5988000,LB,2000,1903
+Asia,Western Asia,Lebanon,Developing regions,33.83333333,35.83333333,https://restcountries.eu/data/lbn.svg,Beirut,5988000,LB,2001,2578
+Asia,Western Asia,Lebanon,Developing regions,33.83333333,35.83333333,https://restcountries.eu/data/lbn.svg,Beirut,5988000,LB,2002,2332
+Asia,Western Asia,Lebanon,Developing regions,33.83333333,35.83333333,https://restcountries.eu/data/lbn.svg,Beirut,5988000,LB,2003,3179
+Asia,Western Asia,Lebanon,Developing regions,33.83333333,35.83333333,https://restcountries.eu/data/lbn.svg,Beirut,5988000,LB,2004,3293
+Asia,Western Asia,Lebanon,Developing regions,33.83333333,35.83333333,https://restcountries.eu/data/lbn.svg,Beirut,5988000,LB,2005,3709
+Asia,Western Asia,Lebanon,Developing regions,33.83333333,35.83333333,https://restcountries.eu/data/lbn.svg,Beirut,5988000,LB,2006,3802
+Asia,Western Asia,Lebanon,Developing regions,33.83333333,35.83333333,https://restcountries.eu/data/lbn.svg,Beirut,5988000,LB,2007,3467
+Asia,Western Asia,Lebanon,Developing regions,33.83333333,35.83333333,https://restcountries.eu/data/lbn.svg,Beirut,5988000,LB,2008,3566
+Asia,Western Asia,Lebanon,Developing regions,33.83333333,35.83333333,https://restcountries.eu/data/lbn.svg,Beirut,5988000,LB,2009,3077
+Asia,Western Asia,Lebanon,Developing regions,33.83333333,35.83333333,https://restcountries.eu/data/lbn.svg,Beirut,5988000,LB,2010,3432
+Asia,Western Asia,Lebanon,Developing regions,33.83333333,35.83333333,https://restcountries.eu/data/lbn.svg,Beirut,5988000,LB,2011,3072
+Asia,Western Asia,Lebanon,Developing regions,33.83333333,35.83333333,https://restcountries.eu/data/lbn.svg,Beirut,5988000,LB,2012,1614
+Asia,Western Asia,Lebanon,Developing regions,33.83333333,35.83333333,https://restcountries.eu/data/lbn.svg,Beirut,5988000,LB,2013,2172
+Asia,Southern Asia,Pakistan,Developing regions,30.0,70.0,https://restcountries.eu/data/pak.svg,Islamabad,194125062,PK,1980,978
+Asia,Southern Asia,Pakistan,Developing regions,30.0,70.0,https://restcountries.eu/data/pak.svg,Islamabad,194125062,PK,1981,972
+Asia,Southern Asia,Pakistan,Developing regions,30.0,70.0,https://restcountries.eu/data/pak.svg,Islamabad,194125062,PK,1982,1201
+Asia,Southern Asia,Pakistan,Developing regions,30.0,70.0,https://restcountries.eu/data/pak.svg,Islamabad,194125062,PK,1983,900
+Asia,Southern Asia,Pakistan,Developing regions,30.0,70.0,https://restcountries.eu/data/pak.svg,Islamabad,194125062,PK,1984,668
+Asia,Southern Asia,Pakistan,Developing regions,30.0,70.0,https://restcountries.eu/data/pak.svg,Islamabad,194125062,PK,1985,514
+Asia,Southern Asia,Pakistan,Developing regions,30.0,70.0,https://restcountries.eu/data/pak.svg,Islamabad,194125062,PK,1986,691
+Asia,Southern Asia,Pakistan,Developing regions,30.0,70.0,https://restcountries.eu/data/pak.svg,Islamabad,194125062,PK,1987,1072
+Asia,Southern Asia,Pakistan,Developing regions,30.0,70.0,https://restcountries.eu/data/pak.svg,Islamabad,194125062,PK,1988,1334
+Asia,Southern Asia,Pakistan,Developing regions,30.0,70.0,https://restcountries.eu/data/pak.svg,Islamabad,194125062,PK,1989,2261
+Asia,Southern Asia,Pakistan,Developing regions,30.0,70.0,https://restcountries.eu/data/pak.svg,Islamabad,194125062,PK,1990,2470
+Asia,Southern Asia,Pakistan,Developing regions,30.0,70.0,https://restcountries.eu/data/pak.svg,Islamabad,194125062,PK,1991,3079
+Asia,Southern Asia,Pakistan,Developing regions,30.0,70.0,https://restcountries.eu/data/pak.svg,Islamabad,194125062,PK,1992,4071
+Asia,Southern Asia,Pakistan,Developing regions,30.0,70.0,https://restcountries.eu/data/pak.svg,Islamabad,194125062,PK,1993,4777
+Asia,Southern Asia,Pakistan,Developing regions,30.0,70.0,https://restcountries.eu/data/pak.svg,Islamabad,194125062,PK,1994,4666
+Asia,Southern Asia,Pakistan,Developing regions,30.0,70.0,https://restcountries.eu/data/pak.svg,Islamabad,194125062,PK,1995,4994
+Asia,Southern Asia,Pakistan,Developing regions,30.0,70.0,https://restcountries.eu/data/pak.svg,Islamabad,194125062,PK,1996,9125
+Asia,Southern Asia,Pakistan,Developing regions,30.0,70.0,https://restcountries.eu/data/pak.svg,Islamabad,194125062,PK,1997,13073
+Asia,Southern Asia,Pakistan,Developing regions,30.0,70.0,https://restcountries.eu/data/pak.svg,Islamabad,194125062,PK,1998,9068
+Asia,Southern Asia,Pakistan,Developing regions,30.0,70.0,https://restcountries.eu/data/pak.svg,Islamabad,194125062,PK,1999,9979
+Asia,Southern Asia,Pakistan,Developing regions,30.0,70.0,https://restcountries.eu/data/pak.svg,Islamabad,194125062,PK,2000,15400
+Asia,Southern Asia,Pakistan,Developing regions,30.0,70.0,https://restcountries.eu/data/pak.svg,Islamabad,194125062,PK,2001,16708
+Asia,Southern Asia,Pakistan,Developing regions,30.0,70.0,https://restcountries.eu/data/pak.svg,Islamabad,194125062,PK,2002,15110
+Asia,Southern Asia,Pakistan,Developing regions,30.0,70.0,https://restcountries.eu/data/pak.svg,Islamabad,194125062,PK,2003,13205
+Asia,Southern Asia,Pakistan,Developing regions,30.0,70.0,https://restcountries.eu/data/pak.svg,Islamabad,194125062,PK,2004,13399
+Asia,Southern Asia,Pakistan,Developing regions,30.0,70.0,https://restcountries.eu/data/pak.svg,Islamabad,194125062,PK,2005,14314
+Asia,Southern Asia,Pakistan,Developing regions,30.0,70.0,https://restcountries.eu/data/pak.svg,Islamabad,194125062,PK,2006,13127
+Asia,Southern Asia,Pakistan,Developing regions,30.0,70.0,https://restcountries.eu/data/pak.svg,Islamabad,194125062,PK,2007,10124
+Asia,Southern Asia,Pakistan,Developing regions,30.0,70.0,https://restcountries.eu/data/pak.svg,Islamabad,194125062,PK,2008,8994
+Asia,Southern Asia,Pakistan,Developing regions,30.0,70.0,https://restcountries.eu/data/pak.svg,Islamabad,194125062,PK,2009,7217
+Asia,Southern Asia,Pakistan,Developing regions,30.0,70.0,https://restcountries.eu/data/pak.svg,Islamabad,194125062,PK,2010,6811
+Asia,Southern Asia,Pakistan,Developing regions,30.0,70.0,https://restcountries.eu/data/pak.svg,Islamabad,194125062,PK,2011,7468
+Asia,Southern Asia,Pakistan,Developing regions,30.0,70.0,https://restcountries.eu/data/pak.svg,Islamabad,194125062,PK,2012,11227
+Asia,Southern Asia,Pakistan,Developing regions,30.0,70.0,https://restcountries.eu/data/pak.svg,Islamabad,194125062,PK,2013,12603
+Asia,South-Eastern Asia,Philippines,Developing regions,13.0,122.0,https://restcountries.eu/data/phl.svg,Manila,103279800,PH,1980,6051
+Asia,South-Eastern Asia,Philippines,Developing regions,13.0,122.0,https://restcountries.eu/data/phl.svg,Manila,103279800,PH,1981,5921
+Asia,South-Eastern Asia,Philippines,Developing regions,13.0,122.0,https://restcountries.eu/data/phl.svg,Manila,103279800,PH,1982,5249
+Asia,South-Eastern Asia,Philippines,Developing regions,13.0,122.0,https://restcountries.eu/data/phl.svg,Manila,103279800,PH,1983,4562
+Asia,South-Eastern Asia,Philippines,Developing regions,13.0,122.0,https://restcountries.eu/data/phl.svg,Manila,103279800,PH,1984,3801
+Asia,South-Eastern Asia,Philippines,Developing regions,13.0,122.0,https://restcountries.eu/data/phl.svg,Manila,103279800,PH,1985,3150
+Asia,South-Eastern Asia,Philippines,Developing regions,13.0,122.0,https://restcountries.eu/data/phl.svg,Manila,103279800,PH,1986,4166
+Asia,South-Eastern Asia,Philippines,Developing regions,13.0,122.0,https://restcountries.eu/data/phl.svg,Manila,103279800,PH,1987,7360
+Asia,South-Eastern Asia,Philippines,Developing regions,13.0,122.0,https://restcountries.eu/data/phl.svg,Manila,103279800,PH,1988,8639
+Asia,South-Eastern Asia,Philippines,Developing regions,13.0,122.0,https://restcountries.eu/data/phl.svg,Manila,103279800,PH,1989,11865
+Asia,South-Eastern Asia,Philippines,Developing regions,13.0,122.0,https://restcountries.eu/data/phl.svg,Manila,103279800,PH,1990,12509
+Asia,South-Eastern Asia,Philippines,Developing regions,13.0,122.0,https://restcountries.eu/data/phl.svg,Manila,103279800,PH,1991,12718
+Asia,South-Eastern Asia,Philippines,Developing regions,13.0,122.0,https://restcountries.eu/data/phl.svg,Manila,103279800,PH,1992,13670
+Asia,South-Eastern Asia,Philippines,Developing regions,13.0,122.0,https://restcountries.eu/data/phl.svg,Manila,103279800,PH,1993,20479
+Asia,South-Eastern Asia,Philippines,Developing regions,13.0,122.0,https://restcountries.eu/data/phl.svg,Manila,103279800,PH,1994,19532
+Asia,South-Eastern Asia,Philippines,Developing regions,13.0,122.0,https://restcountries.eu/data/phl.svg,Manila,103279800,PH,1995,15864
+Asia,South-Eastern Asia,Philippines,Developing regions,13.0,122.0,https://restcountries.eu/data/phl.svg,Manila,103279800,PH,1996,13692
+Asia,South-Eastern Asia,Philippines,Developing regions,13.0,122.0,https://restcountries.eu/data/phl.svg,Manila,103279800,PH,1997,11549
+Asia,South-Eastern Asia,Philippines,Developing regions,13.0,122.0,https://restcountries.eu/data/phl.svg,Manila,103279800,PH,1998,8735
+Asia,South-Eastern Asia,Philippines,Developing regions,13.0,122.0,https://restcountries.eu/data/phl.svg,Manila,103279800,PH,1999,9734
+Asia,South-Eastern Asia,Philippines,Developing regions,13.0,122.0,https://restcountries.eu/data/phl.svg,Manila,103279800,PH,2000,10763
+Asia,South-Eastern Asia,Philippines,Developing regions,13.0,122.0,https://restcountries.eu/data/phl.svg,Manila,103279800,PH,2001,13836
+Asia,South-Eastern Asia,Philippines,Developing regions,13.0,122.0,https://restcountries.eu/data/phl.svg,Manila,103279800,PH,2002,11707
+Asia,South-Eastern Asia,Philippines,Developing regions,13.0,122.0,https://restcountries.eu/data/phl.svg,Manila,103279800,PH,2003,12758
+Asia,South-Eastern Asia,Philippines,Developing regions,13.0,122.0,https://restcountries.eu/data/phl.svg,Manila,103279800,PH,2004,14004
+Asia,South-Eastern Asia,Philippines,Developing regions,13.0,122.0,https://restcountries.eu/data/phl.svg,Manila,103279800,PH,2005,18139
+Asia,South-Eastern Asia,Philippines,Developing regions,13.0,122.0,https://restcountries.eu/data/phl.svg,Manila,103279800,PH,2006,18400
+Asia,South-Eastern Asia,Philippines,Developing regions,13.0,122.0,https://restcountries.eu/data/phl.svg,Manila,103279800,PH,2007,19837
+Asia,South-Eastern Asia,Philippines,Developing regions,13.0,122.0,https://restcountries.eu/data/phl.svg,Manila,103279800,PH,2008,24887
+Asia,South-Eastern Asia,Philippines,Developing regions,13.0,122.0,https://restcountries.eu/data/phl.svg,Manila,103279800,PH,2009,28573
+Asia,South-Eastern Asia,Philippines,Developing regions,13.0,122.0,https://restcountries.eu/data/phl.svg,Manila,103279800,PH,2010,38617
+Asia,South-Eastern Asia,Philippines,Developing regions,13.0,122.0,https://restcountries.eu/data/phl.svg,Manila,103279800,PH,2011,36765
+Asia,South-Eastern Asia,Philippines,Developing regions,13.0,122.0,https://restcountries.eu/data/phl.svg,Manila,103279800,PH,2012,34315
+Asia,South-Eastern Asia,Philippines,Developing regions,13.0,122.0,https://restcountries.eu/data/phl.svg,Manila,103279800,PH,2013,29544
+Europe,Eastern Europe,Poland,Developed regions,52.0,20.0,https://restcountries.eu/data/pol.svg,Warsaw,38437239,PL,1980,863
+Europe,Eastern Europe,Poland,Developed regions,52.0,20.0,https://restcountries.eu/data/pol.svg,Warsaw,38437239,PL,1981,2930
+Europe,Eastern Europe,Poland,Developed regions,52.0,20.0,https://restcountries.eu/data/pol.svg,Warsaw,38437239,PL,1982,5881
+Europe,Eastern Europe,Poland,Developed regions,52.0,20.0,https://restcountries.eu/data/pol.svg,Warsaw,38437239,PL,1983,4546
+Europe,Eastern Europe,Poland,Developed regions,52.0,20.0,https://restcountries.eu/data/pol.svg,Warsaw,38437239,PL,1984,3588
+Europe,Eastern Europe,Poland,Developed regions,52.0,20.0,https://restcountries.eu/data/pol.svg,Warsaw,38437239,PL,1985,2819
+Europe,Eastern Europe,Poland,Developed regions,52.0,20.0,https://restcountries.eu/data/pol.svg,Warsaw,38437239,PL,1986,4808
+Europe,Eastern Europe,Poland,Developed regions,52.0,20.0,https://restcountries.eu/data/pol.svg,Warsaw,38437239,PL,1987,6931
+Europe,Eastern Europe,Poland,Developed regions,52.0,20.0,https://restcountries.eu/data/pol.svg,Warsaw,38437239,PL,1988,9211
+Europe,Eastern Europe,Poland,Developed regions,52.0,20.0,https://restcountries.eu/data/pol.svg,Warsaw,38437239,PL,1989,16025
+Europe,Eastern Europe,Poland,Developed regions,52.0,20.0,https://restcountries.eu/data/pol.svg,Warsaw,38437239,PL,1990,17040
+Europe,Eastern Europe,Poland,Developed regions,52.0,20.0,https://restcountries.eu/data/pol.svg,Warsaw,38437239,PL,1991,16028
+Europe,Eastern Europe,Poland,Developed regions,52.0,20.0,https://restcountries.eu/data/pol.svg,Warsaw,38437239,PL,1992,12145
+Europe,Eastern Europe,Poland,Developed regions,52.0,20.0,https://restcountries.eu/data/pol.svg,Warsaw,38437239,PL,1993,6960
+Europe,Eastern Europe,Poland,Developed regions,52.0,20.0,https://restcountries.eu/data/pol.svg,Warsaw,38437239,PL,1994,3550
+Europe,Eastern Europe,Poland,Developed regions,52.0,20.0,https://restcountries.eu/data/pol.svg,Warsaw,38437239,PL,1995,2405
+Europe,Eastern Europe,Poland,Developed regions,52.0,20.0,https://restcountries.eu/data/pol.svg,Warsaw,38437239,PL,1996,2136
+Europe,Eastern Europe,Poland,Developed regions,52.0,20.0,https://restcountries.eu/data/pol.svg,Warsaw,38437239,PL,1997,1758
+Europe,Eastern Europe,Poland,Developed regions,52.0,20.0,https://restcountries.eu/data/pol.svg,Warsaw,38437239,PL,1998,1488
+Europe,Eastern Europe,Poland,Developed regions,52.0,20.0,https://restcountries.eu/data/pol.svg,Warsaw,38437239,PL,1999,1354
+Europe,Eastern Europe,Poland,Developed regions,52.0,20.0,https://restcountries.eu/data/pol.svg,Warsaw,38437239,PL,2000,1471
+Europe,Eastern Europe,Poland,Developed regions,52.0,20.0,https://restcountries.eu/data/pol.svg,Warsaw,38437239,PL,2001,1601
+Europe,Eastern Europe,Poland,Developed regions,52.0,20.0,https://restcountries.eu/data/pol.svg,Warsaw,38437239,PL,2002,1447
+Europe,Eastern Europe,Poland,Developed regions,52.0,20.0,https://restcountries.eu/data/pol.svg,Warsaw,38437239,PL,2003,1394
+Europe,Eastern Europe,Poland,Developed regions,52.0,20.0,https://restcountries.eu/data/pol.svg,Warsaw,38437239,PL,2004,1533
+Europe,Eastern Europe,Poland,Developed regions,52.0,20.0,https://restcountries.eu/data/pol.svg,Warsaw,38437239,PL,2005,1405
+Europe,Eastern Europe,Poland,Developed regions,52.0,20.0,https://restcountries.eu/data/pol.svg,Warsaw,38437239,PL,2006,1263
+Europe,Eastern Europe,Poland,Developed regions,52.0,20.0,https://restcountries.eu/data/pol.svg,Warsaw,38437239,PL,2007,1235
+Europe,Eastern Europe,Poland,Developed regions,52.0,20.0,https://restcountries.eu/data/pol.svg,Warsaw,38437239,PL,2008,1267
+Europe,Eastern Europe,Poland,Developed regions,52.0,20.0,https://restcountries.eu/data/pol.svg,Warsaw,38437239,PL,2009,1013
+Europe,Eastern Europe,Poland,Developed regions,52.0,20.0,https://restcountries.eu/data/pol.svg,Warsaw,38437239,PL,2010,795
+Europe,Eastern Europe,Poland,Developed regions,52.0,20.0,https://restcountries.eu/data/pol.svg,Warsaw,38437239,PL,2011,720
+Europe,Eastern Europe,Poland,Developed regions,52.0,20.0,https://restcountries.eu/data/pol.svg,Warsaw,38437239,PL,2012,779
+Europe,Eastern Europe,Poland,Developed regions,52.0,20.0,https://restcountries.eu/data/pol.svg,Warsaw,38437239,PL,2013,852
+Europe,Southern Europe,Portugal,Developed regions,39.5,-8.0,https://restcountries.eu/data/prt.svg,Lisbon,10374822,PT,1980,4473
+Europe,Southern Europe,Portugal,Developed regions,39.5,-8.0,https://restcountries.eu/data/prt.svg,Lisbon,10374822,PT,1981,3486
+Europe,Southern Europe,Portugal,Developed regions,39.5,-8.0,https://restcountries.eu/data/prt.svg,Lisbon,10374822,PT,1982,2432
+Europe,Southern Europe,Portugal,Developed regions,39.5,-8.0,https://restcountries.eu/data/prt.svg,Lisbon,10374822,PT,1983,1433
+Europe,Southern Europe,Portugal,Developed regions,39.5,-8.0,https://restcountries.eu/data/prt.svg,Lisbon,10374822,PT,1984,1398
+Europe,Southern Europe,Portugal,Developed regions,39.5,-8.0,https://restcountries.eu/data/prt.svg,Lisbon,10374822,PT,1985,1451
+Europe,Southern Europe,Portugal,Developed regions,39.5,-8.0,https://restcountries.eu/data/prt.svg,Lisbon,10374822,PT,1986,2617
+Europe,Southern Europe,Portugal,Developed regions,39.5,-8.0,https://restcountries.eu/data/prt.svg,Lisbon,10374822,PT,1987,7684
+Europe,Southern Europe,Portugal,Developed regions,39.5,-8.0,https://restcountries.eu/data/prt.svg,Lisbon,10374822,PT,1988,6888
+Europe,Southern Europe,Portugal,Developed regions,39.5,-8.0,https://restcountries.eu/data/prt.svg,Lisbon,10374822,PT,1989,8570
+Europe,Southern Europe,Portugal,Developed regions,39.5,-8.0,https://restcountries.eu/data/prt.svg,Lisbon,10374822,PT,1990,8452
+Europe,Southern Europe,Portugal,Developed regions,39.5,-8.0,https://restcountries.eu/data/prt.svg,Lisbon,10374822,PT,1991,6286
+Europe,Southern Europe,Portugal,Developed regions,39.5,-8.0,https://restcountries.eu/data/prt.svg,Lisbon,10374822,PT,1992,3328
+Europe,Southern Europe,Portugal,Developed regions,39.5,-8.0,https://restcountries.eu/data/prt.svg,Lisbon,10374822,PT,1993,2347
+Europe,Southern Europe,Portugal,Developed regions,39.5,-8.0,https://restcountries.eu/data/prt.svg,Lisbon,10374822,PT,1994,1599
+Europe,Southern Europe,Portugal,Developed regions,39.5,-8.0,https://restcountries.eu/data/prt.svg,Lisbon,10374822,PT,1995,1405
+Europe,Southern Europe,Portugal,Developed regions,39.5,-8.0,https://restcountries.eu/data/prt.svg,Lisbon,10374822,PT,1996,1237
+Europe,Southern Europe,Portugal,Developed regions,39.5,-8.0,https://restcountries.eu/data/prt.svg,Lisbon,10374822,PT,1997,1167
+Europe,Southern Europe,Portugal,Developed regions,39.5,-8.0,https://restcountries.eu/data/prt.svg,Lisbon,10374822,PT,1998,625
+Europe,Southern Europe,Portugal,Developed regions,39.5,-8.0,https://restcountries.eu/data/prt.svg,Lisbon,10374822,PT,1999,458
+Europe,Southern Europe,Portugal,Developed regions,39.5,-8.0,https://restcountries.eu/data/prt.svg,Lisbon,10374822,PT,2000,469
+Europe,Southern Europe,Portugal,Developed regions,39.5,-8.0,https://restcountries.eu/data/prt.svg,Lisbon,10374822,PT,2001,531
+Europe,Southern Europe,Portugal,Developed regions,39.5,-8.0,https://restcountries.eu/data/prt.svg,Lisbon,10374822,PT,2002,364
+Europe,Southern Europe,Portugal,Developed regions,39.5,-8.0,https://restcountries.eu/data/prt.svg,Lisbon,10374822,PT,2003,329
+Europe,Southern Europe,Portugal,Developed regions,39.5,-8.0,https://restcountries.eu/data/prt.svg,Lisbon,10374822,PT,2004,336
+Europe,Southern Europe,Portugal,Developed regions,39.5,-8.0,https://restcountries.eu/data/prt.svg,Lisbon,10374822,PT,2005,338
+Europe,Southern Europe,Portugal,Developed regions,39.5,-8.0,https://restcountries.eu/data/prt.svg,Lisbon,10374822,PT,2006,424
+Europe,Southern Europe,Portugal,Developed regions,39.5,-8.0,https://restcountries.eu/data/prt.svg,Lisbon,10374822,PT,2007,405
+Europe,Southern Europe,Portugal,Developed regions,39.5,-8.0,https://restcountries.eu/data/prt.svg,Lisbon,10374822,PT,2008,665
+Europe,Southern Europe,Portugal,Developed regions,39.5,-8.0,https://restcountries.eu/data/prt.svg,Lisbon,10374822,PT,2009,623
+Europe,Southern Europe,Portugal,Developed regions,39.5,-8.0,https://restcountries.eu/data/prt.svg,Lisbon,10374822,PT,2010,629
+Europe,Southern Europe,Portugal,Developed regions,39.5,-8.0,https://restcountries.eu/data/prt.svg,Lisbon,10374822,PT,2011,528
+Europe,Southern Europe,Portugal,Developed regions,39.5,-8.0,https://restcountries.eu/data/prt.svg,Lisbon,10374822,PT,2012,560
+Europe,Southern Europe,Portugal,Developed regions,39.5,-8.0,https://restcountries.eu/data/prt.svg,Lisbon,10374822,PT,2013,630
+Asia,Eastern Asia,Republic of Korea,Developing regions,37.0,127.5,https://restcountries.eu/data/kor.svg,Seoul,50801405,KR,1980,1011
+Asia,Eastern Asia,Republic of Korea,Developing regions,37.0,127.5,https://restcountries.eu/data/kor.svg,Seoul,50801405,KR,1981,1456
+Asia,Eastern Asia,Republic of Korea,Developing regions,37.0,127.5,https://restcountries.eu/data/kor.svg,Seoul,50801405,KR,1982,1572
+Asia,Eastern Asia,Republic of Korea,Developing regions,37.0,127.5,https://restcountries.eu/data/kor.svg,Seoul,50801405,KR,1983,1081
+Asia,Eastern Asia,Republic of Korea,Developing regions,37.0,127.5,https://restcountries.eu/data/kor.svg,Seoul,50801405,KR,1984,847
+Asia,Eastern Asia,Republic of Korea,Developing regions,37.0,127.5,https://restcountries.eu/data/kor.svg,Seoul,50801405,KR,1985,962
+Asia,Eastern Asia,Republic of Korea,Developing regions,37.0,127.5,https://restcountries.eu/data/kor.svg,Seoul,50801405,KR,1986,1208
+Asia,Eastern Asia,Republic of Korea,Developing regions,37.0,127.5,https://restcountries.eu/data/kor.svg,Seoul,50801405,KR,1987,2338
+Asia,Eastern Asia,Republic of Korea,Developing regions,37.0,127.5,https://restcountries.eu/data/kor.svg,Seoul,50801405,KR,1988,2805
+Asia,Eastern Asia,Republic of Korea,Developing regions,37.0,127.5,https://restcountries.eu/data/kor.svg,Seoul,50801405,KR,1989,2979
+Asia,Eastern Asia,Republic of Korea,Developing regions,37.0,127.5,https://restcountries.eu/data/kor.svg,Seoul,50801405,KR,1990,2087
+Asia,Eastern Asia,Republic of Korea,Developing regions,37.0,127.5,https://restcountries.eu/data/kor.svg,Seoul,50801405,KR,1991,2598
+Asia,Eastern Asia,Republic of Korea,Developing regions,37.0,127.5,https://restcountries.eu/data/kor.svg,Seoul,50801405,KR,1992,3790
+Asia,Eastern Asia,Republic of Korea,Developing regions,37.0,127.5,https://restcountries.eu/data/kor.svg,Seoul,50801405,KR,1993,3819
+Asia,Eastern Asia,Republic of Korea,Developing regions,37.0,127.5,https://restcountries.eu/data/kor.svg,Seoul,50801405,KR,1994,3005
+Asia,Eastern Asia,Republic of Korea,Developing regions,37.0,127.5,https://restcountries.eu/data/kor.svg,Seoul,50801405,KR,1995,3501
+Asia,Eastern Asia,Republic of Korea,Developing regions,37.0,127.5,https://restcountries.eu/data/kor.svg,Seoul,50801405,KR,1996,3250
+Asia,Eastern Asia,Republic of Korea,Developing regions,37.0,127.5,https://restcountries.eu/data/kor.svg,Seoul,50801405,KR,1997,4093
+Asia,Eastern Asia,Republic of Korea,Developing regions,37.0,127.5,https://restcountries.eu/data/kor.svg,Seoul,50801405,KR,1998,4938
+Asia,Eastern Asia,Republic of Korea,Developing regions,37.0,127.5,https://restcountries.eu/data/kor.svg,Seoul,50801405,KR,1999,7108
+Asia,Eastern Asia,Republic of Korea,Developing regions,37.0,127.5,https://restcountries.eu/data/kor.svg,Seoul,50801405,KR,2000,7618
+Asia,Eastern Asia,Republic of Korea,Developing regions,37.0,127.5,https://restcountries.eu/data/kor.svg,Seoul,50801405,KR,2001,9619
+Asia,Eastern Asia,Republic of Korea,Developing regions,37.0,127.5,https://restcountries.eu/data/kor.svg,Seoul,50801405,KR,2002,7342
+Asia,Eastern Asia,Republic of Korea,Developing regions,37.0,127.5,https://restcountries.eu/data/kor.svg,Seoul,50801405,KR,2003,7117
+Asia,Eastern Asia,Republic of Korea,Developing regions,37.0,127.5,https://restcountries.eu/data/kor.svg,Seoul,50801405,KR,2004,5352
+Asia,Eastern Asia,Republic of Korea,Developing regions,37.0,127.5,https://restcountries.eu/data/kor.svg,Seoul,50801405,KR,2005,5832
+Asia,Eastern Asia,Republic of Korea,Developing regions,37.0,127.5,https://restcountries.eu/data/kor.svg,Seoul,50801405,KR,2006,6215
+Asia,Eastern Asia,Republic of Korea,Developing regions,37.0,127.5,https://restcountries.eu/data/kor.svg,Seoul,50801405,KR,2007,5920
+Asia,Eastern Asia,Republic of Korea,Developing regions,37.0,127.5,https://restcountries.eu/data/kor.svg,Seoul,50801405,KR,2008,7294
+Asia,Eastern Asia,Republic of Korea,Developing regions,37.0,127.5,https://restcountries.eu/data/kor.svg,Seoul,50801405,KR,2009,5874
+Asia,Eastern Asia,Republic of Korea,Developing regions,37.0,127.5,https://restcountries.eu/data/kor.svg,Seoul,50801405,KR,2010,5537
+Asia,Eastern Asia,Republic of Korea,Developing regions,37.0,127.5,https://restcountries.eu/data/kor.svg,Seoul,50801405,KR,2011,4588
+Asia,Eastern Asia,Republic of Korea,Developing regions,37.0,127.5,https://restcountries.eu/data/kor.svg,Seoul,50801405,KR,2012,5316
+Asia,Eastern Asia,Republic of Korea,Developing regions,37.0,127.5,https://restcountries.eu/data/kor.svg,Seoul,50801405,KR,2013,4509
+Europe,Eastern Europe,Romania,Developed regions,46.0,25.0,https://restcountries.eu/data/rou.svg,Bucharest,19861408,RO,1980,375
+Europe,Eastern Europe,Romania,Developed regions,46.0,25.0,https://restcountries.eu/data/rou.svg,Bucharest,19861408,RO,1981,438
+Europe,Eastern Europe,Romania,Developed regions,46.0,25.0,https://restcountries.eu/data/rou.svg,Bucharest,19861408,RO,1982,583
+Europe,Eastern Europe,Romania,Developed regions,46.0,25.0,https://restcountries.eu/data/rou.svg,Bucharest,19861408,RO,1983,543
+Europe,Eastern Europe,Romania,Developed regions,46.0,25.0,https://restcountries.eu/data/rou.svg,Bucharest,19861408,RO,1984,524
+Europe,Eastern Europe,Romania,Developed regions,46.0,25.0,https://restcountries.eu/data/rou.svg,Bucharest,19861408,RO,1985,604
+Europe,Eastern Europe,Romania,Developed regions,46.0,25.0,https://restcountries.eu/data/rou.svg,Bucharest,19861408,RO,1986,656
+Europe,Eastern Europe,Romania,Developed regions,46.0,25.0,https://restcountries.eu/data/rou.svg,Bucharest,19861408,RO,1987,1202
+Europe,Eastern Europe,Romania,Developed regions,46.0,25.0,https://restcountries.eu/data/rou.svg,Bucharest,19861408,RO,1988,1106
+Europe,Eastern Europe,Romania,Developed regions,46.0,25.0,https://restcountries.eu/data/rou.svg,Bucharest,19861408,RO,1989,1582
+Europe,Eastern Europe,Romania,Developed regions,46.0,25.0,https://restcountries.eu/data/rou.svg,Bucharest,19861408,RO,1990,2252
+Europe,Eastern Europe,Romania,Developed regions,46.0,25.0,https://restcountries.eu/data/rou.svg,Bucharest,19861408,RO,1991,2337
+Europe,Eastern Europe,Romania,Developed regions,46.0,25.0,https://restcountries.eu/data/rou.svg,Bucharest,19861408,RO,1992,3147
+Europe,Eastern Europe,Romania,Developed regions,46.0,25.0,https://restcountries.eu/data/rou.svg,Bucharest,19861408,RO,1993,3676
+Europe,Eastern Europe,Romania,Developed regions,46.0,25.0,https://restcountries.eu/data/rou.svg,Bucharest,19861408,RO,1994,3495
+Europe,Eastern Europe,Romania,Developed regions,46.0,25.0,https://restcountries.eu/data/rou.svg,Bucharest,19861408,RO,1995,4279
+Europe,Eastern Europe,Romania,Developed regions,46.0,25.0,https://restcountries.eu/data/rou.svg,Bucharest,19861408,RO,1996,3909
+Europe,Eastern Europe,Romania,Developed regions,46.0,25.0,https://restcountries.eu/data/rou.svg,Bucharest,19861408,RO,1997,3993
+Europe,Eastern Europe,Romania,Developed regions,46.0,25.0,https://restcountries.eu/data/rou.svg,Bucharest,19861408,RO,1998,3033
+Europe,Eastern Europe,Romania,Developed regions,46.0,25.0,https://restcountries.eu/data/rou.svg,Bucharest,19861408,RO,1999,3538
+Europe,Eastern Europe,Romania,Developed regions,46.0,25.0,https://restcountries.eu/data/rou.svg,Bucharest,19861408,RO,2000,4539
+Europe,Eastern Europe,Romania,Developed regions,46.0,25.0,https://restcountries.eu/data/rou.svg,Bucharest,19861408,RO,2001,5652
+Europe,Eastern Europe,Romania,Developed regions,46.0,25.0,https://restcountries.eu/data/rou.svg,Bucharest,19861408,RO,2002,5765
+Europe,Eastern Europe,Romania,Developed regions,46.0,25.0,https://restcountries.eu/data/rou.svg,Bucharest,19861408,RO,2003,5541
+Europe,Eastern Europe,Romania,Developed regions,46.0,25.0,https://restcountries.eu/data/rou.svg,Bucharest,19861408,RO,2004,5755
+Europe,Eastern Europe,Romania,Developed regions,46.0,25.0,https://restcountries.eu/data/rou.svg,Bucharest,19861408,RO,2005,5048
+Europe,Eastern Europe,Romania,Developed regions,46.0,25.0,https://restcountries.eu/data/rou.svg,Bucharest,19861408,RO,2006,4468
+Europe,Eastern Europe,Romania,Developed regions,46.0,25.0,https://restcountries.eu/data/rou.svg,Bucharest,19861408,RO,2007,3834
+Europe,Eastern Europe,Romania,Developed regions,46.0,25.0,https://restcountries.eu/data/rou.svg,Bucharest,19861408,RO,2008,2837
+Europe,Eastern Europe,Romania,Developed regions,46.0,25.0,https://restcountries.eu/data/rou.svg,Bucharest,19861408,RO,2009,2076
+Europe,Eastern Europe,Romania,Developed regions,46.0,25.0,https://restcountries.eu/data/rou.svg,Bucharest,19861408,RO,2010,1922
+Europe,Eastern Europe,Romania,Developed regions,46.0,25.0,https://restcountries.eu/data/rou.svg,Bucharest,19861408,RO,2011,1776
+Europe,Eastern Europe,Romania,Developed regions,46.0,25.0,https://restcountries.eu/data/rou.svg,Bucharest,19861408,RO,2012,1588
+Europe,Eastern Europe,Romania,Developed regions,46.0,25.0,https://restcountries.eu/data/rou.svg,Bucharest,19861408,RO,2013,1512
+Europe,Eastern Europe,Russian Federation,Developed regions,60.0,100.0,https://restcountries.eu/data/rus.svg,Moscow,146599183,RU,1980,0
+Europe,Eastern Europe,Russian Federation,Developed regions,60.0,100.0,https://restcountries.eu/data/rus.svg,Moscow,146599183,RU,1981,0
+Europe,Eastern Europe,Russian Federation,Developed regions,60.0,100.0,https://restcountries.eu/data/rus.svg,Moscow,146599183,RU,1982,0
+Europe,Eastern Europe,Russian Federation,Developed regions,60.0,100.0,https://restcountries.eu/data/rus.svg,Moscow,146599183,RU,1983,0
+Europe,Eastern Europe,Russian Federation,Developed regions,60.0,100.0,https://restcountries.eu/data/rus.svg,Moscow,146599183,RU,1984,0
+Europe,Eastern Europe,Russian Federation,Developed regions,60.0,100.0,https://restcountries.eu/data/rus.svg,Moscow,146599183,RU,1985,0
+Europe,Eastern Europe,Russian Federation,Developed regions,60.0,100.0,https://restcountries.eu/data/rus.svg,Moscow,146599183,RU,1986,0
+Europe,Eastern Europe,Russian Federation,Developed regions,60.0,100.0,https://restcountries.eu/data/rus.svg,Moscow,146599183,RU,1987,0
+Europe,Eastern Europe,Russian Federation,Developed regions,60.0,100.0,https://restcountries.eu/data/rus.svg,Moscow,146599183,RU,1988,0
+Europe,Eastern Europe,Russian Federation,Developed regions,60.0,100.0,https://restcountries.eu/data/rus.svg,Moscow,146599183,RU,1989,0
+Europe,Eastern Europe,Russian Federation,Developed regions,60.0,100.0,https://restcountries.eu/data/rus.svg,Moscow,146599183,RU,1990,0
+Europe,Eastern Europe,Russian Federation,Developed regions,60.0,100.0,https://restcountries.eu/data/rus.svg,Moscow,146599183,RU,1991,0
+Europe,Eastern Europe,Russian Federation,Developed regions,60.0,100.0,https://restcountries.eu/data/rus.svg,Moscow,146599183,RU,1992,172
+Europe,Eastern Europe,Russian Federation,Developed regions,60.0,100.0,https://restcountries.eu/data/rus.svg,Moscow,146599183,RU,1993,906
+Europe,Eastern Europe,Russian Federation,Developed regions,60.0,100.0,https://restcountries.eu/data/rus.svg,Moscow,146599183,RU,1994,1327
+Europe,Eastern Europe,Russian Federation,Developed regions,60.0,100.0,https://restcountries.eu/data/rus.svg,Moscow,146599183,RU,1995,1819
+Europe,Eastern Europe,Russian Federation,Developed regions,60.0,100.0,https://restcountries.eu/data/rus.svg,Moscow,146599183,RU,1996,2640
+Europe,Eastern Europe,Russian Federation,Developed regions,60.0,100.0,https://restcountries.eu/data/rus.svg,Moscow,146599183,RU,1997,3708
+Europe,Eastern Europe,Russian Federation,Developed regions,60.0,100.0,https://restcountries.eu/data/rus.svg,Moscow,146599183,RU,1998,4388
+Europe,Eastern Europe,Russian Federation,Developed regions,60.0,100.0,https://restcountries.eu/data/rus.svg,Moscow,146599183,RU,1999,4053
+Europe,Eastern Europe,Russian Federation,Developed regions,60.0,100.0,https://restcountries.eu/data/rus.svg,Moscow,146599183,RU,2000,3843
+Europe,Eastern Europe,Russian Federation,Developed regions,60.0,100.0,https://restcountries.eu/data/rus.svg,Moscow,146599183,RU,2001,4351
+Europe,Eastern Europe,Russian Federation,Developed regions,60.0,100.0,https://restcountries.eu/data/rus.svg,Moscow,146599183,RU,2002,3941
+Europe,Eastern Europe,Russian Federation,Developed regions,60.0,100.0,https://restcountries.eu/data/rus.svg,Moscow,146599183,RU,2003,3718
+Europe,Eastern Europe,Russian Federation,Developed regions,60.0,100.0,https://restcountries.eu/data/rus.svg,Moscow,146599183,RU,2004,3989
+Europe,Eastern Europe,Russian Federation,Developed regions,60.0,100.0,https://restcountries.eu/data/rus.svg,Moscow,146599183,RU,2005,3972
+Europe,Eastern Europe,Russian Federation,Developed regions,60.0,100.0,https://restcountries.eu/data/rus.svg,Moscow,146599183,RU,2006,3117
+Europe,Eastern Europe,Russian Federation,Developed regions,60.0,100.0,https://restcountries.eu/data/rus.svg,Moscow,146599183,RU,2007,2983
+Europe,Eastern Europe,Russian Federation,Developed regions,60.0,100.0,https://restcountries.eu/data/rus.svg,Moscow,146599183,RU,2008,2690
+Europe,Eastern Europe,Russian Federation,Developed regions,60.0,100.0,https://restcountries.eu/data/rus.svg,Moscow,146599183,RU,2009,2931
+Europe,Eastern Europe,Russian Federation,Developed regions,60.0,100.0,https://restcountries.eu/data/rus.svg,Moscow,146599183,RU,2010,2288
+Europe,Eastern Europe,Russian Federation,Developed regions,60.0,100.0,https://restcountries.eu/data/rus.svg,Moscow,146599183,RU,2011,1963
+Europe,Eastern Europe,Russian Federation,Developed regions,60.0,100.0,https://restcountries.eu/data/rus.svg,Moscow,146599183,RU,2012,2079
+Europe,Eastern Europe,Russian Federation,Developed regions,60.0,100.0,https://restcountries.eu/data/rus.svg,Moscow,146599183,RU,2013,2466
+Asia,Southern Asia,Sri Lanka,Developing regions,7.0,81.0,https://restcountries.eu/data/lka.svg,Colombo,20966000,LK,1980,185
+Asia,Southern Asia,Sri Lanka,Developing regions,7.0,81.0,https://restcountries.eu/data/lka.svg,Colombo,20966000,LK,1981,371
+Asia,Southern Asia,Sri Lanka,Developing regions,7.0,81.0,https://restcountries.eu/data/lka.svg,Colombo,20966000,LK,1982,290
+Asia,Southern Asia,Sri Lanka,Developing regions,7.0,81.0,https://restcountries.eu/data/lka.svg,Colombo,20966000,LK,1983,197
+Asia,Southern Asia,Sri Lanka,Developing regions,7.0,81.0,https://restcountries.eu/data/lka.svg,Colombo,20966000,LK,1984,1086
+Asia,Southern Asia,Sri Lanka,Developing regions,7.0,81.0,https://restcountries.eu/data/lka.svg,Colombo,20966000,LK,1985,845
+Asia,Southern Asia,Sri Lanka,Developing regions,7.0,81.0,https://restcountries.eu/data/lka.svg,Colombo,20966000,LK,1986,1838
+Asia,Southern Asia,Sri Lanka,Developing regions,7.0,81.0,https://restcountries.eu/data/lka.svg,Colombo,20966000,LK,1987,4447
+Asia,Southern Asia,Sri Lanka,Developing regions,7.0,81.0,https://restcountries.eu/data/lka.svg,Colombo,20966000,LK,1988,2779
+Asia,Southern Asia,Sri Lanka,Developing regions,7.0,81.0,https://restcountries.eu/data/lka.svg,Colombo,20966000,LK,1989,2758
+Asia,Southern Asia,Sri Lanka,Developing regions,7.0,81.0,https://restcountries.eu/data/lka.svg,Colombo,20966000,LK,1990,3525
+Asia,Southern Asia,Sri Lanka,Developing regions,7.0,81.0,https://restcountries.eu/data/lka.svg,Colombo,20966000,LK,1991,7266
+Asia,Southern Asia,Sri Lanka,Developing regions,7.0,81.0,https://restcountries.eu/data/lka.svg,Colombo,20966000,LK,1992,13102
+Asia,Southern Asia,Sri Lanka,Developing regions,7.0,81.0,https://restcountries.eu/data/lka.svg,Colombo,20966000,LK,1993,9563
+Asia,Southern Asia,Sri Lanka,Developing regions,7.0,81.0,https://restcountries.eu/data/lka.svg,Colombo,20966000,LK,1994,7150
+Asia,Southern Asia,Sri Lanka,Developing regions,7.0,81.0,https://restcountries.eu/data/lka.svg,Colombo,20966000,LK,1995,9368
+Asia,Southern Asia,Sri Lanka,Developing regions,7.0,81.0,https://restcountries.eu/data/lka.svg,Colombo,20966000,LK,1996,6484
+Asia,Southern Asia,Sri Lanka,Developing regions,7.0,81.0,https://restcountries.eu/data/lka.svg,Colombo,20966000,LK,1997,5415
+Asia,Southern Asia,Sri Lanka,Developing regions,7.0,81.0,https://restcountries.eu/data/lka.svg,Colombo,20966000,LK,1998,3566
+Asia,Southern Asia,Sri Lanka,Developing regions,7.0,81.0,https://restcountries.eu/data/lka.svg,Colombo,20966000,LK,1999,4982
+Asia,Southern Asia,Sri Lanka,Developing regions,7.0,81.0,https://restcountries.eu/data/lka.svg,Colombo,20966000,LK,2000,6081
+Asia,Southern Asia,Sri Lanka,Developing regions,7.0,81.0,https://restcountries.eu/data/lka.svg,Colombo,20966000,LK,2001,5861
+Asia,Southern Asia,Sri Lanka,Developing regions,7.0,81.0,https://restcountries.eu/data/lka.svg,Colombo,20966000,LK,2002,5279
+Asia,Southern Asia,Sri Lanka,Developing regions,7.0,81.0,https://restcountries.eu/data/lka.svg,Colombo,20966000,LK,2003,4892
+Asia,Southern Asia,Sri Lanka,Developing regions,7.0,81.0,https://restcountries.eu/data/lka.svg,Colombo,20966000,LK,2004,4495
+Asia,Southern Asia,Sri Lanka,Developing regions,7.0,81.0,https://restcountries.eu/data/lka.svg,Colombo,20966000,LK,2005,4930
+Asia,Southern Asia,Sri Lanka,Developing regions,7.0,81.0,https://restcountries.eu/data/lka.svg,Colombo,20966000,LK,2006,4714
+Asia,Southern Asia,Sri Lanka,Developing regions,7.0,81.0,https://restcountries.eu/data/lka.svg,Colombo,20966000,LK,2007,4123
+Asia,Southern Asia,Sri Lanka,Developing regions,7.0,81.0,https://restcountries.eu/data/lka.svg,Colombo,20966000,LK,2008,4756
+Asia,Southern Asia,Sri Lanka,Developing regions,7.0,81.0,https://restcountries.eu/data/lka.svg,Colombo,20966000,LK,2009,4547
+Asia,Southern Asia,Sri Lanka,Developing regions,7.0,81.0,https://restcountries.eu/data/lka.svg,Colombo,20966000,LK,2010,4422
+Asia,Southern Asia,Sri Lanka,Developing regions,7.0,81.0,https://restcountries.eu/data/lka.svg,Colombo,20966000,LK,2011,3309
+Asia,Southern Asia,Sri Lanka,Developing regions,7.0,81.0,https://restcountries.eu/data/lka.svg,Colombo,20966000,LK,2012,3338
+Asia,Southern Asia,Sri Lanka,Developing regions,7.0,81.0,https://restcountries.eu/data/lka.svg,Colombo,20966000,LK,2013,2394
+Europe,Eastern Europe,Ukraine,Developed regions,49.0,32.0,https://restcountries.eu/data/ukr.svg,Kiev,42692393,UA,1980,0
+Europe,Eastern Europe,Ukraine,Developed regions,49.0,32.0,https://restcountries.eu/data/ukr.svg,Kiev,42692393,UA,1981,0
+Europe,Eastern Europe,Ukraine,Developed regions,49.0,32.0,https://restcountries.eu/data/ukr.svg,Kiev,42692393,UA,1982,0
+Europe,Eastern Europe,Ukraine,Developed regions,49.0,32.0,https://restcountries.eu/data/ukr.svg,Kiev,42692393,UA,1983,0
+Europe,Eastern Europe,Ukraine,Developed regions,49.0,32.0,https://restcountries.eu/data/ukr.svg,Kiev,42692393,UA,1984,0
+Europe,Eastern Europe,Ukraine,Developed regions,49.0,32.0,https://restcountries.eu/data/ukr.svg,Kiev,42692393,UA,1985,0
+Europe,Eastern Europe,Ukraine,Developed regions,49.0,32.0,https://restcountries.eu/data/ukr.svg,Kiev,42692393,UA,1986,0
+Europe,Eastern Europe,Ukraine,Developed regions,49.0,32.0,https://restcountries.eu/data/ukr.svg,Kiev,42692393,UA,1987,0
+Europe,Eastern Europe,Ukraine,Developed regions,49.0,32.0,https://restcountries.eu/data/ukr.svg,Kiev,42692393,UA,1988,0
+Europe,Eastern Europe,Ukraine,Developed regions,49.0,32.0,https://restcountries.eu/data/ukr.svg,Kiev,42692393,UA,1989,0
+Europe,Eastern Europe,Ukraine,Developed regions,49.0,32.0,https://restcountries.eu/data/ukr.svg,Kiev,42692393,UA,1990,0
+Europe,Eastern Europe,Ukraine,Developed regions,49.0,32.0,https://restcountries.eu/data/ukr.svg,Kiev,42692393,UA,1991,0
+Europe,Eastern Europe,Ukraine,Developed regions,49.0,32.0,https://restcountries.eu/data/ukr.svg,Kiev,42692393,UA,1992,103
+Europe,Eastern Europe,Ukraine,Developed regions,49.0,32.0,https://restcountries.eu/data/ukr.svg,Kiev,42692393,UA,1993,761
+Europe,Eastern Europe,Ukraine,Developed regions,49.0,32.0,https://restcountries.eu/data/ukr.svg,Kiev,42692393,UA,1994,1289
+Europe,Eastern Europe,Ukraine,Developed regions,49.0,32.0,https://restcountries.eu/data/ukr.svg,Kiev,42692393,UA,1995,1751
+Europe,Eastern Europe,Ukraine,Developed regions,49.0,32.0,https://restcountries.eu/data/ukr.svg,Kiev,42692393,UA,1996,2684
+Europe,Eastern Europe,Ukraine,Developed regions,49.0,32.0,https://restcountries.eu/data/ukr.svg,Kiev,42692393,UA,1997,2518
+Europe,Eastern Europe,Ukraine,Developed regions,49.0,32.0,https://restcountries.eu/data/ukr.svg,Kiev,42692393,UA,1998,2702
+Europe,Eastern Europe,Ukraine,Developed regions,49.0,32.0,https://restcountries.eu/data/ukr.svg,Kiev,42692393,UA,1999,2836
+Europe,Eastern Europe,Ukraine,Developed regions,49.0,32.0,https://restcountries.eu/data/ukr.svg,Kiev,42692393,UA,2000,3351
+Europe,Eastern Europe,Ukraine,Developed regions,49.0,32.0,https://restcountries.eu/data/ukr.svg,Kiev,42692393,UA,2001,3514
+Europe,Eastern Europe,Ukraine,Developed regions,49.0,32.0,https://restcountries.eu/data/ukr.svg,Kiev,42692393,UA,2002,3520
+Europe,Eastern Europe,Ukraine,Developed regions,49.0,32.0,https://restcountries.eu/data/ukr.svg,Kiev,42692393,UA,2003,2759
+Europe,Eastern Europe,Ukraine,Developed regions,49.0,32.0,https://restcountries.eu/data/ukr.svg,Kiev,42692393,UA,2004,2431
+Europe,Eastern Europe,Ukraine,Developed regions,49.0,32.0,https://restcountries.eu/data/ukr.svg,Kiev,42692393,UA,2005,2270
+Europe,Eastern Europe,Ukraine,Developed regions,49.0,32.0,https://restcountries.eu/data/ukr.svg,Kiev,42692393,UA,2006,1973
+Europe,Eastern Europe,Ukraine,Developed regions,49.0,32.0,https://restcountries.eu/data/ukr.svg,Kiev,42692393,UA,2007,2218
+Europe,Eastern Europe,Ukraine,Developed regions,49.0,32.0,https://restcountries.eu/data/ukr.svg,Kiev,42692393,UA,2008,1937
+Europe,Eastern Europe,Ukraine,Developed regions,49.0,32.0,https://restcountries.eu/data/ukr.svg,Kiev,42692393,UA,2009,2367
+Europe,Eastern Europe,Ukraine,Developed regions,49.0,32.0,https://restcountries.eu/data/ukr.svg,Kiev,42692393,UA,2010,3159
+Europe,Eastern Europe,Ukraine,Developed regions,49.0,32.0,https://restcountries.eu/data/ukr.svg,Kiev,42692393,UA,2011,2515
+Europe,Eastern Europe,Ukraine,Developed regions,49.0,32.0,https://restcountries.eu/data/ukr.svg,Kiev,42692393,UA,2012,2265
+Europe,Eastern Europe,Ukraine,Developed regions,49.0,32.0,https://restcountries.eu/data/ukr.svg,Kiev,42692393,UA,2013,2487
+Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,Developed regions,54.0,-2.0,https://restcountries.eu/data/gbr.svg,London,65110000,GB,1980,22045
+Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,Developed regions,54.0,-2.0,https://restcountries.eu/data/gbr.svg,London,65110000,GB,1981,24796
+Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,Developed regions,54.0,-2.0,https://restcountries.eu/data/gbr.svg,London,65110000,GB,1982,20620
+Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,Developed regions,54.0,-2.0,https://restcountries.eu/data/gbr.svg,London,65110000,GB,1983,10015
+Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,Developed regions,54.0,-2.0,https://restcountries.eu/data/gbr.svg,London,65110000,GB,1984,10170
+Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,Developed regions,54.0,-2.0,https://restcountries.eu/data/gbr.svg,London,65110000,GB,1985,9564
+Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,Developed regions,54.0,-2.0,https://restcountries.eu/data/gbr.svg,London,65110000,GB,1986,9470
+Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,Developed regions,54.0,-2.0,https://restcountries.eu/data/gbr.svg,London,65110000,GB,1987,21337
+Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,Developed regions,54.0,-2.0,https://restcountries.eu/data/gbr.svg,London,65110000,GB,1988,27359
+Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,Developed regions,54.0,-2.0,https://restcountries.eu/data/gbr.svg,London,65110000,GB,1989,23795
+Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,Developed regions,54.0,-2.0,https://restcountries.eu/data/gbr.svg,London,65110000,GB,1990,31668
+Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,Developed regions,54.0,-2.0,https://restcountries.eu/data/gbr.svg,London,65110000,GB,1991,23380
+Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,Developed regions,54.0,-2.0,https://restcountries.eu/data/gbr.svg,London,65110000,GB,1992,34123
+Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,Developed regions,54.0,-2.0,https://restcountries.eu/data/gbr.svg,London,65110000,GB,1993,33720
+Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,Developed regions,54.0,-2.0,https://restcountries.eu/data/gbr.svg,London,65110000,GB,1994,39231
+Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,Developed regions,54.0,-2.0,https://restcountries.eu/data/gbr.svg,London,65110000,GB,1995,30145
+Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,Developed regions,54.0,-2.0,https://restcountries.eu/data/gbr.svg,London,65110000,GB,1996,29322
+Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,Developed regions,54.0,-2.0,https://restcountries.eu/data/gbr.svg,London,65110000,GB,1997,22965
+Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,Developed regions,54.0,-2.0,https://restcountries.eu/data/gbr.svg,London,65110000,GB,1998,10367
+Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,Developed regions,54.0,-2.0,https://restcountries.eu/data/gbr.svg,London,65110000,GB,1999,7045
+Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,Developed regions,54.0,-2.0,https://restcountries.eu/data/gbr.svg,London,65110000,GB,2000,8840
+Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,Developed regions,54.0,-2.0,https://restcountries.eu/data/gbr.svg,London,65110000,GB,2001,11728
+Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,Developed regions,54.0,-2.0,https://restcountries.eu/data/gbr.svg,London,65110000,GB,2002,8046
+Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,Developed regions,54.0,-2.0,https://restcountries.eu/data/gbr.svg,London,65110000,GB,2003,6797
+Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,Developed regions,54.0,-2.0,https://restcountries.eu/data/gbr.svg,London,65110000,GB,2004,7533
+Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,Developed regions,54.0,-2.0,https://restcountries.eu/data/gbr.svg,London,65110000,GB,2005,7258
+Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,Developed regions,54.0,-2.0,https://restcountries.eu/data/gbr.svg,London,65110000,GB,2006,7140
+Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,Developed regions,54.0,-2.0,https://restcountries.eu/data/gbr.svg,London,65110000,GB,2007,8216
+Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,Developed regions,54.0,-2.0,https://restcountries.eu/data/gbr.svg,London,65110000,GB,2008,8979
+Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,Developed regions,54.0,-2.0,https://restcountries.eu/data/gbr.svg,London,65110000,GB,2009,8876
+Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,Developed regions,54.0,-2.0,https://restcountries.eu/data/gbr.svg,London,65110000,GB,2010,8724
+Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,Developed regions,54.0,-2.0,https://restcountries.eu/data/gbr.svg,London,65110000,GB,2011,6204
+Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,Developed regions,54.0,-2.0,https://restcountries.eu/data/gbr.svg,London,65110000,GB,2012,6195
+Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,Developed regions,54.0,-2.0,https://restcountries.eu/data/gbr.svg,London,65110000,GB,2013,5827
+Northern America,Northern America,United States of America,Developed regions,38.0,-97.0,https://restcountries.eu/data/usa.svg,"Washington, D.C.",323947000,US,1980,9378
+Northern America,Northern America,United States of America,Developed regions,38.0,-97.0,https://restcountries.eu/data/usa.svg,"Washington, D.C.",323947000,US,1981,10030
+Northern America,Northern America,United States of America,Developed regions,38.0,-97.0,https://restcountries.eu/data/usa.svg,"Washington, D.C.",323947000,US,1982,9074
+Northern America,Northern America,United States of America,Developed regions,38.0,-97.0,https://restcountries.eu/data/usa.svg,"Washington, D.C.",323947000,US,1983,7100
+Northern America,Northern America,United States of America,Developed regions,38.0,-97.0,https://restcountries.eu/data/usa.svg,"Washington, D.C.",323947000,US,1984,6661
+Northern America,Northern America,United States of America,Developed regions,38.0,-97.0,https://restcountries.eu/data/usa.svg,"Washington, D.C.",323947000,US,1985,6543
+Northern America,Northern America,United States of America,Developed regions,38.0,-97.0,https://restcountries.eu/data/usa.svg,"Washington, D.C.",323947000,US,1986,7074
+Northern America,Northern America,United States of America,Developed regions,38.0,-97.0,https://restcountries.eu/data/usa.svg,"Washington, D.C.",323947000,US,1987,7705
+Northern America,Northern America,United States of America,Developed regions,38.0,-97.0,https://restcountries.eu/data/usa.svg,"Washington, D.C.",323947000,US,1988,6469
+Northern America,Northern America,United States of America,Developed regions,38.0,-97.0,https://restcountries.eu/data/usa.svg,"Washington, D.C.",323947000,US,1989,6790
+Northern America,Northern America,United States of America,Developed regions,38.0,-97.0,https://restcountries.eu/data/usa.svg,"Washington, D.C.",323947000,US,1990,5892
+Northern America,Northern America,United States of America,Developed regions,38.0,-97.0,https://restcountries.eu/data/usa.svg,"Washington, D.C.",323947000,US,1991,6054
+Northern America,Northern America,United States of America,Developed regions,38.0,-97.0,https://restcountries.eu/data/usa.svg,"Washington, D.C.",323947000,US,1992,6842
+Northern America,Northern America,United States of America,Developed regions,38.0,-97.0,https://restcountries.eu/data/usa.svg,"Washington, D.C.",323947000,US,1993,7435
+Northern America,Northern America,United States of America,Developed regions,38.0,-97.0,https://restcountries.eu/data/usa.svg,"Washington, D.C.",323947000,US,1994,5901
+Northern America,Northern America,United States of America,Developed regions,38.0,-97.0,https://restcountries.eu/data/usa.svg,"Washington, D.C.",323947000,US,1995,4890
+Northern America,Northern America,United States of America,Developed regions,38.0,-97.0,https://restcountries.eu/data/usa.svg,"Washington, D.C.",323947000,US,1996,5515
+Northern America,Northern America,United States of America,Developed regions,38.0,-97.0,https://restcountries.eu/data/usa.svg,"Washington, D.C.",323947000,US,1997,4753
+Northern America,Northern America,United States of America,Developed regions,38.0,-97.0,https://restcountries.eu/data/usa.svg,"Washington, D.C.",323947000,US,1998,4437
+Northern America,Northern America,United States of America,Developed regions,38.0,-97.0,https://restcountries.eu/data/usa.svg,"Washington, D.C.",323947000,US,1999,5196
+Northern America,Northern America,United States of America,Developed regions,38.0,-97.0,https://restcountries.eu/data/usa.svg,"Washington, D.C.",323947000,US,2000,5433
+Northern America,Northern America,United States of America,Developed regions,38.0,-97.0,https://restcountries.eu/data/usa.svg,"Washington, D.C.",323947000,US,2001,5604
+Northern America,Northern America,United States of America,Developed regions,38.0,-97.0,https://restcountries.eu/data/usa.svg,"Washington, D.C.",323947000,US,2002,4948
+Northern America,Northern America,United States of America,Developed regions,38.0,-97.0,https://restcountries.eu/data/usa.svg,"Washington, D.C.",323947000,US,2003,5543
+Northern America,Northern America,United States of America,Developed regions,38.0,-97.0,https://restcountries.eu/data/usa.svg,"Washington, D.C.",323947000,US,2004,6990
+Northern America,Northern America,United States of America,Developed regions,38.0,-97.0,https://restcountries.eu/data/usa.svg,"Washington, D.C.",323947000,US,2005,8394
+Northern America,Northern America,United States of America,Developed regions,38.0,-97.0,https://restcountries.eu/data/usa.svg,"Washington, D.C.",323947000,US,2006,9613
+Northern America,Northern America,United States of America,Developed regions,38.0,-97.0,https://restcountries.eu/data/usa.svg,"Washington, D.C.",323947000,US,2007,9463
+Northern America,Northern America,United States of America,Developed regions,38.0,-97.0,https://restcountries.eu/data/usa.svg,"Washington, D.C.",323947000,US,2008,10190
+Northern America,Northern America,United States of America,Developed regions,38.0,-97.0,https://restcountries.eu/data/usa.svg,"Washington, D.C.",323947000,US,2009,8995
+Northern America,Northern America,United States of America,Developed regions,38.0,-97.0,https://restcountries.eu/data/usa.svg,"Washington, D.C.",323947000,US,2010,8142
+Northern America,Northern America,United States of America,Developed regions,38.0,-97.0,https://restcountries.eu/data/usa.svg,"Washington, D.C.",323947000,US,2011,7676
+Northern America,Northern America,United States of America,Developed regions,38.0,-97.0,https://restcountries.eu/data/usa.svg,"Washington, D.C.",323947000,US,2012,7891
+Northern America,Northern America,United States of America,Developed regions,38.0,-97.0,https://restcountries.eu/data/usa.svg,"Washington, D.C.",323947000,US,2013,8501
+Asia,South-Eastern Asia,Viet Nam,Developing regions,16.16666666,107.83333333,https://restcountries.eu/data/vnm.svg,Hanoi,92700000,VN,1980,1191
+Asia,South-Eastern Asia,Viet Nam,Developing regions,16.16666666,107.83333333,https://restcountries.eu/data/vnm.svg,Hanoi,92700000,VN,1981,1829
+Asia,South-Eastern Asia,Viet Nam,Developing regions,16.16666666,107.83333333,https://restcountries.eu/data/vnm.svg,Hanoi,92700000,VN,1982,2162
+Asia,South-Eastern Asia,Viet Nam,Developing regions,16.16666666,107.83333333,https://restcountries.eu/data/vnm.svg,Hanoi,92700000,VN,1983,3404
+Asia,South-Eastern Asia,Viet Nam,Developing regions,16.16666666,107.83333333,https://restcountries.eu/data/vnm.svg,Hanoi,92700000,VN,1984,7583
+Asia,South-Eastern Asia,Viet Nam,Developing regions,16.16666666,107.83333333,https://restcountries.eu/data/vnm.svg,Hanoi,92700000,VN,1985,5907
+Asia,South-Eastern Asia,Viet Nam,Developing regions,16.16666666,107.83333333,https://restcountries.eu/data/vnm.svg,Hanoi,92700000,VN,1986,2741
+Asia,South-Eastern Asia,Viet Nam,Developing regions,16.16666666,107.83333333,https://restcountries.eu/data/vnm.svg,Hanoi,92700000,VN,1987,1406
+Asia,South-Eastern Asia,Viet Nam,Developing regions,16.16666666,107.83333333,https://restcountries.eu/data/vnm.svg,Hanoi,92700000,VN,1988,1411
+Asia,South-Eastern Asia,Viet Nam,Developing regions,16.16666666,107.83333333,https://restcountries.eu/data/vnm.svg,Hanoi,92700000,VN,1989,3004
+Asia,South-Eastern Asia,Viet Nam,Developing regions,16.16666666,107.83333333,https://restcountries.eu/data/vnm.svg,Hanoi,92700000,VN,1990,3801
+Asia,South-Eastern Asia,Viet Nam,Developing regions,16.16666666,107.83333333,https://restcountries.eu/data/vnm.svg,Hanoi,92700000,VN,1991,5870
+Asia,South-Eastern Asia,Viet Nam,Developing regions,16.16666666,107.83333333,https://restcountries.eu/data/vnm.svg,Hanoi,92700000,VN,1992,5416
+Asia,South-Eastern Asia,Viet Nam,Developing regions,16.16666666,107.83333333,https://restcountries.eu/data/vnm.svg,Hanoi,92700000,VN,1993,6547
+Asia,South-Eastern Asia,Viet Nam,Developing regions,16.16666666,107.83333333,https://restcountries.eu/data/vnm.svg,Hanoi,92700000,VN,1994,5105
+Asia,South-Eastern Asia,Viet Nam,Developing regions,16.16666666,107.83333333,https://restcountries.eu/data/vnm.svg,Hanoi,92700000,VN,1995,3723
+Asia,South-Eastern Asia,Viet Nam,Developing regions,16.16666666,107.83333333,https://restcountries.eu/data/vnm.svg,Hanoi,92700000,VN,1996,2462
+Asia,South-Eastern Asia,Viet Nam,Developing regions,16.16666666,107.83333333,https://restcountries.eu/data/vnm.svg,Hanoi,92700000,VN,1997,1752
+Asia,South-Eastern Asia,Viet Nam,Developing regions,16.16666666,107.83333333,https://restcountries.eu/data/vnm.svg,Hanoi,92700000,VN,1998,1631
+Asia,South-Eastern Asia,Viet Nam,Developing regions,16.16666666,107.83333333,https://restcountries.eu/data/vnm.svg,Hanoi,92700000,VN,1999,1419
+Asia,South-Eastern Asia,Viet Nam,Developing regions,16.16666666,107.83333333,https://restcountries.eu/data/vnm.svg,Hanoi,92700000,VN,2000,1803
+Asia,South-Eastern Asia,Viet Nam,Developing regions,16.16666666,107.83333333,https://restcountries.eu/data/vnm.svg,Hanoi,92700000,VN,2001,2117
+Asia,South-Eastern Asia,Viet Nam,Developing regions,16.16666666,107.83333333,https://restcountries.eu/data/vnm.svg,Hanoi,92700000,VN,2002,2291
+Asia,South-Eastern Asia,Viet Nam,Developing regions,16.16666666,107.83333333,https://restcountries.eu/data/vnm.svg,Hanoi,92700000,VN,2003,1713
+Asia,South-Eastern Asia,Viet Nam,Developing regions,16.16666666,107.83333333,https://restcountries.eu/data/vnm.svg,Hanoi,92700000,VN,2004,1816
+Asia,South-Eastern Asia,Viet Nam,Developing regions,16.16666666,107.83333333,https://restcountries.eu/data/vnm.svg,Hanoi,92700000,VN,2005,1852
+Asia,South-Eastern Asia,Viet Nam,Developing regions,16.16666666,107.83333333,https://restcountries.eu/data/vnm.svg,Hanoi,92700000,VN,2006,3153
+Asia,South-Eastern Asia,Viet Nam,Developing regions,16.16666666,107.83333333,https://restcountries.eu/data/vnm.svg,Hanoi,92700000,VN,2007,2574
+Asia,South-Eastern Asia,Viet Nam,Developing regions,16.16666666,107.83333333,https://restcountries.eu/data/vnm.svg,Hanoi,92700000,VN,2008,1784
+Asia,South-Eastern Asia,Viet Nam,Developing regions,16.16666666,107.83333333,https://restcountries.eu/data/vnm.svg,Hanoi,92700000,VN,2009,2171
+Asia,South-Eastern Asia,Viet Nam,Developing regions,16.16666666,107.83333333,https://restcountries.eu/data/vnm.svg,Hanoi,92700000,VN,2010,1942
+Asia,South-Eastern Asia,Viet Nam,Developing regions,16.16666666,107.83333333,https://restcountries.eu/data/vnm.svg,Hanoi,92700000,VN,2011,1723
+Asia,South-Eastern Asia,Viet Nam,Developing regions,16.16666666,107.83333333,https://restcountries.eu/data/vnm.svg,Hanoi,92700000,VN,2012,1731
+Asia,South-Eastern Asia,Viet Nam,Developing regions,16.16666666,107.83333333,https://restcountries.eu/data/vnm.svg,Hanoi,92700000,VN,2013,2112
