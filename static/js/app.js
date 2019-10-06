@@ -1,6 +1,6 @@
 /* jshint esversion: 6*/ 
 
-// Start bar chart with 
+// Start bar chart with
 let tempDataset = global_areas;
 
 const areasArray = areas;
@@ -89,7 +89,7 @@ let barWidth = 0;
 
 // svg container
 var svgHeight = 400;
-var svgWidth = 700;
+var svgWidth = 600;
 
 // margins
 var margin = {
