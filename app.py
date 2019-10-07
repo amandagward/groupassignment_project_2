@@ -12,8 +12,11 @@ mongo = PyMongo(app, uri=connection_string)
 
 @app.route("/")
 def index():
-    mars = mongo.db.mars.find_one()
-    return render_template("index.html", mars=mars)
+    globalareas = mongo.db.global_areas.find_one()
+    top5countries = mongo.db.top5countries.find_one()
+    top10countries = mongo.db.top10countries.find_one()
+    tables = [ globalareas, top5countries, top10countries]
+    return render_template("index.html", tables=tables)
 
 @app.route("/scrape")
 def scrape():
@@ -25,4 +28,4 @@ def scrape():
     return redirect("/", code=302)
 
 if __name__ == "__main__":
-    app.run(debug=False)
+    app.run(debug=True)
