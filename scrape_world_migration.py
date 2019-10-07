@@ -34,3 +34,5 @@ def scrape():
     return render_template("index.html", global_areas=global_areas)
 
 
+    return json_data
+

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <title>World Migration</title>
     <meta charset="utf-8">
@@ -13,14 +13,13 @@
     <link href="https://fonts.googleapis.com/css?family=Chilanka|Manjari&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-<script src="https://unpkg.com/leaflet/dist/leaflet-src.js"></script>
-<link type="text/css" rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
-<link type="text/css" rel="stylesheet" href="../static/css/style.css" />
+    <script src="https://unpkg.com/leaflet/dist/leaflet-src.js"></script>
+    <link type="text/css" rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <link type="text/css" rel="stylesheet" href="../static/css/style.css" />
+    <link rel="icon" href="../static/images/favicon.ico"> 
 
 </head>
 <body data-spy="scroll" data-target=".navbar" data-offset="50">
-
-
 
     <nav class="navbar navbar-expand-lg navbar-light shadow-sm" >
         <a class="navbar-brand migration text-center ml-3 mt-2" href="#map-container">
@@ -48,15 +47,15 @@
                                 <span class="fas fa-rocket fa-fw fa-lg"></span>
                                 Global Areas
                             </a>
-                            <a class="dropdown-item" href="#unveilip">
+                            <a class="dropdown-item" href="#top5countries">
                                 <span class="fas fa-eye fa-fw fa-lg"></span>
-                                Unveil IP
+                                Top 5 Countries
                             </a>
-                            <a class="dropdown-item" href="#employees-research">
+                            <a class="dropdown-item" href="#top10countries">
                                 <span class="fas fa-user-secret fa-fw fa-lg"></span>
-                                Employees Research
+                                Top 10 Countries
                             </a>
-                            <a class="dropdown-item" href="#latitude-dashboard">
+                            <!-- <a class="dropdown-item" href="#latitude-dashboard">
                                 <span class="fas fa-globe-americas fa-fw fa-lg"></span>
                                 Latitude Analysis Dashboard
                             </a>
@@ -68,9 +67,9 @@
                                 <span class="fas fa-flask fa-fw fa-lg"></span>
                                 Pymaceuticals Inc
                                 </a>
-                            </div>
+                            </div> -->
                     </li>
-                    <li class="nav-item">
+                    <!-- <li class="nav-item">
                         <a class="nav-link" href="https://pamzc.com" target="_blank">
                             <span class="fas fa-map-marker-alt fa-fw fa-lg"></span>
                             Webpage
@@ -87,7 +86,7 @@
                             <span class="fas fa-smile-wink fa-fw fa-lg"></span>    
                             Bonus
                         </a>
-                    </li>
+                    </li> -->
                 </ul>
             </form>
         </div>
@@ -142,7 +141,19 @@
     <div id="global_areas" class="hide-this-thing mt-5 pt-5 container-fluid d-flex flex-column justify-content-center align-items-center">
         <div class="text-center mt-4">
             <h4 >Dataset Global Areas</h4>
-            {{ global_areas.html_table | safe }}
+            {{ tables[0].html_table | safe }}
+        </div>
+    </div>
+    <div id="top5countries" class="hide-this-thing mt-5 pt-5 container-fluid d-flex flex-column justify-content-center align-items-center">
+        <div class="text-center mt-4">
+            <h4 >Dataset Top 5 Countries </h4>
+            {{ tables[1].html_table | safe }}
+        </div>
+    </div>
+    <div id="top10countries" class="hide-this-thing mt-5 pt-5 container-fluid d-flex flex-column justify-content-center align-items-center">
+        <div class="text-center mt-4">
+            <h4 >Dataset Top 10 Countries</h4>
+            {{ tables[2].html_table | safe }}
         </div>
     </div>
     <script type="text/javascript" src="../static/js/pgcontrol.js"></script>

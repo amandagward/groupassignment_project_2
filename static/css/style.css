@@ -12,7 +12,7 @@ html, body{
 
 #map {
 	position: relative;
-	/* border: 1px solid black; */
+	z-index:0;
 	border-radius: 8px;
 	height: 500px;
 	width: 100%;
@@ -61,7 +61,8 @@ html, body{
 }
 .navbar-light .navbar-nav .nav-link,
 .dropdown-menu a {
-    color:  #4e5a65;
+	color:  #4e5a65;
+	z-index: inherit;
 }
 .navbar-light .navbar-nav .nav-link:hover,
 .dropdown-menu a:hover {
