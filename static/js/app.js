@@ -13,24 +13,24 @@ let   currYear   = "1980";
 let   currGlobal = "Global Areas";
 let   currDevel  = "All";
 
-// Function to filter datasets according to dropdowns selected.
-function returnBase(  ) {
+// Function to filter datasets according to dropdowns and year selected.
+function filterData( ) {
     let dataResult = [];
     if (currGlobal === "Global Areas") {
         dataResult = global_areas.filter( obj => (obj.devname === currDevel) );
     } else if (currGlobal.substr(0,20) === "Top five countries -") {
         const region = currGlobal.substring(21);
         dataResult = top5countries.filter( obj => (obj.areaname === region && obj.devname === currDevel) );
-        console.log("Entrou[" + region + "]");
     } else if (currGlobal.substr(0,17) === "Top ten countries") {
         dataResult = top10countries.filter( obj => (obj.devname === currDevel) );
-        console.log("Entrou[" + currGlobal + "]");
     }
+    // Sort the dataset by value
+    dataResult.sort( (a, b) => b.value - a.value);
     return dataResult;
 }
 
 // get the initial dataset 
-let dataset =  returnBase( );
+let dataset =  filterData( );
 
 // Initial values for input range element
 let minYear=d3.min(dataset, obj => obj.year);
@@ -84,12 +84,14 @@ d3.select("input")
 
 // Defining the size of the svg area.
 let barPadding = 10; // That is the space between the bars.
-let yAxisWidth = 50; // Space for the y Axis
 let barWidth = 0; 
 
-// svg container
+// Space for the y Axis
+let yAxisWidth = 50; 
+
+// SVG container
 var svgHeight = 400;
-var svgWidth = 600;
+var svgWidth = 630;
 
 // margins
 var margin = {
@@ -99,39 +101,17 @@ var margin = {
   left: 50
 };
 
-// Get the number of bars 
-numBars = calcNumBars(dataset, 'areaname');
-function calcNumBars (dataset, key) { 
+// Get the initial number of bars 
+numBars = calcNumBars();
+function calcNumBars () { 
+    let unique = [];
     if (currGlobal === "Global Areas") {
-        return dataset.reduce( (acc,value) => {
-            if (acc[0] != value.areaname) {
-                acc[1] += 1;
-            }
-            acc[0] = value.areaname;
-            return acc;
-        }, ["",0])[1];
-    } else if (currGlobal.substr(0,20) === "Top five countries -") {
-        return dataset.reduce( (acc,value) => {
-            if (acc[0] != value.country) {
-                acc[1] += 1;
-            }
-            acc[0] = value.country;
-            return acc;
-        }, ["",0])[1];
-        
-    } else if (currGlobal.substr(0,17) === "Top ten countries") {
-        return dataset.reduce( (acc,value) => {
-            if (acc[0] != value.country) {
-                acc[1] += 1;
-            }
-            acc[0] = value.country;
-            return acc;
-        }, ["",0])[1];
+        unique = [...new Set(dataset.map(item => item.areaname))];
+    } else {
+        unique = [...new Set(dataset.map(item => item.country))];
     }
-    console.log("THAT IS WHY THE BAR IS DISAPPEARING");
-    return 0;
+    return unique.length;
 }
-
 
 // chart area minus margins
 var chartHeight = svgHeight - margin.top - margin.bottom;
@@ -149,20 +129,15 @@ var svg = d3.select("#svg-area").append("svg")
 var chartGroup = svg.append("g")
   .attr("transform", `translate(${margin.left}, ${margin.top})`);
 
-
 // Scale for Y axis
-// let yScale = d3.scaleLinear()
-//                 .domain([0,maxvalue])
-//                 .range([height, 0]); // to flip the graph
-// OR USING extent directly
 let yScale = d3.scaleLinear()
                 .domain(d3.extent(dataset, obj => obj.value))
                 .range([chartHeight, 0]); // to flip the graph
 
 // Scale for X axis
 var xScale = d3.scaleBand()
-.domain(dataset.map(obj => obj.areaname))
-.range([0, chartWidth ]);
+.domain(getXdomainScale())
+.range([0, chartWidth +  barPadding]);
 
 // Create axes
 var leftAxis = d3.axisLeft(yScale);
@@ -184,12 +159,19 @@ let title = svg
     .text("Migration in " + minYear)
     .attr('x', svgWidth / 2)
     .attr("y", 30)
+    .attr("opacity", "0.7")
     .style("text-anchor", "middle")
     .style("font-size", "1.5em");
 
-let tooltip = d3.select("body")
+let tooltip = d3.select("#tool")
     .append("div")
     .classed("tooltip", true);
+
+
+var colorScale = d3.scaleLinear()
+.domain( d3.extent(dataset, obj => obj.value) )
+.range(["purple", "pink"]);
+
 
 svg
     .selectAll("rect")
@@ -199,17 +181,27 @@ svg
         .attr("width", barWidth )
         .attr("height", obj => chartHeight - yScale(obj.value) ) // The height of SVG minus the number used for bars (Probably we will have to scale the data).
         .attr("y", obj => yScale(obj.value) + 50 ) // Y coordenate to start the rect. 
-        .attr("x", (d, i) => (i * (barWidth + barPadding)) + 55) // X coordenate for the rect.
-        .attr("fill", "purple")
+        .attr("x", (d, i) => (i * (barWidth + barPadding)) + 50 + barPadding) // X coordenate for the rect.
+        .attr("fill", d => colorScale(d.value))        
+        // .attr("fill", "purple")
     .on("mousemove", ShowToolTip) 
     .on("touchstart", ShowToolTip)
     .on("mouseout", HideToolTip) 
     .on("touchsend", HideToolTip);
 
-// Now we set the event listener to input HTML element to update our graph if the user change/input the input/range element 
+// Now we set the event listener to input HTML element to update our graph 
+//if the user change/input the input/range element 
 d3.select("input")
     .on("input", () => {
         currYear = +d3.event.target.value;
+
+
+        // var colorScale = d3.scaleLinear()
+        // .domain( d3.extent(dataset, obj => obj.value) )
+        // .range(["purple", "white"]);
+    
+    
+
         svg.selectAll("rect")
             .data(dataset.filter( obj => obj.year === currYear))
             .transition()
@@ -232,16 +224,22 @@ d3.select("input")
                 console.log("Interrupted! No longer updating to " + currYear + " data ...");
             })
                 .attr("height", obj => chartHeight - yScale(obj.value)  )
-                .attr("y", obj => yScale(obj.value) + 50 );
+                .attr("y", obj => yScale(obj.value) + 50 )
+                .attr("fill", d => colorScale( d.value ));
+
+        // Update title
         title.text("Migration in " + minYear);
+        // Update x axis
+        updXaxis();
+
     });
 
 function ShowToolTip (d) {
     tooltip
         .style("opacity", 1)
         .style("left", d3.event.x -
-                        (tooltip.node().offsetWidth / 2) + "px")
-        .style("top", d3.event.y - (tooltip.node().offsetHeight / 2) - 70 + "px")
+                        (tooltip.node().offsetWidth / 2) - 10 + "px")
+        .style("top", d3.event.y - (tooltip.node().offsetHeight / 2) - 145 + "px")
         .html(function() {                     
                     if (currGlobal === "Global Areas"){ 
                         return  `
@@ -287,8 +285,8 @@ function getContinentMap(continent) {
 
 function updateVariables () {
     // d3.event.preventDefault();
-    dataset = returnBase();
-    numBars = calcNumBars(dataset, 'areaname');
+    dataset = filterData();
+    numBars = calcNumBars();
     barWidth = ( (chartWidth ) / numBars) - barPadding;  
 }
 
@@ -302,6 +300,12 @@ function updBarsChart() {
     console.log(dataset);
     console.log("barWidth ", barWidth );
     
+
+    // var colorScale = d3.scaleLinear()
+    // .domain( d3.extent(dataset, obj => obj.value) )
+    // .range(["purple", "white"]);
+
+
     svg.selectAll("rect")
     .remove()
     .exit();
@@ -314,19 +318,31 @@ function updBarsChart() {
         .attr("width", barWidth )
         .attr("height", obj => chartHeight - yScale(obj.value) ) // The height of SVG minus the number used for bars (Probably we will have to scale the data).
         .attr("y", obj => yScale(obj.value) + 50 ) // Y coordenate to start the rect. 
-        .attr("x", (d, i) => (i * (barWidth + barPadding)) + 55) // X coordenate for the rect.
-        .attr("fill", "purple")
+        .attr("x", (d, i) => (i * (barWidth + barPadding)) + 50 + barPadding) // X coordenate for the rect.
+        .attr("fill", d => colorScale(d.value))
     .on("mousemove", ShowToolTip) 
     .on("touchstart", ShowToolTip)
     .on("mouseout", HideToolTip) 
     .on("touchsend", HideToolTip);
 }
 
+
+
 /************* UPDATING X AXIS */
+
+function getXdomainScale() { 
+    var xLabelsAxis =  dataset.filter( obj => { 
+        return obj.year == currYear;   
+    }).map( obj => (currGlobal === "Global Areas") ? obj.areaname :  obj.country);
+    return xLabelsAxis;
+}
+
+
+// Rescale X axis
 function newXScale() {
     var xScale = d3.scaleBand()
-    .domain(dataset.map(obj => obj.areaname))
-    .range([0, chartWidth ]);
+    .domain(getXdomainScale())
+    .range([0, chartWidth + barPadding]);
     return xScale;
 }
 // function used for updating xAxis 

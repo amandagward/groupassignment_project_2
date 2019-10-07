@@ -341,7 +341,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
@@ -351,7 +351,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
@@ -361,7 +361,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
@@ -371,7 +371,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
@@ -381,7 +381,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
@@ -391,7 +391,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
@@ -401,7 +401,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
@@ -411,7 +411,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
@@ -421,7 +421,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
@@ -431,7 +431,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
@@ -441,7 +441,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
@@ -451,7 +451,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
@@ -461,7 +461,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
@@ -471,7 +471,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
@@ -481,7 +481,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
@@ -491,7 +491,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
@@ -501,7 +501,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
@@ -511,7 +511,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
@@ -521,7 +521,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
@@ -531,7 +531,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
@@ -541,7 +541,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
@@ -551,7 +551,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
@@ -561,7 +561,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
@@ -571,7 +571,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
@@ -581,7 +581,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
@@ -591,7 +591,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
@@ -601,7 +601,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
@@ -611,7 +611,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
@@ -621,7 +621,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
@@ -631,7 +631,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
@@ -641,7 +641,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
@@ -651,7 +651,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
@@ -661,7 +661,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
@@ -671,7 +671,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "All",
     "lat": 37,
     "lon": 127.5,
@@ -3061,7 +3061,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "All",
     "lat": 38,
     "lon": -97,
@@ -3071,7 +3071,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "All",
     "lat": 38,
     "lon": -97,
@@ -3081,7 +3081,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "All",
     "lat": 38,
     "lon": -97,
@@ -3091,7 +3091,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "All",
     "lat": 38,
     "lon": -97,
@@ -3101,7 +3101,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "All",
     "lat": 38,
     "lon": -97,
@@ -3111,7 +3111,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "All",
     "lat": 38,
     "lon": -97,
@@ -3121,7 +3121,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "All",
     "lat": 38,
     "lon": -97,
@@ -3131,7 +3131,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "All",
     "lat": 38,
     "lon": -97,
@@ -3141,7 +3141,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "All",
     "lat": 38,
     "lon": -97,
@@ -3151,7 +3151,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "All",
     "lat": 38,
     "lon": -97,
@@ -3161,7 +3161,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "All",
     "lat": 38,
     "lon": -97,
@@ -3171,7 +3171,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "All",
     "lat": 38,
     "lon": -97,
@@ -3181,7 +3181,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "All",
     "lat": 38,
     "lon": -97,
@@ -3191,7 +3191,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "All",
     "lat": 38,
     "lon": -97,
@@ -3201,7 +3201,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "All",
     "lat": 38,
     "lon": -97,
@@ -3211,7 +3211,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "All",
     "lat": 38,
     "lon": -97,
@@ -3221,7 +3221,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "All",
     "lat": 38,
     "lon": -97,
@@ -3231,7 +3231,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "All",
     "lat": 38,
     "lon": -97,
@@ -3241,7 +3241,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "All",
     "lat": 38,
     "lon": -97,
@@ -3251,7 +3251,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "All",
     "lat": 38,
     "lon": -97,
@@ -3261,7 +3261,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "All",
     "lat": 38,
     "lon": -97,
@@ -3271,7 +3271,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "All",
     "lat": 38,
     "lon": -97,
@@ -3281,7 +3281,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "All",
     "lat": 38,
     "lon": -97,
@@ -3291,7 +3291,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "All",
     "lat": 38,
     "lon": -97,
@@ -3301,7 +3301,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "All",
     "lat": 38,
     "lon": -97,
@@ -3311,7 +3311,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "All",
     "lat": 38,
     "lon": -97,
@@ -3321,7 +3321,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "All",
     "lat": 38,
     "lon": -97,
@@ -3331,7 +3331,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "All",
     "lat": 38,
     "lon": -97,
@@ -3341,7 +3341,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "All",
     "lat": 38,
     "lon": -97,
@@ -3351,7 +3351,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "All",
     "lat": 38,
     "lon": -97,
@@ -3361,7 +3361,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "All",
     "lat": 38,
     "lon": -97,
@@ -3371,7 +3371,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "All",
     "lat": 38,
     "lon": -97,
@@ -3381,7 +3381,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "All",
     "lat": 38,
     "lon": -97,
@@ -3391,7 +3391,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "All",
     "lat": 38,
     "lon": -97,
@@ -7481,7 +7481,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
@@ -7491,7 +7491,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
@@ -7501,7 +7501,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
@@ -7511,7 +7511,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
@@ -7521,7 +7521,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
@@ -7531,7 +7531,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
@@ -7541,7 +7541,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
@@ -7551,7 +7551,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
@@ -7561,7 +7561,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
@@ -7571,7 +7571,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
@@ -7581,7 +7581,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
@@ -7591,7 +7591,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
@@ -7601,7 +7601,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
@@ -7611,7 +7611,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
@@ -7621,7 +7621,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
@@ -7631,7 +7631,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
@@ -7641,7 +7641,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
@@ -7651,7 +7651,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
@@ -7661,7 +7661,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
@@ -7671,7 +7671,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
@@ -7681,7 +7681,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
@@ -7691,7 +7691,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
@@ -7701,7 +7701,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
@@ -7711,7 +7711,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
@@ -7721,7 +7721,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
@@ -7731,7 +7731,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
@@ -7741,7 +7741,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
@@ -7751,7 +7751,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
@@ -7761,7 +7761,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
@@ -7771,7 +7771,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
@@ -7781,7 +7781,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
@@ -7791,7 +7791,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
@@ -7801,7 +7801,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
@@ -7811,7 +7811,7 @@ var top10countries = [
   },
   {
     "areaname": "Asia",
-    "country": "Republic of Korea",
+    "country": "South Korea",
     "devname": "Developing regions",
     "lat": 37,
     "lon": 127.5,
@@ -8161,7 +8161,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "Russian Federation",
+    "country": "Russia",
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
@@ -8171,7 +8171,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "Russian Federation",
+    "country": "Russia",
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
@@ -8181,7 +8181,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "Russian Federation",
+    "country": "Russia",
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
@@ -8191,7 +8191,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "Russian Federation",
+    "country": "Russia",
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
@@ -8201,7 +8201,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "Russian Federation",
+    "country": "Russia",
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
@@ -8211,7 +8211,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "Russian Federation",
+    "country": "Russia",
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
@@ -8221,7 +8221,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "Russian Federation",
+    "country": "Russia",
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
@@ -8231,7 +8231,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "Russian Federation",
+    "country": "Russia",
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
@@ -8241,7 +8241,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "Russian Federation",
+    "country": "Russia",
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
@@ -8251,7 +8251,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "Russian Federation",
+    "country": "Russia",
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
@@ -8261,7 +8261,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "Russian Federation",
+    "country": "Russia",
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
@@ -8271,7 +8271,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "Russian Federation",
+    "country": "Russia",
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
@@ -8281,7 +8281,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "Russian Federation",
+    "country": "Russia",
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
@@ -8291,7 +8291,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "Russian Federation",
+    "country": "Russia",
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
@@ -8301,7 +8301,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "Russian Federation",
+    "country": "Russia",
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
@@ -8311,7 +8311,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "Russian Federation",
+    "country": "Russia",
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
@@ -8321,7 +8321,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "Russian Federation",
+    "country": "Russia",
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
@@ -8331,7 +8331,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "Russian Federation",
+    "country": "Russia",
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
@@ -8341,7 +8341,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "Russian Federation",
+    "country": "Russia",
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
@@ -8351,7 +8351,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "Russian Federation",
+    "country": "Russia",
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
@@ -8361,7 +8361,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "Russian Federation",
+    "country": "Russia",
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
@@ -8371,7 +8371,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "Russian Federation",
+    "country": "Russia",
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
@@ -8381,7 +8381,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "Russian Federation",
+    "country": "Russia",
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
@@ -8391,7 +8391,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "Russian Federation",
+    "country": "Russia",
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
@@ -8401,7 +8401,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "Russian Federation",
+    "country": "Russia",
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
@@ -8411,7 +8411,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "Russian Federation",
+    "country": "Russia",
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
@@ -8421,7 +8421,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "Russian Federation",
+    "country": "Russia",
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
@@ -8431,7 +8431,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "Russian Federation",
+    "country": "Russia",
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
@@ -8441,7 +8441,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "Russian Federation",
+    "country": "Russia",
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
@@ -8451,7 +8451,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "Russian Federation",
+    "country": "Russia",
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
@@ -8461,7 +8461,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "Russian Federation",
+    "country": "Russia",
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
@@ -8471,7 +8471,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "Russian Federation",
+    "country": "Russia",
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
@@ -8481,7 +8481,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "Russian Federation",
+    "country": "Russia",
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
@@ -8491,7 +8491,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "Russian Federation",
+    "country": "Russia",
     "devname": "Developed regions",
     "lat": 60,
     "lon": 100,
@@ -9521,7 +9521,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
@@ -9531,7 +9531,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
@@ -9541,7 +9541,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
@@ -9551,7 +9551,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
@@ -9561,7 +9561,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
@@ -9571,7 +9571,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
@@ -9581,7 +9581,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
@@ -9591,7 +9591,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
@@ -9601,7 +9601,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
@@ -9611,7 +9611,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
@@ -9621,7 +9621,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
@@ -9631,7 +9631,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
@@ -9641,7 +9641,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
@@ -9651,7 +9651,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
@@ -9661,7 +9661,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
@@ -9671,7 +9671,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
@@ -9681,7 +9681,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
@@ -9691,7 +9691,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
@@ -9701,7 +9701,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
@@ -9711,7 +9711,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
@@ -9721,7 +9721,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
@@ -9731,7 +9731,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
@@ -9741,7 +9741,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
@@ -9751,7 +9751,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
@@ -9761,7 +9761,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
@@ -9771,7 +9771,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
@@ -9781,7 +9781,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
@@ -9791,7 +9791,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
@@ -9801,7 +9801,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
@@ -9811,7 +9811,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
@@ -9821,7 +9821,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
@@ -9831,7 +9831,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
@@ -9841,7 +9841,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
@@ -9851,7 +9851,7 @@ var top10countries = [
   },
   {
     "areaname": "Northern America",
-    "country": "United States of America",
+    "country": "USA",
     "devname": "Developed regions",
     "lat": 38,
     "lon": -97,
