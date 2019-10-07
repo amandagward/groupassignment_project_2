@@ -159,7 +159,8 @@ let title = svg
     .text("Migration in " + minYear)
     .attr('x', svgWidth / 2)
     .attr("y", 30)
-    .attr("opacity", "0.7")
+    .attr("opacity", "0.9")
+    .attr("fill","#17A2B8")
     .style("text-anchor", "middle")
     .style("font-size", "1.5em");
 
@@ -170,7 +171,7 @@ let tooltip = d3.select("#tool")
 
 var colorScale = d3.scaleLinear()
 .domain( d3.extent(dataset, obj => obj.value) )
-.range(["purple", "pink"]);
+.range(["purple", "blue"]);
 
 
 svg

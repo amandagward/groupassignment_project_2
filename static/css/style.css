@@ -5,14 +5,13 @@ html, body{
 	background: #fed2d8;
 }
 
-
 #map-container {
 	padding-top: 100px;
 }
 
 #map {
 	position: relative;
-	z-index:0;
+	z-index: 0 !important;
 	border-radius: 8px;
 	height: 500px;
 	width: 100%;
@@ -59,6 +58,8 @@ html, body{
 	color:  #4e5a65;
 	opacity: 0.5;
 }
+
+
 .navbar-light .navbar-nav .nav-link,
 .dropdown-menu a {
 	color:  #4e5a65;
