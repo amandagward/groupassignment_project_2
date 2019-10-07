@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Bootstrap Version</title>
+    <title>World Migration</title>
     <meta charset="utf-8">
     <meta name"viewport" content="width=device-width, initial-scale=1">
 
@@ -18,11 +18,12 @@
 <link type="text/css" rel="stylesheet" href="../static/css/style.css" />
 
 </head>
-<body>
+<body data-spy="scroll" data-target=".navbar" data-offset="50">
+
 
 
     <nav class="navbar navbar-expand-lg navbar-light shadow-sm" >
-        <a class="navbar-brand migration text-center ml-3 mt-2" href="#">
+        <a class="navbar-brand migration text-center ml-3 mt-2" href="#map-container">
           <span class="fas fa-globe-americas fa-fw fa-lg" style="color:#1a4f98"></span> World Migration Statistics from 1980 to 2013</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -33,19 +34,19 @@
                 <li class="nav-item"></li>
             </ul>
 
-            <!-- <form class="form-inline float-right my-2 my-lg-0">
+            <form class="form-inline float-right my-2 my-lg-0">
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item dropdown">
 
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             <span class="fas fa-clipboard fa-fw fa-lg"></span>
-                            Projects
+                            Datasets
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
 
-                            <a class="dropdown-item" href="#missiontomars">
+                            <a class="dropdown-item" href="#global_areas">
                                 <span class="fas fa-rocket fa-fw fa-lg"></span>
-                                Mission to Mars
+                                Global Areas
                             </a>
                             <a class="dropdown-item" href="#unveilip">
                                 <span class="fas fa-eye fa-fw fa-lg"></span>
@@ -88,7 +89,7 @@
                         </a>
                     </li>
                 </ul>
-            </form> -->
+            </form>
         </div>
     </nav>
       
@@ -138,5 +139,12 @@
     </div>          
     <script type="text/javascript" src="../static/js/script.js"></script>
 
+    <div id="global_areas" class="hide-this-thing mt-5 pt-5 container-fluid d-flex flex-column justify-content-center align-items-center">
+        <div class="text-center mt-4">
+            <h4 >Dataset Global Areas</h4>
+            {{ global_areas.html_table | safe }}
+        </div>
+    </div>
+    <script type="text/javascript" src="../static/js/pgcontrol.js"></script>
 </body>
 </html>

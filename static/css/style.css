@@ -209,9 +209,9 @@ label {
 	opacity: 0.8;
 	-webkit-transition: .2s;
 	transition: opacity .2s;
-  }
-  
-  .slider::-webkit-slider-thumb {
+}
+
+.slider::-webkit-slider-thumb {
 	-webkit-appearance: none;
 	appearance: none;
 	width: 25px;
@@ -219,15 +219,19 @@ label {
 	border-radius: 50%; 
 	background: #1e90ff;
 	cursor: pointer;
-  }
-  
-  .slider::-moz-range-thumb {
+}
+
+.slider::-moz-range-thumb {
 	width: 25px;
 	height: 25px;
 	border-radius: 50%;
 	background: #1e90ff;
 	cursor: pointer;
-  }
+}
+
+.hide-this-thing {
+	display: none!important;
+}
 
 @media screen and (max-width: 1000px) {
 	
