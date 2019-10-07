@@ -12,8 +12,8 @@ mongo = PyMongo(app, uri=connection_string)
 
 @app.route("/")
 def index():
-    mars = mongo.db.mars.find_one()
-    return render_template("index.html", mars=mars)
+    global_areas = mongo.db.global_areas.find_one()
+    return render_template("index.html", global_areas=global_areas)
 
 @app.route("/scrape")
 def scrape():
