@@ -42,3 +42,4 @@ $("#map-container").removeClass('hide-this-thing');
 $(document).ready(function(){
   $('[data-toggle="tooltip"]').tooltip();   
 });
+
