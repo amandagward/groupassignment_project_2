@@ -24,7 +24,8 @@ function filterDataMap( ) {
         dataResult = top10countries.filter( obj => (obj.devname === currDevel && obj.year == currYear) );
     }
     // Sort the dataset by value
-   console.log("The dataset for MAP IS: ", dataResult);
+    dataResult.sort( (a, b) => b.value - a.value);
+    console.log("The dataset for MAP IS: ", dataResult);
     return dataResult;
 }
 
@@ -315,7 +316,7 @@ function updBarChart() {
 
     svg
     .selectAll("rect")
-    .data(dataset.filter( d => d.year===currYear)) // Initial value for bars
+    .data(dataset.filter( d => d.year==currYear)) // Initial value for bars
     .enter()
     .append("rect") 
         .attr("width", barWidth )
@@ -328,11 +329,7 @@ function updBarChart() {
     .on("mouseout", HideToolTip) 
     .on("touchsend", HideToolTip);
 }
-
-
-
 /************* UPDATING X AXIS */
-
 function getXdomainScale() { 
     var xLabelsAxis =  dataset.filter( obj => { 
         return obj.year == currYear;   
@@ -394,59 +391,24 @@ function updateEverything() {
 
 /************************************************* LEAFLET ***************************************************************/
 // Array of coordinates for Global Areas
-var areas = [ 
-    {
-        areaname: "Oceania",
-        lat: 140,
-        lon: -10,
-        value: 87897
-    },
-    {
-        areaname: "Africa",
-        lat: 20,
-        lon: 15,
-        value: 87897
-    },
-    {
-        areaname: "Asia",
-        lat: 100,
-        lon: 30,
-        value: 87897
-    },
-    {
-        areaname: "Northern America",
-        lat: -100,
-        lon: 45,
-        value: 87897
-    },
-    {
-        areaname: "Latin America",
-        lat: -70,
-        lon: -5,
-        value: 87897
-    },
-    {
-        areaname: "Europe",
-        lat: 15.2551,
-        lon: 54.5260,
-        value: 87897
-    }    
-];
 
 // Function to scale circles on Map
 var mapScale = d3.scaleLinear()
 .domain(d3.extent(datasetMap, obj => obj.value))
-.range([3000, 5000]);
+.range([2000, 5000]);
 
 // Create a map object
 // Function to determine marker size based on immigration
 function markerSize(value) {
-    return mapScale(value) * 200;
+    var result = mapScale(value);
+    result = Math.round(result);
+    console.log("VALUE " + value + " - RESULT ", result);
+    return result * 200;
 }
 
 // Function to get Coordinates for Global Areas
 function returnAreaLonLat(area) {
-    return areas.reduce( ( acc, obj) => {
+    return areasCoordinates.reduce( ( acc, obj) => {
         if (area === obj.areaname) {
             acc.push(obj.lon);
             acc.push(obj.lat);
@@ -460,30 +422,39 @@ var markers = [];
 
 function mountMarkers(markers) {
     
-    
     // 
-    
-    for (var i = 0; i < datasetMap.length; i++) {
-        // Setting the marker radius for the state by passing immigration into the markerSize function
-        markers.push(
-            L.circle(returnAreaLonLat(datasetMap[i].areaname), {
-            stroke: false,
-            fillOpacity: 0.5,
-            color: "white",
-            fillColor: "purple",
-            radius: markerSize(datasetMap[i].value)
-            }).bindPopup("<span class='text-center' style='font-weight:bold;font-size:1rem;'> " + getContinentMap(datasetMap[i].areaname) + " " +  
-                        datasetMap[i].areaname + "</span> <hr> " +
-                        "<p style='font-weight:bold;'>Category: " + currDevel + "</p>" + 
-                        "<p style='font-weight:bold;'>Immigration in " + currYear + ": " + datasetMap[i].value.toLocaleString() + "</p>")
-        );
-
-        // <p class="text-center"><img src=${d.flag} alt="flag">  ${d.country}</p>
-        // <p>Immigration: ${d.value.toLocaleString()}</p>
+    if (currGlobal === "Global Areas") {
+        for (var i = 0; i < datasetMap.length; i++) {
+            // Setting the marker radius for the state by passing immigration into the markerSize function
+            markers.push(
+                L.circle(returnAreaLonLat(datasetMap[i].areaname), {
+                stroke: false,
+                fillOpacity: 0.5,
+                fillColor: "purple",
+                radius: markerSize(datasetMap[i].value)
+                }).bindPopup("<span style='font-weight:bold;font-size:1rem;'> " + getContinentMap(datasetMap[i].areaname) + " " +  
+                            datasetMap[i].areaname + "</span> <hr> " +
+                            "<p>Category: " + currDevel + "</p>" + 
+                            "<p>Immigration in " + currYear + ": " + datasetMap[i].value.toLocaleString() + "</p>")
+            );
+        }
+    } else { 
+        for (var j = 0; j < datasetMap.length; j++) {
+            // Setting the marker radius for the state by passing immigration into the markerSize function
+            markers.push(
+                L.circle( [datasetMap[j].lat, datasetMap[j].lon], {
+                stroke: false,
+                fillOpacity: 0.5,
+                fillColor: "purple",
+                radius: markerSize(datasetMap[j].value)
+                }).bindPopup("<span style='font-weight:bold;font-size:1rem;'><img style='width:30px;' src=" + datasetMap[j].flag + "  alt='flag'>  " + datasetMap[j].country + 
+                            "</p> <hr> " +
+                            "<p>Category: " + currDevel + "</p>" + 
+                            "<p>Immigration in " + currYear + ": " + datasetMap[j].value.toLocaleString() + "</p>")
+            );
+        }
     }
 }
-
-
 
 // Define variables for our base layers
 var streetmap = L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}", {
@@ -503,16 +474,11 @@ var darkmap = L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?
 // Create the layer
 mountMarkers(markers);
 var layear = L.layerGroup(markers);
+
 // Create a baseMaps object
 var baseMaps = {
     "Street Map": streetmap,
     "Dark Map": darkmap
-};
-
-// Create an overlay object
-var overlayMaps = {
-    "Global Areas": layear
-    // "City Population": cities
 };
 
 // Define a map object
@@ -540,20 +506,6 @@ function updateMap() {
 
     // Set new markers 
     mountMarkers(markers);
-
-    // for (var i = 0; i < datasetMap.length; i++) {
-    //     // Setting the marker radius for the state by passing immigration into the markerSize function
-    //     markers.push(
-    //         L.circle(returnAreaLonLat(datasetMap[i].areaname), {
-    //         stroke: false,
-    //         fillOpacity: 0.5,
-    //         color: "white",
-    //         fillColor: "purple",
-    //         radius: markerSize(datasetMap[i].value)
-    //         }).bindPopup("<span style='font-weight:bold;'> " + getContinentMap(datasetMap[i].areaname) + " " +  datasetMap[i].areaname + "</span> <hr> " +
-    //         "<p>Category: " + currDevel + "</p>" + "<p>Immigration: " + datasetMap[i].value.toLocaleString() + "</p>")
-    //     );
-    // }
 
     // Assign new markers to the layear
     layear = L.layerGroup(markers);
