@@ -137,20 +137,20 @@
     <script type="text/javascript" src="../static/js/app.js"></script>
 
     <div id="global_areas" class="hide-this-thing container-fluid d-flex flex-column justify-content-center align-items-center">
-        <div class="text-center  mt-5 pt-5">
-            <h4 class="text-info">Dataset Global Areas</h4>
+        <div class="text-center mt-5 pt-5">
+            <h4 class="text-info mb-5"><span class="fas fa-globe"></span> Global Areas</h4>
             {{ tables[0].html_table | safe }}
         </div>
     </div>
     <div id="top5countries" class="hide-this-thing container-fluid d-flex flex-column justify-content-center align-items-center">
-        <div class="text-center  mt-5 pt-5">
-            <h4 class="text-info">Dataset Top 5 Countries </h4>
+        <div class="text-center mt-5 pt-5">
+            <h4 class="text-info mb-5"><span class="fas fa-trophy fa-fw fa-lg"></span> Top 5 Countries </h4>
             {{ tables[1].html_table | safe }}
         </div>
     </div>
     <div id="top10countries" class="hide-this-thing container-fluid d-flex flex-column justify-content-center align-items-center">
-        <div class="text-center  mt-5 pt-5">
-            <h4 class="text-info">Dataset Top 10 Countries</h4>
+        <div class="text-center mt-5 pt-5">
+            <h4 class="text-info mb-5"><span class="fas fa-medal fa-fw fa-lg"></span> Top 10 Countries</h4>
             {{ tables[2].html_table | safe }}
         </div>
     </div>

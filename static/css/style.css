@@ -235,9 +235,21 @@ label {
 	display: none!important;
 }
 
-table th {
+.table {
+    color: #00A5A5;
+    font-size: 14px; 
+}
+
+.table th, .table td {
+    text-align: center;
+}
+
+.table thead th {
 	color: rgb(19, 151, 151);
 	text-transform: capitalize;
+	font-weight: lighter;
+	font-size: 1rem;
+	text-align: center;
 }
 
 

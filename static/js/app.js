@@ -447,8 +447,9 @@ function mountMarkers(markers) {
                 fillOpacity: 0.5,
                 fillColor: "purple",
                 radius: markerSize(datasetMap[j].value)
-                }).bindPopup("<span style='font-weight:bold;font-size:1rem;'><img style='width:30px;' src=" + datasetMap[j].flag + "  alt='flag'>  " + datasetMap[j].country + 
-                            "</p> <hr> " +
+                }).bindPopup("<span style='font-weight:bold;font-size:1rem;'>" + 
+                            "<img style='width:30px; border: 1px solid #dce0e5;' src=" + datasetMap[j].flag + "  alt='flag'>  " + datasetMap[j].country + 
+                            "</span> <hr> " +
                             "<p>Category: " + currDevel + "</p>" + 
                             "<p>Immigration in " + currYear + ": " + datasetMap[j].value.toLocaleString() + "</p>")
             );
