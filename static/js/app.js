@@ -24,7 +24,7 @@ function filterDataMap( ) {
         dataResult = top10countries.filter( obj => (obj.devname === currDevel && obj.year == currYear) );
     }
     // Sort the dataset by value
-    console.log("The dataset for MAP IS: ", dataResult);
+   console.log("The dataset for MAP IS: ", dataResult);
     return dataResult;
 }
 
@@ -86,10 +86,10 @@ globalAreas.property("value", "Global Areas");
 // Event listener for drop-downs
 // =============================
 d3.selectAll('select').on('change', () => {
-    console.log("drop-downs event listener");
+   //console.log("drop-downs event listener");
     currGlobal = globalAreas.property("value");
     currDevel  = dropDevelop.property("value");
-    updateEveryting();
+    updateEverything();
 });
 
 // Setting inital data to range input HTML element (min, max and initial values):
@@ -107,7 +107,7 @@ let yAxisWidth = 50;
 
 // SVG container
 var svgHeight = 400;
-var svgWidth = 630;
+var svgWidth = 570;
 
 // margins
 var margin = {
@@ -172,7 +172,7 @@ var yAxis = chartGroup.append("g")
 let title = svg
     .append("text")
     .classed("title", true)
-    .text("Migration in " + minYear)
+    .text("Immigration in " + minYear)
     .attr('x', svgWidth / 2)
     .attr("y", 30)
     .attr("opacity", "0.9")
@@ -226,20 +226,21 @@ d3.select("input")
             .on("end", function( d, i, nodes ) {
                 if ( i === nodes.length - 1 ) { // Listening for rectangles finishing its moviment (transition)
                     d3.select('.title')
-                        .text("Migration in " + currYear);
+                        .text("Immigration in " + currYear);
                 }
             })
             .on("interrupt", function() {
-                console.log("Interrupted! No longer updating to " + currYear + " data ...");
+               //console.log("Interrupted! No longer updating to " + currYear + " data ...");
             })
                 .attr("height", obj => chartHeight - yScale(obj.value)  )
                 .attr("y", obj => yScale(obj.value) + 50 )
                 .attr("fill", d => colorScale( d.value ));
 
         // Update title
-        title.text("Migration in " + minYear);
+        title.text("Immigration in " + minYear);
         // Update x axis
         updXaxis();
+        updateMap();
 
     });
 
@@ -253,12 +254,12 @@ function ShowToolTip (d) {
                     if (currGlobal === "Global Areas"){ 
                         return  `
                         <p class="text-center">${getContinentMap(d.areaname)} ${d.areaname}</p>
-                        <p>Migration: ${d.value.toLocaleString()}</p>
+                        <p>Immigration: ${d.value.toLocaleString()}</p>
                             `;
                     } else { 
                         return ` 
                         <p class="text-center"><img src=${d.flag} alt="flag">  ${d.country}</p>
-                        <p>Migration: ${d.value.toLocaleString()}</p>
+                        <p>Immigration: ${d.value.toLocaleString()}</p>
                         `;
                     }
             });
@@ -302,11 +303,11 @@ function updateVariables () {
 
 function updBarChart() {
 
-    console.log("Running function updBarChart");
-    console.log("currYear ",currYear);
-    console.log("currGlobal ", currGlobal );
-    console.log("currDevel ", currDevel );
-    console.log("barWidth ", barWidth );
+   //console.log("Running function updBarChart");
+   //console.log("currYear ",currYear);
+   //console.log("currGlobal ", currGlobal );
+   //console.log("currDevel ", currDevel );
+   //console.log("barWidth ", barWidth );
     
     svg.selectAll("rect")
     .remove()
@@ -376,28 +377,24 @@ function yRenderAxes(yScale, yAxis) {
     return yAxis;
 }
 function updYaxis() {
-    console.log("Running function updYaxis");
+   //console.log("Running function updYaxis");
     yScale = newYScale();
     yAxis = yRenderAxes(yScale, yAxis);
 }
 /************* END UPDATING Y AXIS */
 
 // Update bar Chart
-function updateEveryting() {
+function updateEverything() {
     updateVariables();
     updXaxis();
     updYaxis();
     updBarChart();
+    updateMap();
 }
 
 /************************************************* LEAFLET ***************************************************************/
-// Create a map object
-// Function to determine marker size based on imigration
-function markerSize(value) {
-    return value * 50;
-}
-  
-  var areas = [ 
+// Array of coordinates for Global Areas
+var areas = [ 
     {
         areaname: "Oceania",
         lat: 140,
@@ -434,8 +431,20 @@ function markerSize(value) {
         lon: 54.5260,
         value: 87897
     }    
-  ];
+];
 
+// Function to scale circles on Map
+var mapScale = d3.scaleLinear()
+.domain(d3.extent(datasetMap, obj => obj.value))
+.range([3000, 5000]);
+
+// Create a map object
+// Function to determine marker size based on immigration
+function markerSize(value) {
+    return mapScale(value) * 200;
+}
+
+// Function to get Coordinates for Global Areas
 function returnAreaLonLat(area) {
     return areas.reduce( ( acc, obj) => {
         if (area === obj.areaname) {
@@ -446,144 +455,117 @@ function returnAreaLonLat(area) {
     }, []);
 }
 
-  // Define arrays to hold created city and state markers
-  var stateMarkers = [];
-  
-  // Loop through locations and create city and state markers
-  for (var i = 0; i < datasetMap.length; i++) {
-    // Setting the marker radius for the state by passing imigration into the markerSize function
-    stateMarkers.push(
-      L.circle(returnAreaLonLat(datasetMap[i].areaname), {
-        stroke: false,
-        fillOpacity: 0.5,
-        color: "white",
-        fillColor: "cyan",
-        radius: markerSize(datasetMap[i].value)
-      }).bindPopup("<h6> " + datasetMap[i].areaname + "</h6> <hr> <span>Imigration: " + datasetMap[i].value + "</span>")
-    );
-}
-  
-  // Define variables for our base layers
-  var streetmap = L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}", {
-    attribution: "Map data &copy; <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> contributors, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, Imagery © <a href=\"https://www.mapbox.com/\">Mapbox</a>",
-    maxZoom: 18,
-    id: "mapbox.streets",
-    accessToken: API_KEY
-  });
-  
-  var darkmap = L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}", {
-    attribution: "Map data &copy; <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> contributors, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, Imagery © <a href=\"https://www.mapbox.com/\">Mapbox</a>",
-    maxZoom: 18,
-    id: "mapbox.dark",
-    accessToken: API_KEY
-  });
-  
-  // Create two separate layer groups: one for cities and one for states
-  var states = L.layerGroup(stateMarkers);
-//   var cities = L.layerGroup(cityMarkers);
-  
-  // Create a baseMaps object
-  var baseMaps = {
-    "Street Map": streetmap,
-    "Dark Map": darkmap
-  };
-  
-  // Create an overlay object
-  var overlayMaps = {
-    "Global Areas": states
-    // "City Population": cities
-  };
-  
-  // Define a map object
-  var myMap = L.map("map", {
-    center: [33, 20],
-    zoom: 2,
-    layers: [streetmap, states]
-  });
-  
-  // Pass our map layers into our layer control
-  // Add the layer control to the map
-  var layerControl = L.control.layers(baseMaps, null, {
-    collapsed: false
-  }).addTo(myMap);
-  
+// Define arrays to hold created city and state markers
+var markers = [];
 
-/* TESTING UPDATE MAP */ 
-$("button").click( function() {
-    // layerControl.remove();
-    myMap.remove();
-
-
-    var newareas = [ 
-        {
-            areaname: "Oceanias",
-            lat: 140,
-            lon: -20,
-            value: 87897
-        },
-        {
-            areaname: "Africas",
-            lat: 20,
-            lon: 25,
-            value: 87897
-        },
-        {
-            areaname: "Asias",
-            lat: 100,
-            lon: 30,
-            value: 87897
-        },
-        {
-            areaname: "Northern America",
-            lat: -100,
-            lon: 35,
-            value: 87897
-        },
-        {
-            areaname: "Latin America",
-            lat: -70,
-            lon: -5,
-            value: 87897
-        },
-        {
-            areaname: "Europe",
-            lat: 15.2551,
-            lon: 54.5260,
-            value: 87897
-        }    
-      ];
-
-     // Clean Markers 
-     stateMarkers = [];
-
-     for (var i = 0; i < newareas.length; i++) {
-        // Setting the marker radius for the state by passing population into the markerSize function
-        stateMarkers.push(
-          L.circle([newareas[i].lon, newareas[i].lat], {
+function mountMarkers(markers) {
+    
+    
+    // 
+    
+    for (var i = 0; i < datasetMap.length; i++) {
+        // Setting the marker radius for the state by passing immigration into the markerSize function
+        markers.push(
+            L.circle(returnAreaLonLat(datasetMap[i].areaname), {
             stroke: false,
             fillOpacity: 0.5,
-            color: "green",
-            fillColor: "blue",
-            radius: markerSize(newareas[i].value)
-          }).bindPopup("<h6> " + newareas[i].areaname + "</h6> <hr> <span>Imigration: " + newareas[i].value + "</span>")
+            color: "white",
+            fillColor: "purple",
+            radius: markerSize(datasetMap[i].value)
+            }).bindPopup("<span class='text-center' style='font-weight:bold;font-size:1rem;'> " + getContinentMap(datasetMap[i].areaname) + " " +  
+                        datasetMap[i].areaname + "</span> <hr> " +
+                        "<p style='font-weight:bold;'>Category: " + currDevel + "</p>" + 
+                        "<p style='font-weight:bold;'>Immigration in " + currYear + ": " + datasetMap[i].value.toLocaleString() + "</p>")
         );
+
+        // <p class="text-center"><img src=${d.flag} alt="flag">  ${d.country}</p>
+        // <p>Immigration: ${d.value.toLocaleString()}</p>
     }
+}
 
-    states = L.layerGroup(stateMarkers);
 
-    overlayMaps = {
-        "Global Areas": states
-        // "City Population": cities
-      };
-      
-      // Define a map object
-     myNewMap = L.map("map", {
+
+// Define variables for our base layers
+var streetmap = L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}", {
+    attribution: "Map data &copy; <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> contributors, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, Imagery © <a href=\"https://www.mapbox.com/\">Mapbox</a>",
+    maxzoom: 28,
+    id: "mapbox.streets",
+    accessToken: API_KEY
+});
+
+var darkmap = L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}", {
+    attribution: "Map data &copy; <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> contributors, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, Imagery © <a href=\"https://www.mapbox.com/\">Mapbox</a>",
+    maxzoom: 28,
+    id: "mapbox.dark",
+    accessToken: API_KEY
+});
+
+// Create the layer
+mountMarkers(markers);
+var layear = L.layerGroup(markers);
+// Create a baseMaps object
+var baseMaps = {
+    "Street Map": streetmap,
+    "Dark Map": darkmap
+};
+
+// Create an overlay object
+var overlayMaps = {
+    "Global Areas": layear
+    // "City Population": cities
+};
+
+// Define a map object
+var myMap = L.map("map", {
+    center: [33, 20],
+    zoom: 2,
+    layers: [streetmap, layear]
+});
+
+// Pass our map layers into our layer control
+// Add the layer control to the map
+var layerControl = L.control.layers(baseMaps, null, {
+    collapsed: false
+}).addTo(myMap);
+
+
+// UPDATE MAP 
+// ======================
+function updateMap() {
+
+    datasetMap = filterDataMap( );
+    // Clean last markers
+    myMap.remove();
+    markers = [];
+
+    // Set new markers 
+    mountMarkers(markers);
+
+    // for (var i = 0; i < datasetMap.length; i++) {
+    //     // Setting the marker radius for the state by passing immigration into the markerSize function
+    //     markers.push(
+    //         L.circle(returnAreaLonLat(datasetMap[i].areaname), {
+    //         stroke: false,
+    //         fillOpacity: 0.5,
+    //         color: "white",
+    //         fillColor: "purple",
+    //         radius: markerSize(datasetMap[i].value)
+    //         }).bindPopup("<span style='font-weight:bold;'> " + getContinentMap(datasetMap[i].areaname) + " " +  datasetMap[i].areaname + "</span> <hr> " +
+    //         "<p>Category: " + currDevel + "</p>" + "<p>Immigration: " + datasetMap[i].value.toLocaleString() + "</p>")
+    //     );
+    // }
+
+    // Assign new markers to the layear
+    layear = L.layerGroup(markers);
+
+      // Redefine the map object
+     myMap = L.map("map", {
         center: [33, 20],
         zoom: 2,
-        layers: [streetmap, states]
+        layers: [streetmap, layear]
       });
 
-    layerControl.addTo(myNewMap);
+    // Add the new object to map
+    layerControl.addTo(myMap);
 
-
-  });
+}
