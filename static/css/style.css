@@ -235,6 +235,12 @@ label {
 	display: none!important;
 }
 
+table th {
+	color: rgb(19, 151, 151);
+	text-transform: capitalize;
+}
+
+
 @media screen and (max-width: 1000px) {
 	
 }
