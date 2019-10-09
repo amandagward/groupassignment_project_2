@@ -2721,7 +2721,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "All",
     "lat": 54,
     "lon": -2,
@@ -2731,7 +2731,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "All",
     "lat": 54,
     "lon": -2,
@@ -2741,7 +2741,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "All",
     "lat": 54,
     "lon": -2,
@@ -2751,7 +2751,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "All",
     "lat": 54,
     "lon": -2,
@@ -2761,7 +2761,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "All",
     "lat": 54,
     "lon": -2,
@@ -2771,7 +2771,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "All",
     "lat": 54,
     "lon": -2,
@@ -2781,7 +2781,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "All",
     "lat": 54,
     "lon": -2,
@@ -2791,7 +2791,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "All",
     "lat": 54,
     "lon": -2,
@@ -2801,7 +2801,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "All",
     "lat": 54,
     "lon": -2,
@@ -2811,7 +2811,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "All",
     "lat": 54,
     "lon": -2,
@@ -2821,7 +2821,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "All",
     "lat": 54,
     "lon": -2,
@@ -2831,7 +2831,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "All",
     "lat": 54,
     "lon": -2,
@@ -2841,7 +2841,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "All",
     "lat": 54,
     "lon": -2,
@@ -2851,7 +2851,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "All",
     "lat": 54,
     "lon": -2,
@@ -2861,7 +2861,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "All",
     "lat": 54,
     "lon": -2,
@@ -2871,7 +2871,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "All",
     "lat": 54,
     "lon": -2,
@@ -2881,7 +2881,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "All",
     "lat": 54,
     "lon": -2,
@@ -2891,7 +2891,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "All",
     "lat": 54,
     "lon": -2,
@@ -2901,7 +2901,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "All",
     "lat": 54,
     "lon": -2,
@@ -2911,7 +2911,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "All",
     "lat": 54,
     "lon": -2,
@@ -2921,7 +2921,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "All",
     "lat": 54,
     "lon": -2,
@@ -2931,7 +2931,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "All",
     "lat": 54,
     "lon": -2,
@@ -2941,7 +2941,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "All",
     "lat": 54,
     "lon": -2,
@@ -2951,7 +2951,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "All",
     "lat": 54,
     "lon": -2,
@@ -2961,7 +2961,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "All",
     "lat": 54,
     "lon": -2,
@@ -2971,7 +2971,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "All",
     "lat": 54,
     "lon": -2,
@@ -2981,7 +2981,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "All",
     "lat": 54,
     "lon": -2,
@@ -2991,7 +2991,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "All",
     "lat": 54,
     "lon": -2,
@@ -3001,7 +3001,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "All",
     "lat": 54,
     "lon": -2,
@@ -3011,7 +3011,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "All",
     "lat": 54,
     "lon": -2,
@@ -3021,7 +3021,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "All",
     "lat": 54,
     "lon": -2,
@@ -3031,7 +3031,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "All",
     "lat": 54,
     "lon": -2,
@@ -3041,7 +3041,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "All",
     "lat": 54,
     "lon": -2,
@@ -3051,7 +3051,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "All",
     "lat": 54,
     "lon": -2,
@@ -9181,7 +9181,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
@@ -9191,7 +9191,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
@@ -9201,7 +9201,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
@@ -9211,7 +9211,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
@@ -9221,7 +9221,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
@@ -9231,7 +9231,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
@@ -9241,7 +9241,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
@@ -9251,7 +9251,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
@@ -9261,7 +9261,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
@@ -9271,7 +9271,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
@@ -9281,7 +9281,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
@@ -9291,7 +9291,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
@@ -9301,7 +9301,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
@@ -9311,7 +9311,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
@@ -9321,7 +9321,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
@@ -9331,7 +9331,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
@@ -9341,7 +9341,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
@@ -9351,7 +9351,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
@@ -9361,7 +9361,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
@@ -9371,7 +9371,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
@@ -9381,7 +9381,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
@@ -9391,7 +9391,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
@@ -9401,7 +9401,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
@@ -9411,7 +9411,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
@@ -9421,7 +9421,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
@@ -9431,7 +9431,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
@@ -9441,7 +9441,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
@@ -9451,7 +9451,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
@@ -9461,7 +9461,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
@@ -9471,7 +9471,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
@@ -9481,7 +9481,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
@@ -9491,7 +9491,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
@@ -9501,7 +9501,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
@@ -9511,7 +9511,7 @@ var top10countries = [
   },
   {
     "areaname": "Europe",
-    "country": "United Kingdom",
+    "country": "UK",
     "devname": "Developed regions",
     "lat": 54,
     "lon": -2,
