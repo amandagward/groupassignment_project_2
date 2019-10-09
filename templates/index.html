@@ -43,15 +43,15 @@
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
 
-                            <a class="dropdown-item" href="#global_areas">
+                            <a class="dropdown-item text-info " href="#global_areas">
                                 <span class="fas fa-globe-americas fa-fw fa-lg"></span>
                                 Global Areas
                             </a>
-                            <a class="dropdown-item" href="#top5countries">
+                            <a class="dropdown-item text-info " href="#top5countries">
                                 <span class="fas fa-trophy fa-fw fa-lg"></span>
                                 Top 5 Countries
                             </a>
-                            <a class="dropdown-item" href="#top10countries">
+                            <a class="dropdown-item text-info " href="#top10countries">
                                 <span class="fas fa-medal fa-fw fa-lg"></span>
                                 Top 10 Countries
                             </a>
@@ -136,20 +136,20 @@
     <script type="text/javascript" src="../static/js/config.js"></script>
     <script type="text/javascript" src="../static/js/app.js"></script>
 
-    <div id="global_areas" class="hide-this-thing mt-5 pt-5 container-fluid d-flex flex-column justify-content-center align-items-center">
-        <div class="text-center mt-4">
+    <div id="global_areas" class="hide-this-thing container-fluid d-flex flex-column justify-content-center align-items-center">
+        <div class="text-center  mt-5 pt-5">
             <h4 class="text-info">Dataset Global Areas</h4>
             {{ tables[0].html_table | safe }}
         </div>
     </div>
-    <div id="top5countries" class="hide-this-thing mt-5 pt-5 container-fluid d-flex flex-column justify-content-center align-items-center">
-        <div class="text-center mt-4">
+    <div id="top5countries" class="hide-this-thing container-fluid d-flex flex-column justify-content-center align-items-center">
+        <div class="text-center  mt-5 pt-5">
             <h4 class="text-info">Dataset Top 5 Countries </h4>
             {{ tables[1].html_table | safe }}
         </div>
     </div>
-    <div id="top10countries" class="hide-this-thing mt-5 pt-5 container-fluid d-flex flex-column justify-content-center align-items-center">
-        <div class="text-center mt-4">
+    <div id="top10countries" class="hide-this-thing container-fluid d-flex flex-column justify-content-center align-items-center">
+        <div class="text-center  mt-5 pt-5">
             <h4 class="text-info">Dataset Top 10 Countries</h4>
             {{ tables[2].html_table | safe }}
         </div>
