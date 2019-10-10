@@ -1,7 +1,6 @@
 /* jshint esversion: 6*/ 
 
-// Start bar chart with
-
+// Load domains data
 const areasArray = areas;
 const yearsArray = years;
 const develArray = development;
@@ -12,7 +11,7 @@ let   currYear   = "1980";
 let   currGlobal = "Global Areas";
 let   currDevel  = "All";
 
-// Function to filter datasets according to dropdowns and year selected.
+// Function to filter Leaflet Map dataset according to selected dropdowns and year.
 function filterDataMap( ) {
     let dataResult = [];
     if (currGlobal === "Global Areas") {
@@ -25,11 +24,10 @@ function filterDataMap( ) {
     }
     // Sort the dataset by value
     dataResult.sort( (a, b) => b.value - a.value);
-    console.log("The dataset for MAP IS: ", dataResult);
     return dataResult;
 }
 
-// Function to filter datasets according to dropdowns and year selected.
+// Function to filter bar chart datasets according to  selected dropdowns and year.
 function filterData( ) {
     let dataResult = [];
     if (currGlobal === "Global Areas") {
@@ -45,18 +43,18 @@ function filterData( ) {
     return dataResult;
 }
 
-// get the initial dataset 
+// Set initial dataset 
 let dataset =  filterData( );
 let datasetMap = filterDataMap( );
 
-// Initial values for input range element
+// Initial values for input range HTML element
 let minYear=d3.min(dataset, obj => obj.year);
 let maxYear = d3.max(dataset, obj => obj.year);
 let maxvalue = d3.max(dataset, obj => obj.value); 
 
 // Populate drop-downs
 // ============================= 
-// Mount dropdown to filter Level Development Areas
+// Mount dropdown to filter Development Areas Category
 let dropDevelop = d3.select("#development");
 // Clear current drop-down content 
 dropDevelop.text("");
@@ -87,7 +85,6 @@ globalAreas.property("value", "Global Areas");
 // Event listener for drop-downs
 // =============================
 d3.selectAll('select').on('change', () => {
-   //console.log("drop-downs event listener");
     currGlobal = globalAreas.property("value");
     currDevel  = dropDevelop.property("value");
     updateEverything();
