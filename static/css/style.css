@@ -93,6 +93,7 @@ svg, input {
 	line-height: 3px;
 	max-height: 70px;
 	min-height: 70px;
+	min-width: 120px;
 }
 
 img {

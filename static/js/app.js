@@ -252,12 +252,12 @@ function ShowToolTip (d) {
                     if (currGlobal === "Global Areas"){ 
                         return  `
                         <p class="text-center">${getContinentMap(d.areaname)} ${d.areaname}</p>
-                        <p>Immigration: ${d.value.toLocaleString()}</p>
+                        <p class="text-center">Immigration: ${d.value.toLocaleString()}</p>
                             `;
                     } else { 
                         return ` 
                         <p class="text-center"><img src=${d.flag} alt="flag">  ${d.country}</p>
-                        <p>Immigration: ${d.value.toLocaleString()}</p>
+                        <p class="text-center">Immigration: ${d.value.toLocaleString()}</p>
                         `;
                     }
             });
