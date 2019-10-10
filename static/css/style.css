@@ -39,7 +39,7 @@ html, body{
 
 /* Navbar btn */
 .navbar-light .navbar-toggler {
-	border-color: #FFFFFF;
+	border-color: salmon;
 	border-radius: 5%;
 }
 .navbar-light .navbar-toggler:hover {
@@ -50,16 +50,6 @@ html, body{
 
 
 /* Menu Links  */ 
-.navbar-light .navbar-nav .active>.nav-link, 
-.navbar-light .navbar-nav .nav-link.active, 
-.navbar-light .navbar-nav .nav-link.show, 
-.navbar-light .navbar-nav .show>.nav-link, 
-.navbar-light .navbar-nav .nav-link.disabled {
-	color:  #4e5a65;
-	opacity: 0.5;
-}
-
-
 .navbar-light .navbar-nav .nav-link,
 .dropdown-menu a {
 	color:  #4e5a65;
@@ -69,6 +59,10 @@ html, body{
 .dropdown-menu a:hover {
     color:  #4e5a65;
 	opacity: 0.5;
+}
+
+.dropdown-menu {
+	border:none;
 }
 .navbar form ul li {
 	font-weight: bold;
