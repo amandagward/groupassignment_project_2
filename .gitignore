@@ -1,2 +1,4 @@
 chromedriver.exe
 debug.log
+./static/js/config.js
+dbconfig.py
