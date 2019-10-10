@@ -1,17 +1,18 @@
 // The data used in this Chart comes from the domains.js file.
 //===========================================================
 var ctx = document.getElementById('myChart').getContext('2d');
-var myChart = new Chart(ctx, {
+var config = {
     type: 'line',
     data: {
-        labels: years,
-        datasets: [{
-            label: 'Total',
-            data: total,
-            backgroundColor: 'rgba(54, 162, 235, 0.2)',
-            borderColor: 'rgb(54, 162, 235)',
-            borderWidth: 1
-        }]
+        labels: years
+        // Lets decide if it is better starts with the total or not.
+        // ,datasets: [{
+        //     label: 'Total',
+        //     data: total,
+        //     backgroundColor: 'rgba(54, 162, 235, 0.2)',
+        //     borderColor: 'rgb(54, 162, 235)',
+        //     borderWidth: 1
+        // }]
     },
     options: {
         responsive:false,
@@ -24,7 +25,8 @@ var myChart = new Chart(ctx, {
             }]
         }
     }
-});
+};
+var myChart = new Chart(ctx, config );
 
 function addOceania() {
     myChart.data.datasets.push({
@@ -81,7 +83,6 @@ function addAfrica() {
     myChart.update();
     document.getElementById("africa").disabled = true;
 }
-
 function addAsia() {
     myChart.data.datasets.push({
         label: "Asia",
@@ -93,3 +94,29 @@ function addAsia() {
     myChart.update();
     document.getElementById("asia").disabled = true;
 }
+function addTotal() {
+    myChart.data.datasets.push({
+        label: "Total",
+        data: total,
+        backgroundColor: 'rgba(54, 162, 235, 0.2)',
+        borderColor: 'rgb(54, 162, 235)',
+        borderWidth: 1
+    });
+    myChart.update();
+    document.getElementById("total").disabled = true;
+}
+
+// Reset datasets
+document.getElementById('reset').addEventListener('click', function() {
+    // Remove datasets from chart
+    config.data.datasets.splice(0, config.data.datasets.length);
+    myChart.update();
+    // Enable btns
+    document.getElementById("total").disabled = false;
+    document.getElementById("asia").disabled = false;
+    document.getElementById("africa").disabled = false;
+    document.getElementById("europe").disabled = false;
+    document.getElementById("lamerica").disabled = false;
+    document.getElementById("namerica").disabled = false;
+    document.getElementById("oceania").disabled = false;
+});
