@@ -36,13 +36,11 @@
             <form class="form-inline float-right my-2 my-lg-0">
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item dropdown">
-
                         <a class="nav-link dropdown-toggle text-info mr-5 pr-5" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             <span class="fas fa-database fa-fw fa-lg"></span>
                             Datasets
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-
                             <a class="dropdown-item text-info " href="#global_areas">
                                 <span class="fas fa-globe-americas fa-fw fa-lg"></span>
                                 Global Areas
@@ -55,38 +53,20 @@
                                 <span class="fas fa-medal fa-fw fa-lg"></span>
                                 Top 10 Countries
                             </a>
-                            <!-- <a class="dropdown-item" href="#latitude-dashboard">
-                                <span class="fas fa-globe-americas fa-fw fa-lg"></span>
-                                Latitude Analysis Dashboard
-                            </a>
-                            <a class="dropdown-item" href="#dynamic-filter">
-                                <span class="fas fa-filter fa-fw fa-lg"></span>
-                                D3 Dynamic Filter
-                            </a>
-                            <a class="dropdown-item" href="#pymaceuticals">
-                                <span class="fas fa-flask fa-fw fa-lg"></span>
-                                Pymaceuticals Inc
-                                </a>
-                            </div> -->
+                        </div> 
                     </li>
-                    <!-- <li class="nav-item">
-                        <a class="nav-link" href="https://pamzc.com" target="_blank">
-                            <span class="fas fa-map-marker-alt fa-fw fa-lg"></span>
-                            Webpage
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-info mr-5 pr-5" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <span class="fas fa-chart-line fa-fw fa-lg"></span>
+                            Summary
                         </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item text-info " href="#summary">
+                                <span class="fas fa-smile-wink fa-fw fa-lg"></span>
+                                Bonus
+                            </a>
+                        </div>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="https://drive.google.com/open?id=1CmA_TXS8YZJCmkWAM4kylp56tZiJ2KkK" target="_blank">
-                            <span class="fas fa-file fa-fw fa-lg"></span>    
-                            Resume
-                        </a>
-                    </li> -->
-                    <!-- <li class="nav-item">
-                        <a class="nav-link" href="#">
-                            <span class="fas fa-smile-wink fa-fw fa-lg"></span>    
-                            Bonus
-                        </a>
-                    </li>  -->
                 </ul>
             </form>
         </div>
@@ -155,5 +135,20 @@
         </div>
     </div>
     <script type="text/javascript" src="../static/js/pgcontrol.js"></script>
+    <div id="summary" class="hide-this-thing container-fluid d-flex flex-column justify-content-center align-items-center">
+        <div class="text-center mt-5 pt-5">
+            <h4 class="text-info mb-5"><span class="fas fa-chart-line fa-fw fa-lg"></span> Immigration Summary</h4>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.min.js"></script>
+            <canvas id="myChart" width="1000" height="600"></canvas>
+            <button onclick="addOceania(this)">Add Oceania</button>            
+            <button onclick="addNAmeria(this)">Add North America</button>            
+            <button onclick="addLAmeria(this)">Add Latin America</button>            
+            <button onclick="addAfrica(this)">Add Africa</button>            
+            <button onclick="addEurope(this)">Add Europe</button>            
+            <button onclick="addAsia(this)">Add Asia</button>            
+        </div>
+    </div>
+    <script type="text/javascript" src="../static/js/chart.js"></script>
+
 </body>
 </html>
