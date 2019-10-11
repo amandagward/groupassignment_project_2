@@ -390,16 +390,15 @@ var mapScale = d3.scaleLinear()
 function markerSize(value) {
     var result = mapScale(value);
     result = Math.round(result);
-    console.log("VALUE " + value + " - RESULT ", result);
     return result * 200;
 }
 
 // Function to get Coordinates for Global Areas
-function returnAreaLonLat(area) {
+function returnAreaLatLon(area) {
     return areasCoordinates.reduce( ( acc, obj) => {
         if (area === obj.areaname) {
-            acc.push(obj.lon);
             acc.push(obj.lat);
+            acc.push(obj.lon);
         }
         return acc;
     }, []);
@@ -413,7 +412,7 @@ function mountMarkers(markers) {
         for (var i = 0; i < datasetMap.length; i++) {
             // Setting the marker radius for Global Areas
             markers.push(
-                L.circle(returnAreaLonLat(datasetMap[i].areaname), {
+                L.circle(returnAreaLatLon(datasetMap[i].areaname), {
                 stroke: false,
                 fillOpacity: 0.5,
                 fillColor: "purple",
