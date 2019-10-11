@@ -1,4 +1,4 @@
-// jQuery to control 
+// jQuery to control pages
 $( ".dropdown-item" ).each(function( ) {
     $( this ).click( function (index) {
       console.log("HEREEEE ", this.textContent);
@@ -39,18 +39,11 @@ $( ".nav-item" ).each(function( ) {
     });
 });
 
-
 $(".migration").click( function (index) {
   $("#global_areas").addClass('hide-this-thing');
   $("#top5countries").addClass('hide-this-thing');
   $("#top10countries").addClass('hide-this-thing');
   $("#summary").addClass('hide-this-thing');
   $("#map-container").removeClass('hide-this-thing');
-});
-
-
-/*  TOOL TIP  */
-$(document).ready(function(){
-  $('[data-toggle="tooltip"]').tooltip();   
 });
 

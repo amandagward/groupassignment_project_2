@@ -78,7 +78,6 @@ svg, input {
 	background-color:#fed2d8;
 }
 
-
 .tooltip {
 	display:block;
 	opacity: 0;
@@ -169,32 +168,6 @@ label {
 	font-weight:normal;
 }
 
-
-
-
-@media screen and (max-width: 991px) {
-
-	.navbar {
-		background-color: #4e5a65;
-	}
-
-	.navbar .migration {
-		margin-left: 0px;
-	}
-
-	/********************** DROPDOWN MENU *************/
-	.dropdown-menu {
-		border:none;
-	}
-	.navbar-collapse {
-		background-color: white;
-		margin-left: -20px;
-		margin-right: -20px;
-		padding: 1% 5% 1% 5%;
-	} 
-
-}
-
 /* Range input */
 .slider {
 	-webkit-appearance: none;
@@ -245,36 +218,4 @@ label {
 	font-weight: lighter;
 	font-size: 1rem;
 	text-align: center;
-}
-
-
-@media screen and (max-width: 1000px) {
-	
-}
-
-@media screen and (max-width: 600px) {
-
-}
-
-@media screen and (max-width: 400px) {
-
-	.navbar-collapse {
-	    margin-left: 0px; 
-		margin-right:  0px; 
-	    margin-bottom: 20px;
-	}
-
-
-}
-
-
-
-
-
-@media screen and (max-width: 600px) {
-	h1 { font-size: 3rem;   }
-	h2 { font-size: 2rem;   }
-	h3 { font-size: 1.5rem; }
-    h4 { font-size: 1.2rem; }
-    h5 { font-size: 1rem; }
 }

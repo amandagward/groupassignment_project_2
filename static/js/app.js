@@ -27,7 +27,7 @@ function filterDataMap( ) {
     return dataResult;
 }
 
-// Function to filter bar chart datasets according to  selected dropdowns and year.
+// Function to filter bar chart datasets according to selected dropdowns and year.
 function filterData( ) {
     let dataResult = [];
     if (currGlobal === "Global Areas") {
@@ -43,11 +43,11 @@ function filterData( ) {
     return dataResult;
 }
 
-// Set initial dataset 
+// Set initial dataset for Bar Chart and Map/Leaflet
 let dataset =  filterData( );
 let datasetMap = filterDataMap( );
 
-// Initial values for input range HTML element
+// Initial values for input range HTML element (slide)
 let minYear=d3.min(dataset, obj => obj.year);
 let maxYear = d3.max(dataset, obj => obj.year);
 let maxvalue = d3.max(dataset, obj => obj.value); 
@@ -90,22 +90,21 @@ d3.selectAll('select').on('change', () => {
     updateEverything();
 });
 
-// Setting inital data to range input HTML element (min, max and initial values):
+// Setting inital data/year to range input HTML element (min, max and initial values):
 d3.select("input")
     .property("min",minYear)
     .property("max",maxYear)
     .property("value", minYear);
 
-// Defining the size of the svg area.
+// Defining the SVG area size .
+var svgHeight = 400;
+var svgWidth = 570;
+
 let barPadding = 10; // That is the space between the bars.
 let barWidth = 0; 
 
 // Space for the y Axis
 let yAxisWidth = 50; 
-
-// SVG container
-var svgHeight = 400;
-var svgWidth = 570;
 
 // margins
 var margin = {
@@ -127,19 +126,19 @@ function calcNumBars () {
     return unique.length;
 }
 
-// chart area minus margins
+// Chart area minus margins
 var chartHeight = svgHeight - margin.top - margin.bottom;
 var chartWidth = svgWidth - margin.left - margin.right;
 
 // Initial Calc bar width
 barWidth = ( (chartWidth ) / numBars) - barPadding;  
 
-// create svg container
+// Create svg container
 var svg = d3.select("#svg-area").append("svg")
   .attr("height", svgHeight)
   .attr("width", svgWidth);
 
-// shift everything over by the margins
+// Shift everything over by the margins
 var chartGroup = svg.append("g")
   .attr("transform", `translate(${margin.left}, ${margin.top})`);
 
@@ -178,37 +177,37 @@ let title = svg
     .style("text-anchor", "middle")
     .style("font-size", "1.5em");
 
+// Create tooltip
 let tooltip = d3.select("#tool")
     .append("div")
     .classed("tooltip", true);
 
+// Create the color scale for Bar Chart 
 var colorScale = d3.scaleLinear()
 .domain( d3.extent(dataset, obj => obj.value) )
 .range(["purple", "blue"]);
 
-
+// Create Bar Chart
 svg
     .selectAll("rect")
-    .data(dataset.filter( d => d.year===minYear)) // Initial value for bars
+    .data(dataset.filter( d => d.year===minYear)) 
     .enter()
     .append("rect") 
         .attr("width", barWidth )
-        .attr("height", obj => chartHeight - yScale(obj.value) ) // The height of SVG minus the number used for bars (Probably we will have to scale the data).
+        .attr("height", obj => chartHeight - yScale(obj.value) ) 
         .attr("y", obj => yScale(obj.value) + 50 ) // Y coordenate to start the rect. 
         .attr("x", (d, i) => (i * (barWidth + barPadding)) + 50 + barPadding) // X coordenate for the rect.
         .attr("fill", d => colorScale(d.value))        
-        // .attr("fill", "purple")
     .on("mousemove", ShowToolTip) 
     .on("touchstart", ShowToolTip)
     .on("mouseout", HideToolTip) 
     .on("touchsend", HideToolTip);
 
 // Now we set the event listener to input HTML element to update our graph 
-//if the user change/input the input/range element 
 d3.select("input")
     .on("input", () => {
+        // Update global variable for Year
         currYear = +d3.event.target.value;
-
         svg.selectAll("rect")
             .data(dataset.filter( obj => obj.year === currYear))
             .transition()
@@ -238,10 +237,12 @@ d3.select("input")
         title.text("Immigration in " + minYear);
         // Update x axis
         updXaxis();
+        // Update Map Leaflet
         updateMap();
 
     });
 
+// Function to present tooltip on Bar Chart    
 function ShowToolTip (d) {
     tooltip
         .style("opacity", 1)
@@ -263,11 +264,13 @@ function ShowToolTip (d) {
             });
 }
 
+// Function to hide tooltip  
 function HideToolTip (){
 tooltip
     .style("opacity",0);
 }
 
+// Function to get the corret FontAwesome icon according to current Global Area.
 function getContinentMap(continent) {
     var map = "";
     switch(continent) {
@@ -291,33 +294,26 @@ function getContinentMap(continent) {
     return '<span class="fas fa-' + map + '" style="color:#1a4f98"></span>';
 }
 
+// Update variables needed to redraw the Bar Chart
 function updateVariables () {
-    // d3.event.preventDefault();
     dataset = filterData();
     numBars = calcNumBars();
     barWidth = ( (chartWidth ) / numBars) - barPadding;  
-    
 }
 
+// Update Bar Chart
 function updBarChart() {
-
-   //console.log("Running function updBarChart");
-   //console.log("currYear ",currYear);
-   //console.log("currGlobal ", currGlobal );
-   //console.log("currDevel ", currDevel );
-   //console.log("barWidth ", barWidth );
-    
     svg.selectAll("rect")
     .remove()
     .exit();
 
     svg
     .selectAll("rect")
-    .data(dataset.filter( d => d.year==currYear)) // Initial value for bars
+    .data(dataset.filter( d => d.year==currYear)) 
     .enter()
     .append("rect") 
         .attr("width", barWidth )
-        .attr("height", obj => chartHeight - yScale(obj.value) ) // The height of SVG minus the number used for bars (Probably we will have to scale the data).
+        .attr("height", obj => chartHeight - yScale(obj.value) ) 
         .attr("y", obj => yScale(obj.value) + 50 ) // Y coordenate to start the rect. 
         .attr("x", (d, i) => (i * (barWidth + barPadding)) + 50 + barPadding) // X coordenate for the rect.
         .attr("fill", d => colorScale(d.value))
@@ -326,14 +322,15 @@ function updBarChart() {
     .on("mouseout", HideToolTip) 
     .on("touchsend", HideToolTip);
 }
-/************* UPDATING X AXIS */
+
+// UPDATING X AXIS 
+//================================
 function getXdomainScale() { 
     var xLabelsAxis =  dataset.filter( obj => { 
         return obj.year == currYear;   
     }).map( obj => (currGlobal === "Global Areas") ? obj.areaname :  obj.country);
     return xLabelsAxis;
 }
-
 // Rescale X axis
 function newXScale() {
     var xScale = d3.scaleBand()
@@ -350,11 +347,12 @@ function xRenderAxes(xScale, xAxis) {
     return xAxis;
 }
 function updXaxis() {
-    // // Step 1 - chosenXAxis is the name of KEY
     xScale = newXScale();
     xAxis = xRenderAxes(xScale, xAxis);
 }
-/************* UPDATING Y AXIS */
+
+//  UPDATING Y AXIS 
+// ==================
 function newYScale() {
     // create scales
     let yScale = d3.scaleLinear()
@@ -362,7 +360,6 @@ function newYScale() {
     .range([chartHeight, 0]); 
     return yScale;
 }
-// function used for updating yAxis var upon click on axis label
 function yRenderAxes(yScale, yAxis) {
     var leftAxis = d3.axisLeft(yScale);
     yAxis.transition()
@@ -371,11 +368,9 @@ function yRenderAxes(yScale, yAxis) {
     return yAxis;
 }
 function updYaxis() {
-   //console.log("Running function updYaxis");
     yScale = newYScale();
     yAxis = yRenderAxes(yScale, yAxis);
 }
-/************* END UPDATING Y AXIS */
 
 // Update bar Chart
 function updateEverything() {
@@ -385,16 +380,12 @@ function updateEverything() {
     updBarChart();
     updateMap();
 }
-
 /************************************************* LEAFLET ***************************************************************/
-// Array of coordinates for Global Areas
-
 // Function to scale circles on Map
 var mapScale = d3.scaleLinear()
 .domain(d3.extent(datasetMap, obj => obj.value))
 .range([2000, 5000]);
 
-// Create a map object
 // Function to determine marker size based on immigration
 function markerSize(value) {
     var result = mapScale(value);
@@ -414,15 +405,13 @@ function returnAreaLonLat(area) {
     }, []);
 }
 
-// Define arrays to hold created city and state markers
+// Define markers
 var markers = [];
-
 function mountMarkers(markers) {
     
-    // 
     if (currGlobal === "Global Areas") {
         for (var i = 0; i < datasetMap.length; i++) {
-            // Setting the marker radius for the state by passing immigration into the markerSize function
+            // Setting the marker radius for Global Areas
             markers.push(
                 L.circle(returnAreaLonLat(datasetMap[i].areaname), {
                 stroke: false,
@@ -437,7 +426,7 @@ function mountMarkers(markers) {
         }
     } else { 
         for (var j = 0; j < datasetMap.length; j++) {
-            // Setting the marker radius for the state by passing immigration into the markerSize function
+            // Setting the marker radius for Countries
             markers.push(
                 L.circle( [datasetMap[j].lat, datasetMap[j].lon], {
                 stroke: false,
@@ -454,7 +443,7 @@ function mountMarkers(markers) {
     }
 }
 
-// Define variables for our base layers
+// Define our base layers
 var streetmap = L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}", {
     attribution: "Map data &copy; <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> contributors, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, Imagery © <a href=\"https://www.mapbox.com/\">Mapbox</a>",
     maxzoom: 28,
@@ -496,8 +485,10 @@ var layerControl = L.control.layers(baseMaps, null, {
 // UPDATE MAP 
 // ======================
 function updateMap() {
-
+    
+    // Update the dataset according with current filters 
     datasetMap = filterDataMap( );
+
     // Clean last markers
     myMap.remove();
     markers = [];

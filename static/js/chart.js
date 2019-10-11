@@ -5,14 +5,6 @@ var config = {
     type: 'line',
     data: {
         labels: years
-        // Lets decide if it is better starts with the total or not.
-        // ,datasets: [{
-        //     label: 'Total',
-        //     data: total,
-        //     backgroundColor: 'rgba(54, 162, 235, 0.2)',
-        //     borderColor: 'rgb(54, 162, 235)',
-        //     borderWidth: 1
-        // }]
     },
     options: {
         responsive:false,
