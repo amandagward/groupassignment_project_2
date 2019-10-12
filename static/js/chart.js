@@ -99,6 +99,7 @@ function addTotal() {
 }
 
 // Reset datasets
+// ==============
 document.getElementById('reset').addEventListener('click', function() {
     // Remove datasets from chart
     config.data.datasets.splice(0, config.data.datasets.length);
