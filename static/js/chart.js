@@ -8,11 +8,22 @@ var config = {
     },
     options: {
         responsive:false,
+        tooltips: {
+            callbacks: {
+                label: function(tooltipItem, data) {
+                    return " Immigration: " + tooltipItem.yLabel.toLocaleString();
+                }
+            }
+        },
         scales: {
-            
             yAxes: [{
                 ticks: {
-                    beginAtZero: true
+                    beginAtZero: true,
+                    callback: function(label, index, labels) { return (label > 499) ? label/1000 + 'K' : label; },
+                    scaleLabel: {
+                        display: true,
+                        labelString: '1K = 1000'
+                    }
                 }
             }]
         }
