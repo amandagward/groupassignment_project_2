@@ -1,9 +1,6 @@
-// Force colapse hide when Portfolio menu link is clicked 
-$(".migration").click( function (index) {
-  $(".navbar-collapse").collapse('hide');
-});
+/* jshint esversion: 6 */
 
-/* To detect when window is resized */
+/* Detect when window is resized */
 $(window).resize(function() {
   var icon = "<span class='fas fa-globe-americas fa-fw fa-lg' style='color:#1a4f98'></span>";
   if ($(document).width()<=820)  {
@@ -13,52 +10,30 @@ $(window).resize(function() {
   }
 });
 
-
-// jQuery to control pages
-$( ".dropdown-item" ).each(function( ) {
-    $( this ).click( function (index) {
-      if ($.trim(this.textContent) == 'Global Areas') {
-        $("#map-container").addClass('hide-this-thing');
-        $("#top5countries").addClass('hide-this-thing');
-        $("#top10countries").addClass('hide-this-thing');
-        $("#summary").addClass('hide-this-thing');
-        $("#global_areas").removeClass('hide-this-thing');
-      } else if ($.trim(this.textContent) == 'Top 5 Countries') { 
-        $("#map-container").addClass('hide-this-thing');
-        $("#global_areas").addClass('hide-this-thing');
-        $("#top10countries").addClass('hide-this-thing');
-        $("#summary").addClass('hide-this-thing');
-        $("#top5countries").removeClass('hide-this-thing');
-      } else if ($.trim(this.textContent) == 'Top 10 Countries') { 
-        $("#map-container").addClass('hide-this-thing');
-        $("#global_areas").addClass('hide-this-thing');
-        $("#top5countries").addClass('hide-this-thing');
-        $("#summary").addClass('hide-this-thing');
-        $("#top10countries").removeClass('hide-this-thing');
-      } else if ($.trim(this.textContent) == 'Bonus') { 
-        $("#map-container").addClass('hide-this-thing');
-        $("#global_areas").addClass('hide-this-thing');
-        $("#top5countries").addClass('hide-this-thing');
-        $("#top10countries").addClass('hide-this-thing');
-        $("#summary").removeClass('hide-this-thing');
-      } 
+// Set visible/unvisible to pages according with menu selected
+changeMenu = ( idToBeVisible ) => {
+  $('.page').each( function ( ) { 
+    var curId = "#" + $(this).prop('id');
+    if ( curId != idToBeVisible ) {
+      $(this).addClass('hide-this-thing');
+    } else {
+      $(this).removeClass('hide-this-thing');
+    }
     $(".navbar-collapse").collapse('hide');
-    });
   });
+};
 
-$( ".nav-item" ).each(function( ) {
-    $( this ).click( function (index) {
-      if ( $('.nav-item').index(this) != 1) {
-        $(".navbar-collapse").collapse('hide');
-      }
-    });
+// Get the selected menu
+$(document).ready(function() {
+  $( ".dropdown-item" ).click( function (index) {
+    changeMenu( $(this).attr('href') );
+  });
 });
 
+// Get the click to come back to main page.
 $(".migration").click( function (index) {
-  $("#global_areas").addClass('hide-this-thing');
-  $("#top5countries").addClass('hide-this-thing');
-  $("#top10countries").addClass('hide-this-thing');
-  $("#summary").addClass('hide-this-thing');
-  $("#map-container").removeClass('hide-this-thing');
+  changeMenu( $(this).attr('href') );
+  // Force menu colapse hide when Portfolio link is clicked 
+  $(".navbar-collapse").collapse('hide');
 });
 
