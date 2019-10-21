@@ -220,6 +220,9 @@ label {
 	text-align: center;
 }
 
+
+
+
 @media screen and (max-width: 991px) {
 
 	.navbar .migration {
@@ -233,6 +236,9 @@ label {
 		padding: 1% 5% 1% 5%;
 	} 
 
+	.col-12 {
+		margin-bottom: 50px; 
+	}	
 }
 
 
@@ -241,4 +247,5 @@ label {
 	.navbar .migration {
 		font-size: 1.3rem;
 	}
+
 }
