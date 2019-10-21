@@ -219,3 +219,26 @@ label {
 	font-size: 1rem;
 	text-align: center;
 }
+
+@media screen and (max-width: 991px) {
+
+	.navbar .migration {
+		margin-left: 0px!important;
+	}
+
+	.navbar-collapse {
+		background-color: white;
+		margin-left: -20px;
+		margin-right: -20px;
+		padding: 1% 5% 1% 5%;
+	} 
+
+}
+
+
+@media screen and (max-width: 500px) {
+
+	.navbar .migration {
+		font-size: 1.3rem;
+	}
+}
