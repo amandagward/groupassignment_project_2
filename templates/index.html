@@ -32,7 +32,7 @@
                 <li class="nav-item"></li>
             </ul>
             <form class="form-inline float-right my-2 my-lg-0">
-                <ul class="navbar-nav mr-auto">
+                <ul class="navbar-nav mr-auto" id="menus">
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle text-info" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             <span class="fas fa-chart-line fa-fw fa-lg"></span>
@@ -70,7 +70,7 @@
         </div>
     </nav>
       
-    <div class="padding" id ="map-container">
+    <div class="padding page " id ="map-container">
         <div class="px-4">
             <div class="row justify-content-md-center">
                 <!-- Bar Chart Area -->
@@ -114,25 +114,25 @@
     <script type="text/javascript" src="../static/js/config.js"></script>
     <script type="text/javascript" src="../static/js/app.js"></script>
 
-    <div id="global_areas" class="hide-this-thing container-fluid d-flex flex-column justify-content-center align-items-center">
+    <div id="global_areas" class="page hide-this-thing container-fluid d-flex flex-column justify-content-center align-items-center">
         <div class="text-center mt-5 pt-5">
             <h4 class="text-info mb-5"><span class="fas fa-globe"></span> Global Areas</h4>
             {{ tables[0].html_table | safe }}
         </div>
     </div>
-    <div id="top5countries" class="hide-this-thing container-fluid d-flex flex-column justify-content-center align-items-center">
+    <div id="top5countries" class="page hide-this-thing container-fluid d-flex flex-column justify-content-center align-items-center">
         <div class="text-center mt-5 pt-5">
             <h4 class="text-info mb-5"><span class="fas fa-trophy fa-fw fa-lg"></span> Top 5 Countries </h4>
             {{ tables[1].html_table | safe }}
         </div>
     </div>
-    <div id="top10countries" class="hide-this-thing container-fluid d-flex flex-column justify-content-center align-items-center">
+    <div id="top10countries" class="page hide-this-thing container-fluid d-flex flex-column justify-content-center align-items-center">
         <div class="text-center mt-5 pt-5">
             <h4 class="text-info mb-5"><span class="fas fa-medal fa-fw fa-lg"></span> Top 10 Countries</h4>
             {{ tables[2].html_table | safe }}
         </div>
     </div>
-    <div id="summary" class="hide-this-thing container-fluid d-flex flex-column justify-content-center align-items-center">
+    <div id="summary" class="page hide-this-thing container-fluid d-flex flex-column justify-content-center align-items-center">
         <div class="text-center mt-4 pt-5">
             <h4 class="text-info mb-2"><span class="fas fa-chart-line fa-fw fa-lg"></span> Immigration Summary</h4>
             <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.min.js"></script>
