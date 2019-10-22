@@ -220,17 +220,24 @@ label {
 	text-align: center;
 }
 
-
-
-
 @media screen and (max-width: 991px) {
 
 	.navbar .migration {
 		margin-left: 0px!important;
 	}
 
+	.float-right {
+		float: none!important;
+	}	
+
+	.navbar form {
+		background: #FFFFFF;
+		padding-left: 10px;
+		border-radius: 2px;
+		padding-top: 5px;
+	}
 	.navbar-collapse {
-		background-color: white;
+		background-color: #008b8b; 
 		margin-left: -20px;
 		margin-right: -20px;
 		padding: 1% 5% 1% 5%;
